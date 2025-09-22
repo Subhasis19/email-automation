@@ -36,6 +36,8 @@ import socket
 from datetime import datetime
 from pathlib import Path
 from copy import deepcopy
+from email.utils import formataddr
+
 
 # Optional dependency: pandas (can be helpful for larger CSVs)
 try:
@@ -243,6 +245,52 @@ def attach_file_to_message(msg: EmailMessage, filepath: str):
         subtype = "pdf"
     msg.add_attachment(data, maintype=maintype, subtype=subtype, filename=p.name)
 
+# def send_email(
+#     gmail_user: str,
+#     gmail_app_pass: str,
+#     to_email: str,
+#     subject: str,
+#     body: str,
+#     attachment_path: Optional[str] = None,
+#     dry_run: bool = True,
+#     smtp_host: str = "smtp.gmail.com",
+#     smtp_port: int = 587,
+#     max_retries: int = 3,
+#     retry_backoff: float = 2.0
+# ) -> Tuple[bool, str]:
+#     """
+#     Build and (optionally) send an email message via Gmail SMTP.
+#     Returns (success, message)
+#     If dry_run=True, does not open SMTP connection but validates everything and prints a preview.
+#     """
+#     msg = EmailMessage()
+#     msg["From"] = gmail_user
+#     msg["To"] = to_email
+#     msg["Subject"] = subject
+#     msg.set_content(body)
+
+#     # Attach the resume if present
+#     if attachment_path:
+#         try:
+#             attach_file_to_message(msg, attachment_path)
+#         except Exception as e:
+#             return (False, f"Attachment error: {e}")
+
+#     # Dry-run: show preview & return
+#     if dry_run:
+#         logger.info("----- DRY RUN: EMAIL PREVIEW -----")
+#         logger.info(f"To: {to_email}")
+#         logger.info(f"Subject: {subject}")
+#         truncated_body = (body[:1000] + "...") if len(body) > 1000 else body
+#         logger.info(f"Body (first 1000 chars):\n{truncated_body}")
+#         if attachment_path:
+#             logger.info(f"Attachment: {attachment_path} (exists: {os.path.exists(attachment_path)})")
+#         logger.info("----- END PREVIEW -----")
+#         return (True, "dry-run previewed")
+
+
+from email.utils import formataddr
+
 def send_email(
     gmail_user: str,
     gmail_app_pass: str,
@@ -258,33 +306,51 @@ def send_email(
 ) -> Tuple[bool, str]:
     """
     Build and (optionally) send an email message via Gmail SMTP.
-    Returns (success, message)
-    If dry_run=True, does not open SMTP connection but validates everything and prints a preview.
     """
     msg = EmailMessage()
-    msg["From"] = gmail_user
+
+    # Use a friendly display name in From
+    sender_name = "Subhasis Samantasinghar"  # change to your display name
+    msg["From"] = formataddr((sender_name, gmail_user))
     msg["To"] = to_email
     msg["Subject"] = subject
-    msg.set_content(body)
 
-    # Attach the resume if present
+    # Ensure we always have a non-empty plain-text body
+    plain_body = body.strip() or ("Hello,\n\nPlease find my resume attached.\n\nRegards,\n" + sender_name)
+
+    # Add plain text
+    msg.set_content(plain_body)
+
+    # Add an HTML alternative (optional; keep it simple)
+    html_body = f"""\
+    <html>
+      <body>
+        <p>{plain_body.replace('\n','<br>')}</p>
+        <p>Regards,<br><strong>{sender_name}</strong></p>
+      </body>
+    </html>
+    """
+    msg.add_alternative(html_body, subtype="html")
+
+    # Attach resume (attachment after body is fine)
     if attachment_path:
         try:
             attach_file_to_message(msg, attachment_path)
         except Exception as e:
             return (False, f"Attachment error: {e}")
 
-    # Dry-run: show preview & return
+    # Dry-run preview
     if dry_run:
         logger.info("----- DRY RUN: EMAIL PREVIEW -----")
         logger.info(f"To: {to_email}")
+        logger.info(f"From: {msg['From']}")
         logger.info(f"Subject: {subject}")
-        truncated_body = (body[:1000] + "...") if len(body) > 1000 else body
-        logger.info(f"Body (first 1000 chars):\n{truncated_body}")
-        if attachment_path:
-            logger.info(f"Attachment: {attachment_path} (exists: {os.path.exists(attachment_path)})")
+        logger.info("Body (plain):\n" + (plain_body[:1000] + "..." if len(plain_body) > 1000 else plain_body))
         logger.info("----- END PREVIEW -----")
         return (True, "dry-run previewed")
+
+    # ... (the rest of the function stays the same: SMTP connect, retries, send_message)
+
 
     # Live send: connect to SMTP, with simple retry/backoff
     attempt = 0
