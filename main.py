@@ -70,83 +70,86 @@ logger = logging.getLogger("email_automation")
 # Utility functions
 # ---------------------------
 
-# def read_csv(path: str) -> List[Dict[str, str]]:
-#     """
-#     Read CSV and return list of dict rows. Tries pandas if available (preserves types).
-#     Expects header row with columns at least: SNo, Name, Email, Title, Company
-#     """
-#     if not os.path.exists(path):
-#         raise FileNotFoundError(f"CSV file not found: {path}")
-
-#     logger.info(f"Reading CSV: {path}")
-#     rows = []
-#     if HAS_PANDAS:
-#         df = pd.read_csv(path, dtype=str).fillna("")
-#         for _, r in df.iterrows():
-#             rows.append({k: ("" if pd.isna(v) else str(v)) for k, v in r.items()})
-#     else:
-#         with open(path, newline='', encoding='utf-8') as f:
-#             reader = csv.DictReader(f)
-#             for r in reader:
-#                 # convert None to empty string
-#                 rows.append({k: (v if v is not None else "") for k, v in r.items()})
-#     logger.info(f"Found {len(rows)} rows in CSV")
-#     return rows
-
 def read_csv(path: str) -> List[Dict[str, str]]:
     """
-    Robust reader: normalizes tabs -> commas, removes trailing spaces after commas in header,
-    then uses csv.DictReader with utf-8-sig. Keeps fallback parsing if needed.
+    Read CSV and return list of dict rows. Tries pandas if available (preserves types).
+    Expects header row with columns at least: SNo, Name, Email, Title, Company
     """
-    import io
-    import re
-    from csv import DictReader, Sniffer
-
     if not os.path.exists(path):
         raise FileNotFoundError(f"CSV file not found: {path}")
 
     logger.info(f"Reading CSV: {path}")
-
-    # Read raw text and normalize common issues:
-    with open(path, "r", encoding="utf-8-sig", newline="") as f:
-        raw = f.read()
-
-    # Normalize tabs => commas
-    normalized = raw.replace("\t", ",")
-
-    # Replace comma + many spaces => single comma
-    normalized = re.sub(r",\s+", ",", normalized)
-
-    # Optionally write to a temporary StringIO for parsing
-    from io import StringIO
-    sio = StringIO(normalized)
-
-    # Let csv.Sniffer guess delimiter (should be comma now)
-    sample = normalized[:8192]
-    delimiter = ","
-    try:
-        from csv import Sniffer
-        dialect = Sniffer().sniff(sample)
-        delimiter = dialect.delimiter
-        logger.info(f"csv.Sniffer detected delimiter: '{delimiter}'")
-    except Exception:
-        logger.warning("csv.Sniffer could not detect delimiter; defaulting to comma")
-
-    # Use DictReader on normalized content
-    sio.seek(0)
-    reader = DictReader(sio, delimiter=delimiter)
-    # Normalize headers
-    if reader.fieldnames:
-        reader.fieldnames = [fn.strip().replace("\ufeff", "") for fn in reader.fieldnames]
-        logger.info(f"CSV headers (normalized): {reader.fieldnames}")
-
     rows = []
-    for r in reader:
-        normalized_row = { (k.strip().replace("\ufeff","") if k else ""): (v.strip() if v is not None else "") for k, v in r.items() }
-        rows.append(normalized_row)
-
-    logger.info(f"Found {len(rows)} rows in CSV (after normalization)")
+    if HAS_PANDAS:
+        df = pd.read_csv(path, dtype=str).fillna("")
+        for _, r in df.iterrows():
+            rows.append({k: ("" if pd.isna(v) else str(v)) for k, v in r.items()})
+    else:
+        with open(path, newline='', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for r in reader:
+                # convert None to empty string
+                rows.append({k: (v if v is not None else "") for k, v in r.items()})
+    logger.info(f"Found {len(rows)} rows in CSV")
     return rows
+
+
+# new code 
+# ---------------------------++++--------------------------
+# def read_csv(path: str) -> List[Dict[str, str]]:
+#     """
+#     Robust reader: normalizes tabs -> commas, removes trailing spaces after commas in header,
+#     then uses csv.DictReader with utf-8-sig. Keeps fallback parsing if needed.
+#     """
+#     import io
+#     import re
+#     from csv import DictReader, Sniffer
+
+#     if not os.path.exists(path):
+#         raise FileNotFoundError(f"CSV file not found: {path}")
+
+#     logger.info(f"Reading CSV: {path}")
+
+#     # Read raw text and normalize common issues:
+#     with open(path, "r", encoding="utf-8-sig", newline="") as f:
+#         raw = f.read()
+
+#     # Normalize tabs => commas
+#     normalized = raw.replace("\t", ",")
+
+#     # Replace comma + many spaces => single comma
+#     normalized = re.sub(r",\s+", ",", normalized)
+
+#     # Optionally write to a temporary StringIO for parsing
+#     from io import StringIO
+#     sio = StringIO(normalized)
+
+#     # Let csv.Sniffer guess delimiter (should be comma now)
+#     sample = normalized[:8192]
+#     delimiter = ","
+#     try:
+#         from csv import Sniffer
+#         dialect = Sniffer().sniff(sample)
+#         delimiter = dialect.delimiter
+#         logger.info(f"csv.Sniffer detected delimiter: '{delimiter}'")
+#     except Exception:
+#         logger.warning("csv.Sniffer could not detect delimiter; defaulting to comma")
+
+#     # Use DictReader on normalized content
+#     sio.seek(0)
+#     reader = DictReader(sio, delimiter=delimiter)
+#     # Normalize headers
+#     if reader.fieldnames:
+#         reader.fieldnames = [fn.strip().replace("\ufeff", "") for fn in reader.fieldnames]
+#         logger.info(f"CSV headers (normalized): {reader.fieldnames}")
+
+#     rows = []
+#     for r in reader:
+#         normalized_row = { (k.strip().replace("\ufeff","") if k else ""): (v.strip() if v is not None else "") for k, v in r.items() }
+#         rows.append(normalized_row)
+
+#     logger.info(f"Found {len(rows)} rows in CSV (after normalization)")
+#     return rows
 
 
 def validate_row(row: Dict[str, str], required_fields: List[str]) -> Tuple[bool, List[str]]:
