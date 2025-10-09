@@ -70,32 +70,29 @@ logger = logging.getLogger("email_automation")
 # Utility functions
 # ---------------------------
 
-def read_csv(path: str) -> List[Dict[str, str]]:
-    """
-    Read CSV and return list of dict rows. Tries pandas if available (preserves types).
-    Expects header row with columns at least: SNo, Name, Email, Title, Company
-    """
-    if not os.path.exists(path):
-        raise FileNotFoundError(f"CSV file not found: {path}")
+# def read_csv(path: str) -> List[Dict[str, str]]:
+#     """
+#     Read CSV and return list of dict rows. Tries pandas if available (preserves types).
+#     Expects header row with columns at least: SNo, Name, Email, Title, Company
+#     """
+#     if not os.path.exists(path):
+#         raise FileNotFoundError(f"CSV file not found: {path}")
 
-    logger.info(f"Reading CSV: {path}")
-    rows = []
-    if HAS_PANDAS:
-        df = pd.read_csv(path, dtype=str).fillna("")
-        for _, r in df.iterrows():
-            rows.append({k: ("" if pd.isna(v) else str(v)) for k, v in r.items()})
-    else:
-        with open(path, newline='', encoding='utf-8') as f:
-            reader = csv.DictReader(f)
-            for r in reader:
-                # convert None to empty string
-                rows.append({k: (v if v is not None else "") for k, v in r.items()})
-    logger.info(f"Found {len(rows)} rows in CSV")
-    return rows
+#     logger.info(f"Reading CSV: {path}")
+#     rows = []
+#     if HAS_PANDAS:
+#         df = pd.read_csv(path, dtype=str).fillna("")
+#         for _, r in df.iterrows():
+#             rows.append({k: ("" if pd.isna(v) else str(v)) for k, v in r.items()})
+#     else:
+#         with open(path, newline='', encoding='utf-8') as f:
+#             reader = csv.DictReader(f)
+#             for r in reader:
+#                 # convert None to empty string
+#                 rows.append({k: (v if v is not None else "") for k, v in r.items()})
+#     logger.info(f"Found {len(rows)} rows in CSV")
+#     return rows
 
-
-# new code 
-# ---------------------------++++--------------------------
 # def read_csv(path: str) -> List[Dict[str, str]]:
 #     """
 #     Robust reader: normalizes tabs -> commas, removes trailing spaces after commas in header,
@@ -150,6 +147,107 @@ def read_csv(path: str) -> List[Dict[str, str]]:
 
 #     logger.info(f"Found {len(rows)} rows in CSV (after normalization)")
 #     return rows
+
+
+
+
+# new code 
+
+def read_csv(path: str) -> List[Dict[str, str]]:
+    """
+    Robust CSV reader:
+    - Reads file with utf-8-sig (handles BOM)
+    - Normalizes tabs to commas
+    - Uses csv.Sniffer but validates the detected delimiter (single non-whitespace char)
+    - Falls back to comma or whitespace-based parsing if needed
+    - Returns list of dict rows with normalized headers/values
+    """
+    import re
+    from csv import DictReader, Sniffer
+
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"CSV file not found: {path}")
+
+    logger.info(f"Reading CSV: {path}")
+
+    # Read raw text with utf-8-sig to remove BOM if present
+    with open(path, "r", encoding="utf-8-sig", newline="") as f:
+        raw = f.read()
+
+    if not raw:
+        logger.warning("CSV file is empty")
+        return []
+
+    # Quick normalization: convert tabs => commas (helps many pasted/tab-exported files)
+    normalized = raw.replace("\t", ",")
+
+    # Collapse sequences like ",   " to ","
+    normalized = re.sub(r",\s+", ",", normalized)
+
+    # Prepare a sample for Sniffer
+    sample = normalized[:8192]
+
+    # Default delimiter
+    delimiter = ","
+
+    # Try to detect delimiter safely
+    try:
+        sniffer = Sniffer()
+        dialect = sniffer.sniff(sample)
+        detected = dialect.delimiter
+        # Validate detected delimiter: must be a single character and not whitespace
+        if isinstance(detected, str) and len(detected) == 1 and not detected.isspace():
+            delimiter = detected
+            logger.info(f"csv.Sniffer detected delimiter: '{delimiter}'")
+        else:
+            logger.warning(f"csv.Sniffer returned invalid delimiter: {repr(detected)}; falling back to comma")
+            delimiter = ","
+    except Exception:
+        logger.warning("csv.Sniffer could not detect delimiter; defaulting to comma")
+
+    # Try using DictReader with the sanitized delimiter
+    from io import StringIO
+    sio = StringIO(normalized)
+    try:
+        reader = DictReader(sio, delimiter=delimiter)
+    except Exception as e:
+        # If DictReader rejects the delimiter, fall back to whitespace-splitting parser
+        logger.warning(f"DictReader rejected delimiter={repr(delimiter)}: {e}. Falling back to whitespace parser.")
+        lines = [ln for ln in raw.splitlines() if ln.strip() != ""]
+        if not lines:
+            return []
+        headers = re.split(r"(?:\t|\s{2,})+", lines[0].strip())
+        headers = [h.strip().replace("\ufeff", "") for h in headers]
+        rows = []
+        for line in lines[1:]:
+            parts = re.split(r"(?:\t|\s{2,})+", line.strip())
+            if len(parts) < len(headers):
+                parts += [""] * (len(headers) - len(parts))
+            elif len(parts) > len(headers):
+                parts = parts[:len(headers)]
+            rows.append({headers[i]: parts[i].strip() for i in range(len(headers))})
+        logger.info(f"Found {len(rows)} rows in CSV (fallback parsing)")
+        return rows
+
+    # Normalize headers
+    if reader.fieldnames:
+        reader.fieldnames = [fn.strip().replace("\ufeff", "") for fn in reader.fieldnames]
+        logger.info(f"CSV headers (normalized): {reader.fieldnames}")
+
+    rows: List[Dict[str, str]] = []
+    for r in reader:
+        normalized_row = {}
+        for k, v in r.items():
+            if k is None:
+                continue
+            new_k = k.strip().replace("\ufeff", "")
+            new_v = (v.strip() if v is not None else "")
+            normalized_row[new_k] = new_v
+        rows.append(normalized_row)
+
+    logger.info(f"Found {len(rows)} rows in CSV (after normalization)")
+    return rows
+
 
 
 def validate_row(row: Dict[str, str], required_fields: List[str]) -> Tuple[bool, List[str]]:
