@@ -49,7 +49,7 @@ except Exception:
 # ---------------------------
 # Configuration defaults
 # ---------------------------
-DEFAULT_CSV_PATH = "hr.csv"
+DEFAULT_CSV_PATH = "hr_list.csv"
 DEFAULT_RESUME_PATH = "resume.pdf"
 DEFAULT_LOG_PATH = "send_log.csv"
 DEFAULT_TEMPLATE_PATH = "new_email_template.txt"
