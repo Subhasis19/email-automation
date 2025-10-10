@@ -89,3 +89,56 @@ timestamp,SNo,Name,Email,Company,Title,status,message
 2025-09-21T11:51:19.811931,4,Subhasis 4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,sent,sent
 2025-09-21T11:52:24.832338,5,Subhasis 5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,sent,sent
 2025-09-21T11:53:29.904596,6,Subhasis 6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,sent,sent
+2025-09-22T19:43:36.793942,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,sent,sent
+2025-09-22T19:44:42.583938,2,Subhasis 2,xsubhasis1@gmail.com,AnotherCo,Technical Recruiter,sent,sent
+2025-09-22T19:45:47.905728,3,Subhasis 3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,sent,sent
+2025-09-22T19:46:53.483965,4,Subhasis 4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,sent,sent
+2025-09-22T19:47:58.959039,5,Subhasis 5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,sent,sent
+2025-09-22T19:49:04.163640,6,Subhasis 6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,sent,sent
+2025-09-22T20:10:55.726826,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,sent,sent
+2025-09-22T20:18:57.486497,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,sent,sent
+2025-09-22T20:24:40.106186,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,sent,sent
+2025-09-22T20:25:43.704472,2,Suraj,surajparida9191@gmail.com,Rand,Technical Recruiter,sent,sent
+2025-09-27T06:00:41.343540,1,,,,,skipped,Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Missing required field 'Company'; Email is empty
+2025-09-27T06:00:41.349009,,,,,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Missing required field 'Company'; Email is empty
+2025-09-27T06:00:41.350363,3,,,,,skipped,Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Missing required field 'Company'; Email is empty
+2025-09-27T06:00:41.351901,4,,,,,skipped,Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Missing required field 'Company'; Email is empty
+2025-09-27T06:00:41.353280,5,,,,,skipped,Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Missing required field 'Company'; Email is empty
+2025-09-27T06:00:41.354624,6,,,,,skipped,Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Missing required field 'Company'; Email is empty
+2025-09-27T06:00:41.355750,7,,,,,skipped,Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Missing required field 'Company'; Email is empty
+2025-10-07T11:49:17.474881,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,previewed,dry-run previewed
+2025-10-07T11:49:20.477426,,,,3,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Email is empty
+2025-10-07T11:49:20.490529,4,Subhasis  3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,previewed,dry-run previewed
+2025-10-07T11:49:23.497638,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,previewed,dry-run previewed
+2025-10-07T11:49:26.503906,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,previewed,dry-run previewed
+2025-10-07T11:49:29.510745,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,previewed,dry-run previewed
+2025-10-07T11:53:47.326523,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,sent,sent
+2025-10-07T11:54:47.327529,,,,3,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Email is empty
+2025-10-07T11:54:53.201964,4,Subhasis  3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,sent,sent
+2025-10-07T11:55:58.535095,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,sent,sent
+2025-10-07T11:57:04.039200,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,sent,sent
+2025-10-07T11:58:09.249097,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,sent,sent
+2025-10-09T17:28:22.580206,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,previewed,dry-run previewed
+2025-10-09T17:28:25.582052,,,,3,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Email is empty
+2025-10-09T17:28:25.589191,4,Subhasis  3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,previewed,dry-run previewed
+2025-10-09T17:28:28.595707,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,previewed,dry-run previewed
+2025-10-09T17:28:31.603448,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,previewed,dry-run previewed
+2025-10-09T17:28:34.610307,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,previewed,dry-run previewed
+2025-10-09T17:29:15.847483,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,sent,sent
+2025-10-09T17:30:15.848616,,,,3,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Email is empty
+2025-10-09T17:30:22.752755,4,Subhasis  3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,sent,sent
+2025-10-09T17:31:28.715425,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,sent,sent
+2025-10-09T17:32:37.440116,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,sent,sent
+2025-10-09T17:33:43.619941,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,sent,sent
+2025-10-10T07:40:44.123696,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,previewed,dry-run previewed
+2025-10-10T07:40:47.126540,,,,3,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Email is empty
+2025-10-10T07:40:47.138811,4,Subhasis  3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,previewed,dry-run previewed
+2025-10-10T07:40:50.152187,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,previewed,dry-run previewed
+2025-10-10T07:40:53.169237,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,previewed,dry-run previewed
+2025-10-10T07:40:56.180778,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,previewed,dry-run previewed
+2025-10-10T07:41:53.646208,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,sent,sent
+2025-10-10T07:42:53.648297,,,,3,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Email is empty
+2025-10-10T07:42:58.734590,4,Subhasis  3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,sent,sent
+2025-10-10T07:44:04.109851,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,sent,sent
+2025-10-10T07:45:09.242092,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,sent,sent
+2025-10-10T07:46:16.417110,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,sent,sent

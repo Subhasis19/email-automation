@@ -2,11 +2,13 @@ Subject: Quick question about {Company} — {Name}
 
 Hello {Name},
 
-I hope you're doing well. I saw your profile and wanted to briefly reach out about opportunities at {Company} in {Title}-related roles.
+I hope you’re doing well. I came across your profile and wanted to reach out regarding potential opportunities at {Company} in software development or related roles.
 
-I've attached my resume for your review. If you're open to a short 10–15 minute conversation, please let me know a time that suits you.
+I’ve attached my resume for your kind review. If possible, I’d really appreciate the chance to have a short 10–15 minute conversation to learn more about your team and how I might be a good fit.
 
-Thank you for your time,
+Thank you very much for your time and consideration. I truly appreciate it.
+
+Warm regards,
 Subhasis Samantasinghar
-Email: your.email@example.com
-LinkedIn: https://www.linkedin.com/in/yourprofile
+Email: subhasissamantasinghar1@gmail.com
+LinkedIn: https://www.linkedin.com/in/subhasis-samantasinghar/

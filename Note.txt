@@ -43,5 +43,9 @@ to run the code -->>
 $env:GMAIL_USER="subhasissamantasinghar1@gmail.com"
 $env:GMAIL_APP_PASS="tili vcmn nrwa ened"
 
+python main.py --csv sample_hr.csv --resume resume.pdf
 
 python main.py --csv sample_hr.csv --resume resume.pdf --send --emails-per-minute 1
+
+
+8888274449 bhushan 

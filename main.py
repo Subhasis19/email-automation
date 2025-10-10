@@ -49,10 +49,10 @@ except Exception:
 # ---------------------------
 # Configuration defaults
 # ---------------------------
-DEFAULT_CSV_PATH = "sample_hr.csv"
+DEFAULT_CSV_PATH = "hr.csv"
 DEFAULT_RESUME_PATH = "resume.pdf"
 DEFAULT_LOG_PATH = "send_log.csv"
-DEFAULT_TEMPLATE_PATH = "email_template.txt"
+DEFAULT_TEMPLATE_PATH = "new_email_template.txt"
 DEFAULT_CONFIG_JSON = "config.example.json"
 
 # Basic email regex for validation
