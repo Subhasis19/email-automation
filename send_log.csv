@@ -142,3 +142,1298 @@ timestamp,SNo,Name,Email,Company,Title,status,message
 2025-10-10T07:44:04.109851,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,sent,sent
 2025-10-10T07:45:09.242092,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,sent,sent
 2025-10-10T07:46:16.417110,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,sent,sent
+2025-10-10T15:50:06.663926,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,previewed,dry-run previewed
+2025-10-10T15:50:09.665756,,,,3,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Email is empty
+2025-10-10T15:50:09.673524,4,Subhasis  3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,previewed,dry-run previewed
+2025-10-10T15:50:12.683032,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,previewed,dry-run previewed
+2025-10-10T15:50:15.690589,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,previewed,dry-run previewed
+2025-10-10T15:50:18.698821,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,previewed,dry-run previewed
+2025-10-10T16:09:08.609218,1,Akanksha Puri,akanksha.puri@sourcefuse.com,SourceFuse Technologies,Associate Director HR,previewed,dry-run previewed
+2025-10-10T16:09:11.621031,2,Akanksha Sogani,akanksha.sogani@perennialsys.com,Perennial Systems,Head HR,previewed,dry-run previewed
+2025-10-10T16:09:14.632577,3,Akhil Jogiparthi,akhil@ibhubs.co,iB Hubs,Vice President - Talent Accelerator,previewed,dry-run previewed
+2025-10-10T16:09:17.642417,4,Akhila Chandan,akhila@estuate.com,"Estuate,",Associate Vice President Human Resources,previewed,dry-run previewed
+2025-10-10T16:09:20.652148,5,Akram Mohammad,akram.mohammad@colruytgroup.com,Colruyt India,Deputy Head Head HR,previewed,dry-run previewed
+2025-10-10T16:09:23.661659,6,Akriti,akriti@elsner.in,Elsner Technologies,HR-Head,previewed,dry-run previewed
+2025-10-10T16:09:26.671976,7,Akshata Bhandare,akshata.bhandare@windmill.ch,Windmill,"HR & Location Head,India",previewed,dry-run previewed
+2025-10-10T16:10:26.568301,1,Akanksha Puri,akanksha.puri@sourcefuse.com,SourceFuse Technologies,Associate Director HR,previewed,dry-run previewed
+2025-10-10T16:10:29.575220,2,Akanksha Sogani,akanksha.sogani@perennialsys.com,Perennial Systems,Head HR,previewed,dry-run previewed
+2025-10-10T16:10:32.585897,3,Akhil Jogiparthi,akhil@ibhubs.co,iB Hubs,Vice President - Talent Accelerator,previewed,dry-run previewed
+2025-10-10T16:10:35.596237,4,Akhila Chandan,akhila@estuate.com,"Estuate,",Associate Vice President Human Resources,previewed,dry-run previewed
+2025-10-10T16:10:38.607534,5,Akram Mohammad,akram.mohammad@colruytgroup.com,Colruyt India,Deputy Head Head HR,previewed,dry-run previewed
+2025-10-10T16:10:41.618010,6,Akriti,akriti@elsner.in,Elsner Technologies,HR-Head,previewed,dry-run previewed
+2025-10-10T16:10:44.629195,7,Akshata Bhandare,akshata.bhandare@windmill.ch,Windmill,"HR & Location Head,India",previewed,dry-run previewed
+2025-10-10T16:10:47.637513,8,Albino Mascarenhas,albino@pixis.ai,Pyxis One,Head - Human Resources Global,previewed,dry-run previewed
+2025-10-10T16:10:50.647487,9,Allwyn Richard,allwyn.r@qbrainx.com,QBrainX Inc,Head of Human Resources,previewed,dry-run previewed
+2025-10-10T16:10:53.654150,10,Alok Baghel,alok.singh@recro.io,Recro,Head Of Talent Management,previewed,dry-run previewed
+2025-10-10T16:10:56.661680,11,Alok Kumar,alok.kumar@vfislk.com,VFI SLK,"Operations Leader and Head Transitions,L&D",previewed,dry-run previewed
+2025-10-10T16:10:59.671882,12,Alwyn Barretto,alwyn.barretto@infrasofttech.com,Infrasoft Technologies,Head Recruitments,previewed,dry-run previewed
+2025-10-10T16:11:02.678989,13,Aman Khan,aman.khan@areteanstech.com,Areteans,Vice President Human Resources,previewed,dry-run previewed
+2025-10-10T16:11:05.689725,14,Amandeep Kaur,amandeep.k@antiersolutions.com,Antier Solutions,Sr. HR Executive (Technical Recruitment Head),previewed,dry-run previewed
+2025-10-10T16:11:08.699550,15,Amar Sinha,amar.sinha@nitorinfotech.com,Nitor Infotech,Director Talent Acquisition (People Function),previewed,dry-run previewed
+2025-10-10T16:11:11.706412,16,Ambrish Kanungo,ambrish.kanungo@beyondkey.com,Beyond Key,Head of HR,previewed,dry-run previewed
+2025-10-10T16:11:14.714697,17,Amiit Avaasthi,amiit.avaasthi@altudo.co,Altudo,Chief People Officer,previewed,dry-run previewed
+2025-10-10T16:11:17.725888,18,Amit,amit.malhotra@wundermanthompson.com,Wunderman Thompson MSC,Chief People Officer,previewed,dry-run previewed
+2025-10-10T16:11:20.733618,19,Amit Kataria,amit@hanu.com,Hanu Software,Chief Human Resources Officer,previewed,dry-run previewed
+2025-10-10T16:11:23.740787,20,Amit Prayagi,amit.prayagi@claimgenius.com,Claim Genius,Head Of Recruitment & HR Operation,previewed,dry-run previewed
+2025-10-10T16:11:26.750903,21,Amit Ranjan,amit.ranjan@scikey.ai,SCIKEY,Associate Director- Talent Solutions,previewed,dry-run previewed
+2025-10-10T16:11:29.757743,22,Amit Sahoo,amit.sahoo@areteanstech.com,Areteans,Vice President and Global Head - Human Resources,previewed,dry-run previewed
+2025-10-10T16:11:32.766395,23,Amita Shital,ashital@svam.com,SVAM International,Head of HR,previewed,dry-run previewed
+2025-10-10T16:11:35.773822,24,Amitesh Verma,amitesh.verma@cheersin.com,Cheers Interactive,"Associate Director,Talent Acquisition",previewed,dry-run previewed
+2025-10-13T15:40:52.761808,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,previewed,dry-run previewed
+2025-10-13T15:40:55.763825,,,,3,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Email is empty
+2025-10-13T15:40:55.769886,4,Subhasis  3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,previewed,dry-run previewed
+2025-10-13T15:40:58.776368,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,previewed,dry-run previewed
+2025-10-13T15:41:01.783004,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,previewed,dry-run previewed
+2025-10-13T15:41:04.789982,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,previewed,dry-run previewed
+2025-10-13T18:27:04.268531,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,previewed,dry-run previewed
+2025-10-13T18:27:07.270457,,,,3,,skipped,Missing required field 'SNo'; Missing required field 'Name'; Missing required field 'Email'; Missing required field 'Title'; Email is empty
+2025-10-13T18:27:07.277362,4,Subhasis  3,21020020@cgu-odisha.ac.in,Innovatek,HR Manager,previewed,dry-run previewed
+2025-10-13T18:27:10.283746,5,Subhasis  4,s.samantasinghar2@gmail.com,TechWave,Senior Recruiter,previewed,dry-run previewed
+2025-10-13T18:27:13.290731,6,Subhasis  5,subhasis.samantasinghar2@gmail.com,GlobalHR,HR Business Partner,previewed,dry-run previewed
+2025-10-13T18:27:16.298701,7,Subhasis  6,subhasissamantasinghar1@gmail.com,FutureWorks,Talent Acquisition Lead,previewed,dry-run previewed
+2025-10-13T18:27:43.769735,1,Subhasis 1,asubhasis2002@gmail.com,ExampleCorp,Head of Talent,sent,sent
+2025-10-13T18:29:46.622296,1,Akanksha Puri,akanksha.puri@sourcefuse.com,SourceFuse Technologies,Associate Director HR,previewed,dry-run previewed
+2025-10-13T18:29:49.629507,2,Akanksha Sogani,akanksha.sogani@perennialsys.com,Perennial Systems,Head HR,previewed,dry-run previewed
+2025-10-13T18:29:52.636222,3,Akhil Jogiparthi,akhil@ibhubs.co,iB Hubs,Vice President - Talent Accelerator,previewed,dry-run previewed
+2025-10-13T18:29:55.643298,4,Akhila Chandan,akhila@estuate.com,"Estuate,",Associate Vice President Human Resources,previewed,dry-run previewed
+2025-10-13T18:29:58.650237,5,Akram Mohammad,akram.mohammad@colruytgroup.com,Colruyt India,Deputy Head Head HR,previewed,dry-run previewed
+2025-10-13T18:30:01.658080,6,Akriti,akriti@elsner.in,Elsner Technologies,HR-Head,previewed,dry-run previewed
+2025-10-13T18:30:04.665441,7,Akshata Bhandare,akshata.bhandare@windmill.ch,Windmill,"HR & Location Head,India",previewed,dry-run previewed
+2025-10-13T18:30:07.671812,8,Albino Mascarenhas,albino@pixis.ai,Pyxis One,Head - Human Resources Global,previewed,dry-run previewed
+2025-10-13T18:30:10.678989,9,Allwyn Richard,allwyn.r@qbrainx.com,QBrainX Inc,Head of Human Resources,previewed,dry-run previewed
+2025-10-13T18:30:13.693281,10,Alok Baghel,alok.singh@recro.io,Recro,Head Of Talent Management,previewed,dry-run previewed
+2025-10-13T18:30:52.300299,1,Akanksha Puri,akanksha.puri@sourcefuse.com,SourceFuse Technologies,Associate Director HR,sent,sent
+2025-10-13T18:31:57.598050,2,Akanksha Sogani,akanksha.sogani@perennialsys.com,Perennial Systems,Head HR,sent,sent
+2025-10-13T18:33:03.087974,3,Akhil Jogiparthi,akhil@ibhubs.co,iB Hubs,Vice President - Talent Accelerator,sent,sent
+2025-10-13T18:34:08.321952,4,Akhila Chandan,akhila@estuate.com,"Estuate,",Associate Vice President Human Resources,sent,sent
+2025-10-13T18:35:13.706219,5,Akram Mohammad,akram.mohammad@colruytgroup.com,Colruyt India,Deputy Head Head HR,sent,sent
+2025-10-13T18:36:19.230592,6,Akriti,akriti@elsner.in,Elsner Technologies,HR-Head,sent,sent
+2025-10-13T18:37:24.604193,7,Akshata Bhandare,akshata.bhandare@windmill.ch,Windmill,"HR & Location Head,India",sent,sent
+2025-10-13T18:38:30.211817,8,Albino Mascarenhas,albino@pixis.ai,Pyxis One,Head - Human Resources Global,sent,sent
+2025-10-13T18:42:52.598894,9,Allwyn Richard,allwyn.r@qbrainx.com,QBrainX Inc,Head of Human Resources,sent,sent
+2025-10-13T18:43:28.222068,10,Alok Baghel,alok.singh@recro.io,Recro,Head Of Talent Management,sent,sent
+2025-10-13T18:44:04.407631,11,Alok Kumar,alok.kumar@vfislk.com,VFI SLK,"Operations Leader and Head Transitions,L&D",sent,sent
+2025-10-13T18:44:39.756958,12,Alwyn Barretto,alwyn.barretto@infrasofttech.com,Infrasoft Technologies,Head Recruitments,sent,sent
+2025-10-13T18:45:15.067142,13,Aman Khan,aman.khan@areteanstech.com,Areteans,Vice President Human Resources,sent,sent
+2025-10-13T18:45:50.406678,14,Amandeep Kaur,amandeep.k@antiersolutions.com,Antier Solutions,Sr. HR Executive (Technical Recruitment Head),sent,sent
+2025-10-13T18:46:25.687693,15,Amar Sinha,amar.sinha@nitorinfotech.com,Nitor Infotech,Director Talent Acquisition (People Function),sent,sent
+2025-10-13T18:47:00.813964,16,Ambrish Kanungo,ambrish.kanungo@beyondkey.com,Beyond Key,Head of HR,sent,sent
+2025-10-13T18:47:37.315679,17,Amiit Avaasthi,amiit.avaasthi@altudo.co,Altudo,Chief People Officer,sent,sent
+2025-10-13T18:48:13.186626,18,Amit,amit.malhotra@wundermanthompson.com,Wunderman Thompson MSC,Chief People Officer,sent,sent
+2025-10-13T18:48:48.691111,19,Amit Kataria,amit@hanu.com,Hanu Software,Chief Human Resources Officer,sent,sent
+2025-10-13T18:49:23.972600,20,Amit Prayagi,amit.prayagi@claimgenius.com,Claim Genius,Head Of Recruitment & HR Operation,sent,sent
+2025-10-13T18:49:59.101772,21,Amit Ranjan,amit.ranjan@scikey.ai,SCIKEY,Associate Director- Talent Solutions,sent,sent
+2025-10-13T18:50:34.643354,22,Amit Sahoo,amit.sahoo@areteanstech.com,Areteans,Vice President and Global Head - Human Resources,sent,sent
+2025-10-13T18:51:09.822155,23,Amita Shital,ashital@svam.com,SVAM International,Head of HR,sent,sent
+2025-10-13T18:51:46.108747,24,Amitesh Verma,amitesh.verma@cheersin.com,Cheers Interactive,"Associate Director,Talent Acquisition",sent,sent
+2025-10-13T18:52:21.225503,25,Amitha K,amitha.k@secure-24.com,Secure-24,Director- HR,sent,sent
+2025-10-13T18:52:56.391609,26,Amlan Nag,amlan.nag@mjunction.in,mjunction services,General Manager & Head HR,sent,sent
+2025-10-13T18:53:31.968810,27,Amresh Mehra,amreshm@zendrive.com,Zendrive,VP - People & Culture,sent,sent
+2025-10-13T18:54:07.590918,28,Amrita,akishore@dimagi.com,Dimagi,"Director of People Operations,India",sent,sent
+2025-10-13T18:54:42.710291,29,Amrita Cheema,amrita.cheema@loconav.com,LocoNav,Head HR - Global SaaS,sent,sent
+2025-10-13T18:55:17.967373,30,Amrita Singh,amrita.singh@cogentinfo.com,COGENT Infotech,Director - Recruitment & Delivery (US Staffing),sent,sent
+2025-10-13T18:55:53.123349,31,Amrita Singh,amrita.singh@itbd.net,IT BY DESIGN,Head HR (India),sent,sent
+2025-10-13T18:56:28.664291,32,Amrita Tripathi,amrita@sdnaglobal.com,Stanley David and Associates,"VP - India,ME and APAC HR",sent,sent
+2025-10-13T18:57:03.816662,33,Amritesh Shukla,amritesh.shukla@mygate.com,MyGate,Head Of Human Resources,sent,sent
+2025-10-13T18:57:39.263014,34,Amruta Urkude,amruta@greatplaceitservices.com,Great Place IT Services,HR Head (Generalist),sent,sent
+2025-10-13T18:58:14.476192,35,Amulya,amulya.ms@utthunga.com,Utthunga,Director HR,sent,sent
+2025-10-13T18:58:50.311005,36,Anand Christopher,anand.christopher@grassrootsbpo.com,Grassroots,Vice President Human Resources,sent,sent
+2025-10-13T18:59:25.362140,37,Anand E,anand.e@increff.com,Increff,Chief Human Resources Officer,sent,sent
+2025-10-13T19:00:00.755540,38,Anand K,ak@8kmiles.com,SecureKloud Technologies,Vice President Human Resources,sent,sent
+2025-10-13T19:00:36.171667,39,Anand Khot,anandk@pharmarack.com,Pharmarack,Chief Human Resources Officer,sent,sent
+2025-10-13T19:01:11.570649,40,Anand Rajendran,anand.r@whatarage.com,ADK Rage,Director - HR,sent,sent
+2025-10-13T19:01:46.914768,41,Anand Sasidharan,anand@hubilo.com,Hubilo,Head of Talent Acquisition,sent,sent
+2025-10-13T19:02:22.297639,42,Anand Sl,anand@auzmor.com,Auzmor,HR Director / Operations Head (India),sent,sent
+2025-10-13T19:02:57.834366,43,Anand Soni,anand@capsitech.com,Capsitech,Talent Acquisition Head,sent,sent
+2025-10-13T19:03:33.945786,44,Anand Thiagarajan,athiagarajan@inniveinc.com,Innive Inc,Vice President - Human Resources,sent,sent
+2025-10-13T19:04:09.428957,45,Anandhi Srinivasan,anandhi.s@dsmsoft.com,DSM SOFT,Associate Vice President - Human Resources,sent,sent
+2025-10-13T19:04:45.020132,46,Ananthram Iyer,ananthram.iyer@customercentria.com,Customer Centria,Vice President HR,sent,sent
+2025-10-13T19:05:20.671446,47,Anchal Rastogi,anrastogi@enhanceit.com,Enhance IT,AVP Recruitments,sent,sent
+2025-10-13T19:05:56.289418,48,Anchan Arasinaguppe,aarasina@teksystems.com,TEKsystems Global Services in India,Associate Director Talent Acquisition,sent,sent
+2025-10-13T19:06:31.844138,49,Angel Mathew,angel.mathew@delphix.com,Delphix,Human Resources Director,sent,sent
+2025-10-13T19:07:07.110707,50,Anil Chandra,anil.chandra@thoughtspot.com,ThoughtSpot,"Senior Director,Talent Acquisition",sent,sent
+2025-10-13T19:07:42.300068,51,Anil K,anil.k@corestack.io,CoreStack,Human Resources Director,sent,sent
+2025-10-13T19:08:17.695139,52,Anil Moturi,anil.moturi@solugenix.com,Solugenix,Director Talent Acquisition,sent,sent
+2025-10-13T19:08:54.349397,53,Anil Pereira,anil.pereira@visiblealpha.com,Visible Alpha,Senior Director Human Resources,sent,sent
+2025-10-13T19:09:30.116487,54,Anil Ramachandran,anil.kumar@flytxt.com,Flytxt,Head - Global HR,sent,sent
+2025-10-13T19:10:05.334712,55,Anil Tomar,anil.tomar@fdsindia.co.in,Fourth Dimension Solutions,HR Head,sent,sent
+2025-10-13T19:10:40.542073,56,Animesh Kumar,animesh.kumar@novopay.in,Novopay,"Head HR,Novopay",sent,sent
+2025-10-13T19:11:15.624044,57,Anindita Ranjan,anindita.ranjan@3ds.com,Dassault Systems,Director HR,sent,sent
+2025-10-13T19:11:51.441104,58,Anirban Chakravorty,anirban.chakravorty@nttdata.com,NTT DATA,Senior Director & Regional Head - Human Resources,sent,sent
+2025-10-13T19:12:27.079095,59,Anirban Ghosh,aghosh@trimaxamericas.com,Data Glove,Head - Human Resources Management,sent,sent
+2025-10-13T19:13:02.215861,60,Anirudhan Vasudevan,anirudhan.vasudevan@replicon.com,Replicon,Senior Director Human Resources,sent,sent
+2025-10-13T19:13:37.833323,61,Anish Ahmed,anish.ahmed@vaave.com,Vaave,Head-13x Talent,sent,sent
+2025-10-13T19:14:13.206707,62,Anish Raj,anish.raj@sentieo.com,Sentieo,Human Resources Director,sent,sent
+2025-10-13T19:14:49.692297,63,Anita Mourya,anita.mourya@capricot.com,Capricot Technologies,PS to Chairman / Director - HR,sent,sent
+2025-10-13T19:15:24.836664,64,Anita Noronha,anoronha@shorewise.com,ShoreWise Consulting,Global Head Human Resources,sent,sent
+2025-10-13T19:16:00.559117,65,Anita Sidhwani,asidhwani@cleo.com,Cleo,Head HR,sent,sent
+2025-10-13T19:16:36.422042,66,Anita Yadav,anita@appventurez.com,Appventurez,Global HR Head,sent,sent
+2025-10-13T19:17:11.709452,67,Anitha Davis,anitha.davis@incture.com,Incture,Associate Director - Talent Acquisition,sent,sent
+2025-10-13T19:17:46.819528,68,Anitha Prabhakar,anitha.prabhakar@pramati.com,Pramati Technologies,HR Director,sent,sent
+2025-10-13T19:18:22.443203,69,Anjali,anjali@knackforge.com,KnackForge,Vice President Human Resources & Operations,sent,sent
+2025-10-13T19:18:57.680570,70,Anjali Ghadge,anjalig@mangoapps.com,MangoApps,VP - HR & Operations I We're Hiring!,sent,sent
+2025-10-13T19:19:33.541228,71,Anjali Patil,anjali.patil@workindia.in,WorkIndia,HR Director,sent,sent
+2025-10-13T19:20:08.979769,72,Anjali Sharma,anjali.sharma@fulcrumdigital.com,Fulcrum Digital Inc,"Director,Global head of L&D",sent,sent
+2025-10-13T19:20:44.725448,73,Anjan Bose,anjan.bose@hpl.co.in,HPL,CIO & Head of HR,sent,sent
+2025-10-13T19:21:21.086059,74,Anjani Salian,anjani.salian@in.nbssap.com,Net Business Solutions,Head - Talent Acquisition & Talent Management,sent,sent
+2025-10-13T19:21:56.729741,75,Anju Tyagi,anju.tyagi@bpoconvergence.com,BPO Convergence,Head of HR,sent,sent
+2025-10-13T19:22:32.829711,76,Ankit Shah,ankit@compumatrice.com,CompuMatrice,Head of HR & Operations,sent,sent
+2025-10-13T19:23:08.457203,77,Ankit Sharma,ankit.sharma@a1technology.com,A-1 Technology,Head Of Recruitment & HR,sent,sent
+2025-10-13T19:23:43.615959,78,Ankit Tomar,ankit.tomar@rategain.com,RateGain,Associate Director HR Transformation,sent,sent
+2025-10-13T19:24:18.929235,79,Ankita,ankita@zenwork.com,Zenwork,Vice President HR & Operations,sent,sent
+2025-10-13T19:24:54.033415,80,Ankita Rajrishi,ankita.rajrishi@condecosoftware.com,Condeco,Head of Shared Services - Talent Acquisition,sent,sent
+2025-10-13T19:25:29.359875,81,Ankita Sinha,ankita.sinha@mtxb2b.com,MTX Group,Chief People Officer,sent,sent
+2025-10-13T19:26:04.500445,82,Ankur Beri,ankur.beri@niit-tech.com,NIIT Technologies,Group Head Human Resources,sent,sent
+2025-10-13T19:26:39.735979,83,Anna Andrews,annaa@smartek21.com,SmarTek21,Head-Human Resources (India),sent,sent
+2025-10-13T19:27:14.940023,84,Anna Mathunny,anna@transactglobal.com,Transact Global,Head Of Human Resources,sent,sent
+2025-10-13T19:27:49.933932,85,Annapurna A,annapurna.a@fime.com,FIME,Head of HR & Admn,sent,sent
+2025-10-13T19:28:25.733138,86,Annie Manoj,annie.manoj@grasko.com,Grasko Solutions,Director - Human Resources,sent,sent
+2025-10-13T19:29:01.253569,87,Anoob Abraham,anoob.abraham@arcadia.com,Arcadia,Associate Director - Talent Acquisition,sent,sent
+2025-10-13T19:29:36.472754,88,Anshika Khaitan,anshika.khaitan@getvymo.com,Vymo,Director-People & Culture,sent,sent
+2025-10-13T19:30:12.605363,89,Anshu Anand,anshu.anand@absolutdata.com,Absolutdata Analytics,Head Of Human Resources,sent,sent
+2025-10-13T19:30:48.440721,90,Ansuman Sahu,ansumans@mindfiresolutions.com,Mindfire Solutions,Head of HR / Staffing,sent,sent
+2025-10-13T19:31:23.532128,91,Anto Faria,anto.faria@urbanladder.com,Urban Ladder,Head L&D Operation and Fulfillment,sent,sent
+2025-10-13T19:31:58.648760,92,Anuj Agarwal,anuj@deskera.com,Deskera,"VP,Corporate Operations & HR",sent,sent
+2025-10-13T19:32:33.695692,93,Anuja Sivaram,anuja@codenation.co.in,Trilogy Innovations,CHRO & COO,sent,sent
+2025-10-13T19:33:09.501647,94,Anupam Jauhari,anupam.j@gsl.in,Ginesys,Group CHRO,sent,sent
+2025-10-13T19:33:44.935551,95,Anupam Srivastava,anupam.srivastava@reltio.com,Reltio,Head Of Human Resources,sent,sent
+2025-10-13T19:34:20.048716,96,Anupama Dasgupta,anupamadg@erevmax.com,eRevMax,SVP Human Resources,sent,sent
+2025-10-13T19:34:55.456287,97,Anupriya Gandhi,anupriya.gandhi@juliacomputing.com,Julia Computing,Global Director People Ops,sent,sent
+2025-10-13T19:35:30.709711,98,Anurag Rana,anurag.rana@sirionlabs.com,SirionLabs,Head of Human Resources,sent,sent
+2025-10-13T19:36:05.974552,99,Anurag Shrivastava,anurags@talisma.com,Talisma,Director - HR,sent,sent
+2025-10-13T19:36:41.176905,100,Anurag Verma,anurag@uniphore.com,Uniphore,Vice President Human Resources,sent,sent
+2025-10-13T19:37:17.097489,101,Anusha Jayachandran,anusha@srswebsolutions.com,SRS Web Solutions,Head - Human Resources Operations,sent,sent
+2025-10-13T19:37:52.308371,102,Anusha Kishore,anusha.kishore@loco.gg,Loco,Assistant Vice President Human Resources,sent,sent
+2025-10-13T19:38:28.093725,103,Aparna Gunjikar,aparna.gunjikar@softnautics.com,Softnautics,Head Of Human Resources,sent,sent
+2025-10-13T19:39:03.369413,104,Aparna Srikanth,aparna.srikanth@appsian.com,Pathlock,"Head,Human Resources - India",sent,sent
+2025-10-13T19:39:38.658429,105,Aradhana Gupta,aradhana@safexpay.com,SafexPay,Chief People Officer,sent,sent
+2025-10-13T19:40:14.499934,106,Arathi,arathi.gs@vyomlabs.com,Vyom Labs,AVP HR,sent,sent
+2025-10-13T19:40:49.632266,107,Arathi Prabhu,arathi.prabhu@altruistahealth.com,Altruista Health,Director - Talent Acquisition,sent,sent
+2025-10-13T19:41:24.721967,108,Arathi Rajeswari,arathi@suntecgroup.com,SunTec Business Solutions,"AVP,Head of Talent Advancement and Excellence",sent,sent
+2025-10-13T19:42:00.250287,109,Aravind Chandrasekar,aravind.chandrasekar@tigerspike.com,Concentrix Tigerspike,"Associate Director,Talent Acquisition",sent,sent
+2025-10-13T19:42:35.761145,110,Aravind Warrier,aravind.warrier@rapidvaluesolutions.com,RapidValue,Human Resources Director,sent,sent
+2025-10-13T19:43:12.057521,111,Archana Anand,archana@aufait.in,Aufait Technologies,Head of Talent Acquisition,sent,sent
+2025-10-13T19:43:47.596088,112,Archana Kp,archana.kp@kilowott.com,Kilowott,Vice President Human Resources,sent,sent
+2025-10-13T19:44:22.799481,113,Archana Kunde,archana@quinbay.com,Quinbay,Human Resources Director,sent,sent
+2025-10-13T19:44:58.619740,114,Archana Manne,archana.manne@locuz.com,Locuz,Vice President Human Resources,sent,sent
+2025-10-13T19:45:34.076589,115,Archana Sarda,archana.sarda@microlise.com,Microlise,Head Of Human Resources,sent,sent
+2025-10-13T19:46:09.249735,116,Archana Shinde,archana.shinde@cognologix.com,Cognologix Technologies,Head Human Resources Department,sent,sent
+2025-10-13T19:46:44.452583,117,Arif Memon,arif.memon@abzooba.com,Abzooba,Associate Vice President Talent Acquisition,sent,sent
+2025-10-13T19:47:21.084943,118,Arindam Kar,arindam.kar@yodlee.com,Envestnet,Head-Talent Acquisition,sent,sent
+2025-10-13T19:47:56.340816,119,Arjita Chawla,arjita.chawla@quytech.com,Quytech,Head Of Human Resources,sent,sent
+2025-10-13T19:48:31.587169,120,Arjun Chatterjee,arjun.chatterjee@sunlife.com,Sun Life,Director & Head of Talent Acquisition,sent,sent
+2025-10-13T19:49:07.004137,121,Arpana Jaiswal,arpanaj@umbrellainfocare.com,Umbrella Infocare,Head Human Resources,sent,sent
+2025-10-13T19:49:42.283496,122,Arpita Sarkar,arpita.sarkar@webskitters.com,WEBSKITTERS TECHNOLOGY SOLUTIONS,Director Talent Acquisition,sent,sent
+2025-10-13T19:50:18.665175,123,Artoon Solutions,qa@artoonsolutions.com,Artoon Solutions,Chief Human Resources Officer,sent,sent
+2025-10-13T19:50:54.200009,124,Aru Uppal,aru.uppal@datdyn.com,Data Dynamics,Global Head Human Resources,sent,sent
+2025-10-13T19:51:29.318996,125,Arun Kumar,arun.kumar@bobtechsolutions.com,BOB Tech Solutions,HEAD - Human Resources & Operations,sent,sent
+2025-10-13T19:52:04.485386,126,Arun Kumar,arun.kumar@shipsy.io,Shipsy,Mentor/ Chief People Officer,sent,sent
+2025-10-13T19:52:39.702123,127,Arun Kumar,arun.kumar@wavicledata.com,Wavicle Data Solutions,Director - Human Resources,sent,sent
+2025-10-13T19:53:14.918130,128,Arun Murugappa,arun@theatem.com,ATEM Software Solutions,Delivery Head - Talent Acquisition,sent,sent
+2025-10-13T19:53:50.020140,129,Arun Ravi,arun.ravi@ipsoft.com,Amelia,Digital Workforce Management - Head,sent,sent
+2025-10-13T19:54:25.077015,130,Arun Singh,arun.singh@puresoftware.com,PureSoftware,Senior Director Talent Acquisition,sent,sent
+2025-10-13T19:55:00.418359,131,Arun Vigneswaran,arun@xto10x.com,xto10x,Head of People Excellence & HR head for xto10x,sent,sent
+2025-10-13T19:55:35.593140,132,Arunima Bhushan,arunima.bhushan@orcapodservices.com,Orcapod,AVP-HR,sent,sent
+2025-10-13T19:56:11.443627,133,Arushi Goel,arushi.goel@betterplace.co.in,BetterPlace,Director HRBP,sent,sent
+2025-10-13T19:56:47.414914,134,Arushi Sawhney,arushi.sawhney@e2eresearch.com,Altezzasys Systems,Head Of Human Resources,sent,sent
+2025-10-13T19:57:22.533725,135,Arvind Sadasivan,arvind.sadasivan@ekaplus.com,Eka Software Solutions,Director Global Human Resources,sent,sent
+2025-10-13T19:57:57.637691,136,Asenath Sharon,sharon@srinsofttech.com,SrinSoft Technologies,Associate Vice President - HR,sent,sent
+2025-10-13T19:58:32.792803,137,Asha Rao,asha.j@unilogcorp.com,Unilog,Associate Director - Human Resources,sent,sent
+2025-10-13T19:59:07.873220,138,Ashish Karnik,ashish.karnik@pavilion.io,Pavilion,Head Performance Engineering,sent,sent
+2025-10-13T19:59:43.841589,139,Ashish Naidu,ashish.naidu@mindgate.in,Mindgate Solutions,Assistant Vice President - Talent Acquisition,sent,sent
+2025-10-13T20:00:19.317722,140,Ashok Manjunath,ashok@spenmo.com,Spenmo,Head of Talent Acquisition,sent,sent
+2025-10-13T20:00:54.447287,141,Ashok Putsala,ashok.putsala@senecaglobal.com,SenecaGlobal,Associate Vice President - Talent Acquisition,sent,sent
+2025-10-13T20:01:29.898180,142,Ashok Seshadri,ashok.seshadri@objectfrontier.com,ObjectFrontier Software,Head - Global Talent Management,sent,sent
+2025-10-13T20:02:05.441225,143,Ashok Tripathy,ashok.tripathy@bpoconvergence.com,BPO Convergence,PRINCIPAL CONSULTANT & GROUP HEAD HR,sent,sent
+2025-10-13T20:02:40.534796,144,Ashraf Kazi,ashraf.kazi@simplifyhealthcare.com,Simplify Healthcare,Associate Director Talent Acquisition,sent,sent
+2025-10-13T20:03:16.079151,145,Ashraf Mulla,ashraf.mulla@qseap.com,qSEAp Infotech,AVP- Talent Acquisition & Strategy,sent,sent
+2025-10-13T20:03:51.402116,146,Ashton Lawrie,ashton.lawrie@iitms.co.in,MasterSoft ERP Solutions,General Manager - HR (Head of Department),sent,sent
+2025-10-13T20:04:26.861558,147,Ashutosh Sinha,ashutosh@tuya.com,Tuyasmart India,Head - Human Resource,sent,sent
+2025-10-13T20:05:02.193258,148,Ashwani Bhargava,ashwanib@decisionminds.com,Decision Minds,Director Recruitment,sent,sent
+2025-10-13T20:05:37.399660,149,Ashwani Kumar,ashwani@successive.tech,Successive Technologies,Vice President - People & Culture,sent,sent
+2025-10-13T20:06:12.797765,150,Ashwin Singh,ashwin@suki.ai,Suki,Head of Talent Acquisition,sent,sent
+2025-10-13T20:06:48.097340,151,Ashwini Ashok,ashwini.ashok@eton-solutions.com,Eton Solutions LP,Head of Human Resources,sent,sent
+2025-10-13T20:07:23.203970,152,Ashwini J,ashwini.janardhanan@kaleyra.com,Kaleyra,"Head - People & Culture,APAC",sent,sent
+2025-10-13T20:07:59.194563,153,Aswanth Goka,agoka@workfusion.com,WorkFusion,Vice President Human Resources,sent,sent
+2025-10-13T20:08:35.002963,154,Aswin Prashannth,aswin@psrtek.com,PSRTEK,Head Talent Acquisition of India Operation,sent,sent
+2025-10-13T20:09:10.563744,155,Atin Karmokar,atin.karmokar@pentagon.co.in,Pentagon System and Services,AVP - Head Human Resources & Admin,sent,sent
+2025-10-13T20:09:45.701571,156,Atul Kanknala,atul.kanknala@craveinfotech.com,Crave InfoTech,Head HR- Talent Acquisition and Strategy,sent,sent
+2025-10-13T20:10:20.904628,157,Atul Pal,atul.pal@innefu.com,Innefu Labs,Head Of Human Resources - Client Operations,sent,sent
+2025-10-13T20:10:56.508359,158,Avinash Poojari,avinash@sedintechnologies.com,Sedin Technologies,AVP - Talent Acquisition,sent,sent
+2025-10-13T20:11:31.833528,159,Ayush Daryani,ayush.daryani@niftel.com,Niftel Communications,Head Of Recruitment,sent,sent
+2025-10-13T20:12:06.933115,160,Ayush Sinha,ayush.sinha@sugarboxnetworks.com,SugarBox Networks,Vice President Human Resources,sent,sent
+2025-10-13T20:12:42.214613,161,Babitha Nambiar,babitha.nambiar@opusconsulting.com,Opus Consulting Solutions,VP - Head Human Resources,sent,sent
+2025-10-13T20:13:17.618170,162,Babu Thoppil,babu_thoppil@mahindrasatyam.com,Mahindra Satyam BPO,VP - HR,sent,sent
+2025-10-13T20:13:52.985165,163,Balaji Er,balaji@isourceindia.com,iSource ITES,Head Of Recruitment,sent,sent
+2025-10-13T20:14:28.819393,164,Balaji Thiyagarajan,balaji.thiyagarajan@thirdware.com,Thirdware Solution INC,Associate Director HR,sent,sent
+2025-10-13T20:15:04.135846,165,Balakrishna Shetty,balakrishna.shetty@genisys-group.com,Genisys Group,Vice President - Human Resource,sent,sent
+2025-10-13T20:15:39.524633,166,Balaraju Guddinti,balaraju.g@nslhub.com,Brane Enterprises,Head of Talent Acquisition,sent,sent
+2025-10-13T20:16:15.068059,167,Balesh S,balesh@adarshsolutions.com,Adarsh Solutions,Head HR & Operations,sent,sent
+2025-10-13T20:16:50.957883,168,Balneet Birah,balneet.birah@netsolutions.com,Net Solutions,Chief Human Resources Officer,sent,sent
+2025-10-13T20:17:26.255959,169,Bandana Kaul,bandana@airditsoftware.com,Airdit Software Services,Director-Human Resources,sent,sent
+2025-10-13T20:18:01.528240,170,Bandla Shyamprasad,bandla.shyamprasad@terralogic.com,Terralogic,Director - HR & Operations,sent,sent
+2025-10-13T20:18:36.738327,171,Banmeet Kour,banmeet.kour@itbd.net,IT BY DESIGN,Head of Talent Acquisition India/PH/US,sent,sent
+2025-10-13T20:19:11.872260,172,Barkha Agrawal,bagrawal@cpg-inc.com,Computer Power Group,Director-Talent Acquisition,sent,sent
+2025-10-13T20:19:46.980548,173,Barkha Dave,barkha@trellissoft.ai,"Trellissoft,",Head of HR & Operations Compliance,sent,sent
+2025-10-13T20:20:22.097741,174,Barkha Sharma,barkha@wobot.ai,Wobot.ai,CHRO,sent,sent
+2025-10-13T20:20:57.294694,175,Basava,basava@kamivision.com,Kami Vision,Head Of Human Resources,sent,sent
+2025-10-13T20:21:32.432857,176,Batool Ali,batool.ali@electriphi.ai,Ford Pro Charging,Head Of Human Resources,sent,sent
+2025-10-13T20:22:07.568070,177,Bedisha Karmakar,bedisha@reward360.co,Reward360 Global Services.,Senior Director People Operations,sent,sent
+2025-10-13T20:22:43.327473,178,Benoy Koshy,benoy.koshy@sisainfosec.com,SISA,Head of Talent Acquisition,sent,sent
+2025-10-13T20:23:18.505221,179,Bensely Zachariah,bensely.zachariah@fulcrumdigital.com,Fulcrum Digital Inc,Global Head of Human Resources,sent,sent
+2025-10-13T20:23:53.714878,180,Bensley Zachariah,bensley.zachariah@fulcrumdigital.com,Fulcrum Digital Inc,Global Head of Human Resources,sent,sent
+2025-10-13T20:24:29.582594,181,Benson Mendez,benson.mendez@microobjects.net,MicroObjects,VP - Human Resources,sent,sent
+2025-10-13T20:25:05.014042,182,Bhakti Dharod,bhakti.dharod@idfy.com,IDfy,Head of HR,sent,sent
+2025-10-13T20:25:40.404541,183,Bharat Bhartia,bharat.bhartia@workindia.in,WorkIndia,Head of Talent Acquisition and HR,sent,sent
+2025-10-13T20:26:15.531714,184,Bharat Rao,bharat@ka-nex.com,CK Solutions,Director - Talent Acquisition,sent,sent
+2025-10-13T20:26:52.374776,185,Bharathi Ravipati,bravipati@appstekcorp.com,AppsTek,Sr. Director HR- Eastern Region,sent,sent
+2025-10-13T20:27:27.479360,186,Bhargavi Challa,bhargavic@aissel.com,Aissel Technologies,Head of Human Resources,sent,sent
+2025-10-13T20:28:02.555504,187,Bharti Negi,bharti.negi@edifecs.com,Edifecs,"Sr. Director,Recruitment,Talent Acquisition",sent,sent
+2025-10-13T20:28:37.657711,188,Bhavana Jain,bhavana@netcore.co.in,Netcore Cloud,Chief Human Resources Officer,sent,sent
+2025-10-13T20:29:12.827641,189,Bhavik Kaklotar,bkaklotar@diabsolut.com,Diabsolut Inc,Head Global Talent Acquisition,sent,sent
+2025-10-13T20:29:49.563561,190,Bhavik Shah,bhavik@games2win.com,Games2win India,Human Resources Head,sent,sent
+2025-10-13T20:30:24.778198,191,Bhavika Sheth,bhavika.sheth@itcgindia.com,ITCG Solutions,HR Head at ITCG,sent,sent
+2025-10-13T20:31:00.467878,192,Bhavin Sanghavi,bhavin@mydukaan.io,Dukaan,Head - Talent Acquisition,sent,sent
+2025-10-13T20:31:35.745480,193,Bhavya Shetty,bhavya@supplywisdom.com,Supply Wisdom,Director Talent Management,sent,sent
+2025-10-13T20:32:11.392190,194,Bhawna Suri,bhawna@weexcel.in,HR,Head HR & Operations,sent,sent
+2025-10-13T20:32:46.800255,195,Bhupesh Wasmatkar,bhupesh.wasmatkar@verse.in,VerSe Innovation,Head - Talent Acquisition,sent,sent
+2025-10-13T20:33:22.097233,196,Biju Varghese,biju.v@inapp.com,InApp,Director | HR | InApp,sent,sent
+2025-10-13T20:33:57.618316,197,Bikram Dash,bikram.dash@tatwa.info,TATWA Technologies,Vice President HR L&D,sent,sent
+2025-10-13T20:34:32.748905,198,Bindu Krishnan,bindu.krishnan@ospyn.com,Ospyn Technologies,Director-Human Resources and Administration,sent,sent
+2025-10-13T20:35:07.943046,199,Binoy Varghese,binoy.varghese@rgigroup.com,RGI Group,Group Head (Human Resources),sent,sent
+2025-10-13T20:35:43.828673,200,Biplob Das,biplob.das@izmoltd.com,izmo,Head Of Human Resources,sent,sent
+2025-10-13T20:36:19.681784,201,Birendra Rout,birendra.rout@weavertec.com,Weaverbird Engineering & Technology,Head-HR,sent,sent
+2025-10-13T20:36:54.960332,202,Bishnu Rai,bishnu.rai@iglobalservices.net,iGlobal KPO Services,Head Of Human Resources,sent,sent
+2025-10-13T20:37:30.107871,203,Bosky Wadhwa,bosky.w@totalitglobal.com,Total IT Global,Associate Director - Talent Acquisition,sent,sent
+2025-10-13T20:38:05.374865,204,Brij Kishore,brij@claritusconsulting.com,Claritus Management Consulting,Vice President Recruitment Operations,sent,sent
+2025-10-13T20:38:40.705926,205,Britto Ambrose,britto@xoxoday.com,Xoxoday,Vice President of People & Culture,sent,sent
+2025-10-13T20:39:16.044985,206,Bushra Mehdi,bushra.mehdi@axeno.co,Axeno,AVP - Human Resources,sent,sent
+2025-10-13T20:39:51.235339,207,Byju Valappil,byju@rdalabs.com,RDAlabs,Senior Director - HR,sent,sent
+2025-10-13T20:40:26.672472,208,Capt Kansal,capt.kansal@writerinformation.com,Writer Information,Head Safety Security,sent,sent
+2025-10-13T20:41:01.779879,209,Celina Joseph,celina.joseph@extentia.com,Extentia Information Technology,Vice President - Human Resources,sent,sent
+2025-10-13T20:41:37.090430,210,Chainsingh Rathore,chainsingh.rathore@thegatewaycorp.com,Gateway Group of Companies,AVP Talent Acquisition & Operations,sent,sent
+2025-10-13T20:42:12.223323,211,Chaitali Bhattacharya,cbhattacharya@inventive-it.com,Inventive IT,Senior Director of Human Resources,sent,sent
+2025-10-13T20:42:47.562938,212,Chaitali Ray,cray@netwoven.com,Netwoven,Director HR,sent,sent
+2025-10-13T20:43:22.849268,213,Chaitanya Arikati,chaitanya.arikati@abjayon.com,Abjayon,Senior Recruitment Manager (Head - TA),sent,sent
+2025-10-13T20:43:58.076107,214,Chaitanya Kanthi,chaitanya.kanthi@smartims.com,Smart IMS,Senior Director - Human Resources,sent,sent
+2025-10-13T20:44:33.146585,215,Chaitanya Peeta,chaitanya.peeta@polygon.technology,Polygon,Vice President Human Resources,sent,sent
+2025-10-13T20:45:08.598092,216,Chamola Hal,chamola.hal@hal-dz.com,HAL,Human Resources Director,sent,sent
+2025-10-13T20:45:44.558216,217,Chanchal Chandiok,chanchal.chandiok@northgateps.com,NEC Software Solutions,HR Director,sent,sent
+2025-10-13T20:46:19.734540,218,Chandan Gambhir,chandan@noida.interrasystems.com,Interra Systems,Director - Human Resources,sent,sent
+2025-10-13T20:46:54.829854,219,Chandan Thakur,chandan.kashyap@mysenseinc.com,Mysense Technologies,Chief Talent Officer,sent,sent
+2025-10-13T20:47:30.740838,220,Chandini Davies,chandinid@saglobal.com,sa.global,Head Of Human Resources,sent,sent
+2025-10-13T20:48:06.220614,221,Chandini Mokthar,chandini@moolya.com,Moolya,VP-People & Culture,sent,sent
+2025-10-13T20:48:42.042059,222,Chandni Chopra,chandnic@lambdatest.com,LambdaTest,Director - Human Resources,sent,sent
+2025-10-13T20:49:17.316266,223,Chandni Yadav,chandniyadav@ucreate.co.in,Founder and Lightning,Global Head of Talent Acquisition,sent,sent
+2025-10-13T20:49:52.524989,224,Chandra Prakash,chandra.prakash@innoverdigital.com,Innover Digital,Head of Talent Acquisition,sent,sent
+2025-10-13T20:50:28.746004,225,Chandra Ratra,chandra.ratra@navigaglobal.com,Naviga India,Director Talent Acquisition,sent,sent
+2025-10-13T20:51:03.782882,226,Chandrakanth K,chandra@srivensys.com,Sriven Systems,Head of Recruiting Operations,sent,sent
+2025-10-13T20:51:38.867702,227,Chandrasekhar Gv,cgv@eclinicalsol.com,eClinical Solutions,Vice President Human Resources,sent,sent
+2025-10-13T20:52:14.445882,228,Chandrashekar R,chandrashekarr@softura.com,Softura,Head of Human Resources,sent,sent
+2025-10-13T20:52:49.820924,229,Chandresh Kumar,chandresh.kumar@jagrannewmedia.com,Jagran New Media,Chief Manager & Head ( Performance Advertising),sent,sent
+2025-10-13T20:53:25.000371,230,Charan Singh,charan@srinipharma.com,SRINI PHARMACEUTICALS,HEAD /HR,sent,sent
+2025-10-13T20:54:00.209576,231,Charles Timothy,charles.t@palni.com,Palni Inc,Director HR,sent,sent
+2025-10-13T20:54:35.368927,232,Charmaine Pinto,charmaine@streamoid.com,Streamoid,Head of Human Resources,sent,sent
+2025-10-13T20:55:11.068702,233,Cheryl Anjelo,cheryl.anjelo@colortokens.com,ColorTokens,Director - HR,sent,sent
+2025-10-13T20:55:47.080196,234,Chetan Verma,cverma@fcsltd.com,FCS Software Solutions,Head Recruitment,sent,sent
+2025-10-13T20:56:22.232172,235,Chetna Gogia,chetna@gokwik.co,GoKwik,Chief Human Resources Officer,sent,sent
+2025-10-13T20:56:58.241464,236,Chhavi Bhatnagar,chhavi.bhatnagar@acnovate.com,Acnovate Corporation,Chief People Officer,sent,sent
+2025-10-13T20:57:33.378103,237,Chinmoy Roy,chinmoy.roy@catalyst-us.com,Catalyst Business Solutions,Head Human Resources,sent,sent
+2025-10-13T20:58:08.966762,238,Chintan Bhatt,b.chintan@introlligent.com,Introlligent,Recruitment Head-US Operations,sent,sent
+2025-10-13T20:58:44.273285,239,Chirag Patel,chirag.patel1@rangtech.com,Rang Technologies Inc,Talent Acquisition Manager & Head-hunter,sent,sent
+2025-10-13T20:59:19.475708,240,Chirag Shah,chirag.shah@iflair.com,iFlair Web Technologies,Director (HR & Admin),sent,sent
+2025-10-13T20:59:54.603154,241,Chiranjeevi Pannem,chiranjeevip@byteridge.com,Byteridge,Chief People Officer,sent,sent
+2025-10-13T21:00:29.699991,242,Chitra Markale,chitram@zconsolutions.com,zCon Solutions,Head Of Human Resources,sent,sent
+2025-10-13T21:01:05.608151,243,Chitra Ravi,chitra.ravi@ample.co.in,Ample Technologies,Head of HR,sent,sent
+2025-10-13T21:01:40.946242,244,Cireesha Mailavarapu,cireesha.m@etisbew.com,ETG Digital,Vice President - Global HR & Alliances,sent,sent
+2025-10-13T21:02:16.121726,245,Crp Saurabh,saurabh@caastle.com,CaaStle,Head of Total Rewards and People Operations,sent,sent
+2025-10-13T21:02:51.321382,246,Cynthia Rodrigues,cynthia@netcore.co.in,Netcore Cloud,Group Vice President -HR,sent,sent
+2025-10-13T21:03:26.714716,247,Damayanti Ghosh,damayanti.ghosh@getvymo.com,Vymo,Head of Talent Acquisition,sent,sent
+2025-10-13T21:04:02.006734,248,Daniel Shaw,daniel.shaw@kpipartners.com,KPI Partners,Director of HR & Talent Acquisition,sent,sent
+2025-10-13T21:04:37.876133,249,Dathree Javvadi,dathree.javvadi@vncservices.in,VNC Digital Services,Cheif Human Resources Officer CHRO,sent,sent
+2025-10-13T21:05:13.144967,250,Debashish Bhattacharya,debashishb@interrait.com,Interra Information Technologies,Head of HR,sent,sent
+2025-10-13T21:05:48.633101,251,Debdutta Bhowmick,debdutta.bhowmick@atidiv.com,Atidiv,Human Resources Director,sent,sent
+2025-10-13T21:06:24.117294,252,Debojit Das,debojit.das@betterplace.co.in,BetterPlace,Associate Director - Staffing,sent,sent
+2025-10-13T21:06:59.130749,253,Deborah Passanha,dpassanha@everydayhealth.com,Everyday Health Group,Director of Operations / HR Head,sent,sent
+2025-10-13T21:07:34.190291,254,Deep Ambike,deep@thinkbridge.in,thinkbridge,Associate Director - Global Talent,sent,sent
+2025-10-13T21:08:09.454059,255,Deep Patel,deep.patel@ics-global.in,INTECH,Vice President Talent Acquisition,sent,sent
+2025-10-13T21:08:44.763461,256,Deepa Baburaj,bdeepa@zeomega.com,ZeOmega,Associate Director - HR at ZeOmega,sent,sent
+2025-10-13T21:09:20.681034,257,Deepa Dand,deepa@prdxn.com,Axioned,Director of Accounts/Administration (HR Support),sent,sent
+2025-10-13T21:09:55.810510,258,Deepa Makhija,deepa.makhija@gupshup.io,Gupshup,Associate Director HR,sent,sent
+2025-10-13T21:10:31.043884,259,Deepa Mukherjee,deepa.mukherjee@esri.in,Esri India,Chief People Officer & Vice President,sent,sent
+2025-10-13T21:11:07.134558,260,Deepa Palaniswamy,deepa.palaniswamy@ducenit.com,Ducen,Center Head India / Operations and Global HR,sent,sent
+2025-10-13T21:11:42.735421,261,Deepa Sripathi,deepa.sripathi@konicaminolta.com,Konica Minolta Business Solutions India,Head Human Resources,sent,sent
+2025-10-13T21:12:17.816640,262,Deepak Babu,deepak.babu@appviewx.com,AppViewX,Director Talent Acquisition,sent,sent
+2025-10-13T21:12:53.043523,263,Deepak Chavan,deepak.chavan@visiblealpha.com,Visible Alpha,Manager - Head Talent Acquisition India,sent,sent
+2025-10-13T21:13:28.852620,264,Deepak Deshpande,deepak.deshpande@netmagicsolutions.com,NTT DATA,Vice President - Human Resources,sent,sent
+2025-10-13T21:14:03.960157,265,Deepak Gelda,deepak@uchicago.edu,IT Services,Head Of Human Resources,sent,sent
+2025-10-13T21:14:39.029307,266,Deepak Khanna,dkhanna@ishir.com,ISHIR,Chief Talent Officer,sent,sent
+2025-10-13T21:15:14.947068,267,Deepak Melwani,deepak.melwani@galaxyweblinks.co.in,Galaxy Weblinks Inc,Head of Talent Acquisition and Employer Branding,sent,sent
+2025-10-13T21:15:50.647453,268,Deepak Pawar,deepak.pawar@accutech.co.in,Accutech Power Solutions,Head Of Human Resources,sent,sent
+2025-10-13T21:16:25.798851,269,Deepak Ramakrishnan,deepak.ramakrishnan@csquare.in,C-Square Info Solutions,Head Of Human Resources,sent,sent
+2025-10-13T21:17:01.155932,270,Deepak Singh,deepak@dixitindia.com,Dixit Infotech Services,Head of HR,sent,sent
+2025-10-13T21:17:36.415411,271,Deepali,deepali@proximity.tech,Proximity Works,Director - People Operations,sent,sent
+2025-10-13T21:18:11.488560,272,Deepali Verdi,deepali.verdi@genzeon.com,Genzeon,Associate Director Human Resources,sent,sent
+2025-10-13T21:18:47.368481,273,Deepashree V,deepashree.v@skience.com,Skience,HR Head - India,sent,sent
+2025-10-13T21:19:22.417808,274,Deepika Pandita,deepika@appinessworld.com,Appiness Interactive,Head Of Human Resources,sent,sent
+2025-10-13T21:19:57.701419,275,Deepika Singh,deepika@webkul.com,Webkul,Vice President Human Resources,sent,sent
+2025-10-13T21:20:33.213826,276,Deepthi Kesireddy,deepthi.kesireddy@smartims.com,Smart IMS,Head of Human Resources,sent,sent
+2025-10-13T21:21:08.315871,277,Deepthi Vorem,deepthi.v@etggs.com,ETG Digital,Director - Human Resources,sent,sent
+2025-10-13T21:21:43.570517,278,Deepti Ashar,deepti@mindcraft.in,MindCraft Software,"Vice President,Head of Consulting Services & HR",sent,sent
+2025-10-13T21:22:18.798303,279,Deepti Bathija,deepti.bathija@orcapodservices.com,Orcapod,AVP - (Contract Staffing - BFSI & Service Clients),sent,sent
+2025-10-13T21:22:53.910506,280,Deepti Lewis,dlewis@conviva.com,Conviva,HR Director,sent,sent
+2025-10-13T21:23:29.032716,281,Deepti Mendiratta,deepti.m@trell.in,Trell,Associate Director HR,sent,sent
+2025-10-13T21:24:04.666285,282,Deepti N,deepti.n@accelq.com,ACCELQ,Director-HR,sent,sent
+2025-10-13T21:24:40.309733,283,Deepti Sahni,deepti.sahni@mobiloitte.com,Mobiloitte,Director - Human Resources,sent,sent
+2025-10-13T21:25:15.477647,284,Deepti Tewari,dgtewari@quark.com,Quark Software,Global Human Resources Director,sent,sent
+2025-10-13T21:25:50.933448,285,Deepti Waghmare,deeptiw@pre-scient.com,Prescient Technologies,"Director - Legal,HR & Admin",sent,sent
+2025-10-13T21:26:26.054872,286,Deo Kumar,deo.kumar@akalinfosys.com,Akal Information Systems,Recruitment and Deployment Head,sent,sent
+2025-10-13T21:27:01.234384,287,Devang Hindocha,devang@strategicerp.com,StrategicERP Business Automation Solutions,Head of HR,sent,sent
+2025-10-13T21:27:36.414093,288,Devansh Narang,devansh.narang@loco.gg,Loco,Head of Content & Talent,sent,sent
+2025-10-13T21:28:11.624244,289,Devanshi Shah,devanshi@brainerhub.com,BrainerHub Solutions,Head of HR & Talent Acquisition,sent,sent
+2025-10-13T21:28:46.703343,290,Devershi Desai,devershi.desai@ssminfotech.com,SSM InfoTech Solutions,Head -Human Resource,sent,sent
+2025-10-13T21:29:21.853563,291,Devi Reddy,dreddy@dvginteractive.com,DVG,Head - Talent Acquisition,sent,sent
+2025-10-13T21:29:56.978681,292,Devika Chauhan,devika@shopx.in,ShopX,Director Human Resource,sent,sent
+2025-10-13T21:30:32.547088,293,Dharmendra Rawat,dharmendra.rawat@lumiq.ai,Lumiq,Head Of Recruitment,sent,sent
+2025-10-13T21:31:07.658879,294,Dharmendra Singh,dharmendra@akshay.com,Akshay Software Technologies,GM - Head of Staffing,sent,sent
+2025-10-13T21:31:42.948755,295,Dharmik Gohel,dharmik@atlan.com,Atlan,Director - Talent Acquisition,sent,sent
+2025-10-13T21:32:18.982286,296,Dhinesh Shankar,dshankar@dataintensity.com,Data Intensity,AVP - HR & Admin,sent,sent
+2025-10-13T21:32:54.129144,297,Dhirendra Kamboj,dkamboj@newtglobalcorp.com,Newt Global Consulting,Director-Talent Acquisition,sent,sent
+2025-10-13T21:33:29.994242,298,Dhirendra Panda,dhirendra.panda@ivalue.co.in,iValue InfoSolutions,Head HR,sent,sent
+2025-10-13T21:34:05.450052,299,Dhritiparna Dhar,dhritiparnad@zendrive.com,Zendrive,Director Talent Acquisition,sent,sent
+2025-10-13T21:34:40.539192,300,Diksha Rohokale,diksha@apptware.com,Apptware,Chief People Officer,sent,sent
+2025-10-13T21:35:16.355401,301,Diksha Sisodia,diksha.sisodia@eternussolutions.com,Eternus,Associate Director Human Resources,sent,sent
+2025-10-13T21:35:51.769481,302,Dileep Choyappally,dileep.choyappally@nestgroup.net,NeST Digital,Vice President & Head of Human Resources,sent,sent
+2025-10-13T21:36:27.061453,303,Dilip Borah,borah.dilip@senrysa.com,Senrysa Technologies,Chief People Officer,sent,sent
+2025-10-13T21:37:02.324897,304,Dilip Satpute,dilip.s@theimperative.in,Imperative Business Ventures,Chief Human Resources Officer,sent,sent
+2025-10-13T21:37:37.603401,305,Dimpal Patel,dimpal.patel@tacttree.com,TactTree LLP,Head- Human Resources and Talent Acquisition,sent,sent
+2025-10-13T21:38:12.905163,306,Dinanath Gokhale,dgokhale@crgroup.co.in,CRG Solutions,Director - HR,sent,sent
+2025-10-13T21:38:48.752199,307,Dinesh Hemdev,dinesh.hemdev@logixal.com,Logixal Inc,Head of Talent Acquisition,sent,sent
+2025-10-13T21:39:24.485686,308,Dinesh Rai,dinesh.rai@hirexa.com,Hirexa Solutions,Head Of Human Resources,sent,sent
+2025-10-13T21:40:00.432855,309,Dinesh Yuvaraj,dinesh.yuvaraj@ivymobility.com,Ivy Mobility,Director - Human Resources,sent,sent
+2025-10-13T21:40:36.189408,310,Dipali Chavan,dipalichavan@credenceanalytics.com,Credence Analytics,Head HR,sent,sent
+2025-10-13T21:41:11.217498,311,Dipesh Jain,dipesh@pesto.tech,Pesto Tech,Head - Talent Acquisition,sent,sent
+2025-10-13T21:41:46.315355,312,Dipika Sharma,dipikasharma@slx.co.in,Securelynkx Networks,Head of HR at Securelynkx Networks,sent,sent
+2025-10-13T21:42:22.136775,313,Dipthi Rajagopal,dipthir@dckap.com,DCKAP,Head - Human Resources,sent,sent
+2025-10-13T21:42:57.530071,314,Dipti Goel,dipti@insider.in,Paytm Insider,Head Of Human Resources,sent,sent
+2025-10-13T21:43:32.671504,315,Dipti Kothari,dipti.kothari@satincorp.com,SA Technologies,Recruitment Delivery Head,sent,sent
+2025-10-13T21:44:07.863463,316,Disha Bali,disha.bali@remitonline.info,Fable Fintech,Head HR,sent,sent
+2025-10-13T21:44:43.792174,317,Dishank Raj,dishank.raj@aeriestechnology.com,Aeries Technology Group,Head/Director Talent Acquisition - India,sent,sent
+2025-10-13T21:45:19.015452,318,Divya A,da@virsec.com,Virsec Systems,Head HR,sent,sent
+2025-10-13T21:45:54.785764,319,Divya Beneesh,divya.beneesh@zaggle.in,Zaggle Prepaid Ocean Services,Associate Director - Employee Benefits,sent,sent
+2025-10-13T21:46:30.060242,320,Divya Bhardwaj,divya.b@greyorange.com,GreyOrange,Associate Director Global HR Operations,sent,sent
+2025-10-13T21:47:05.329569,321,Divya Chandrasekhara,divya.chandrasekhara@infoworks.io,Infoworks.io,HR Director - India at Infoworks.Io,sent,sent
+2025-10-13T21:47:41.220809,322,Divya Dang,divya.dang@cloudanalogy.com,Cloud Analogy,Sr. HR Head,sent,sent
+2025-10-13T21:48:16.271610,323,Divya Devapathni,ddevapathni@gemini-us.com,Gemini Consulting & Services,HR Head Operations,sent,sent
+2025-10-13T21:48:51.448735,324,Divya Gunashekar,divya@thescalers.com,The Scalers,Director of HR,sent,sent
+2025-10-13T21:49:27.281799,325,Divya Jaggi,divyajaggi@promactinfo.com,Promact Infotech,Chief People Officer,sent,sent
+2025-10-13T21:50:02.405378,326,Divya Jethi,divya.jethi@cloudanalogy.com,Cloud Analogy,Sr. HR Head,sent,sent
+2025-10-13T21:50:38.454115,327,Divya Keshav,divya.k@diamondpick.com,Diamondpick,Head of Human Resources Operations,sent,sent
+2025-10-13T21:51:14.331412,328,Divya Nadikattu,divya@taashee.com,Taashee Linux Services,Head of HR,sent,sent
+2025-10-13T21:51:49.442673,329,Divya Nitin,divya@diamondpick.com,Diamondpick,Head Of Human Resources,sent,sent
+2025-10-13T21:52:25.072533,330,Divya P,divyap@cegonsoft.com,Cegonsoft,HR Head,sent,sent
+2025-10-13T21:53:00.179599,331,Divya Pant,divya.p@ceipal.com,CEIPAL Corp.,AVP - HR,sent,sent
+2025-10-13T21:53:35.347261,332,Divya Prasad,divya.prasad@impelsys.com,Impelsys,Associate Director - Talent Development,sent,sent
+2025-10-13T21:54:10.416961,333,Divya Puthireddi,divya.puthireddi@tanla.com,Tanla Platforms,AVP HR,sent,sent
+2025-10-13T21:54:46.251555,334,Donna Ellies,donna.ellies@br.iq,Briq,"Sr. Director,People Operations - India",sent,sent
+2025-10-13T21:55:21.365586,335,Drishti Mistry,drishti@artoonsolutions.com,Artoon Solutions,Head Of Recruitment,sent,sent
+2025-10-13T21:55:56.606691,336,Durga Akula,durga.akula@cotelligent.com,Cotelligent,Associate Director - HR,sent,sent
+2025-10-13T21:56:31.859275,337,Durga Androthu,durgaprasada@proarch.com,Enhops,Head of Human Resources,sent,sent
+2025-10-13T21:57:07.719608,338,Edwin,edwin.vimal@sysvine.com,Sysvine Technologies,Director HR,sent,sent
+2025-10-13T21:57:43.639685,339,Ekta Chowdhry,ekta.chowdhry@shipsy.io,Shipsy,Head of Talent Acquisition,sent,sent
+2025-10-13T21:58:18.684969,340,Ekta Kohli,ekta.kohli@simulationiq.com,Education Management Solutions,VP - HR & Operations,sent,sent
+2025-10-13T21:58:54.054569,341,Elizabeth Johnson,elizabeth.j@appnomic.com,Appnomic,Director-Human Resources,sent,sent
+2025-10-13T21:59:29.208471,342,Emilio Rodrigues,emilio@etouch.net,eTouch Systems,Director - HR,sent,sent
+2025-10-13T22:00:05.219026,343,Eram Qudsia,eram.qudsia@mygate.in,MyGate,Head of Human Resources,sent,sent
+2025-10-13T22:00:41.002489,344,Esha Mayekar,esha.mayekar@autoplant.in,Autoplant System India,Head Of Human Resources,sent,sent
+2025-10-13T22:01:17.253440,345,Eswari Velayutham,eswari.v@tringapps.com,Tringapps,Director - Human Resources,sent,sent
+2025-10-13T22:01:53.130667,346,Ety Garg,ety@buzzclan.com,BuzzClan,Associate Director-Talent Acquisition,sent,sent
+2025-10-13T22:02:28.256981,347,Eustine Thomas,eustine.thomas@ars-traffic.com,ARS Traffic & Transport Technology,Head of HR,sent,sent
+2025-10-13T22:03:04.053886,348,Eyunni Kumar,eyunni.kumar@bdxworld.com,BDx Data Centers,Vice President Global Head HR & Admin,sent,sent
+2025-10-13T22:03:39.810081,349,Fabiana Sobers,fabiana.sobers@cashapona.com,Cashapona Technologies,Vice President Human Resources,sent,sent
+2025-10-13T22:04:15.738980,350,Facile,vineet.shah@facileserv.com,Facile Services,Head HR,sent,sent
+2025-10-13T22:04:51.106421,351,Faisal Siddiqui,faisal.siddiqui@uneecops.com,Uneecops Technologies,Head Of Human Resources,sent,sent
+2025-10-13T22:05:26.855979,352,Faiza Khan,faiza.khan@apolisrises.com,Apolis,Head HR - India,sent,sent
+2025-10-13T22:06:02.629480,353,Fareeda Begum,fbegum@hitachi-solutions.com,Hitachi Solutions Asia Pacific,Director - HR,sent,sent
+2025-10-13T22:06:38.462121,354,Farheen Hassan,farheen@rapidflowapps.com,Rapidflow Inc,Associate Director - HR,sent,sent
+2025-10-13T22:07:13.740586,355,Fazal Karim,fazal.karim@metaoption.com,MetaOption LLC,Staffing Head,sent,sent
+2025-10-13T22:07:49.152896,356,Firdaus Mehta,firdaus.mehta@heliossolutions.co,Helios Solutions,Head - People & Culture,sent,sent
+2025-10-13T22:08:24.336137,357,Francis Gonsalves,francis.gonsalves@moengage.com,MoEngage,"Director,HRBP",sent,sent
+2025-10-13T22:08:59.481681,358,Franklin Frank,franklin@thescalers.com,The Scalers,Head of People & Culture,sent,sent
+2025-10-13T22:09:35.346665,359,Frida Dias,frida.dias@mpsinteractive.com,MPS Interactive Systems,Director - HR,sent,sent
+2025-10-13T22:10:10.701262,360,Friend Friend,friend.friend@niit-tech.com,NIIT Technologies,recruitment head,sent,sent
+2025-10-13T22:10:45.766619,361,Ganapathy D,ganapathy.d@mresult.com,MResult,Director HRBP,sent,sent
+2025-10-13T22:11:21.612356,362,Ganesh Somisetti,gsomisetti@email.xtglobal.com,"XTGlobal,",Head - People & Culture,sent,sent
+2025-10-13T22:11:56.801897,363,Gargi Rajan,gargi.rajan@unicommerce.com,Unicommerce eSolutions,Associate Director - Human Resources,sent,sent
+2025-10-13T22:12:32.091819,364,Garima Pandey,garima.pandey@epsoftinc.com,EPSoft,HR-Director,sent,sent
+2025-10-13T22:13:07.105911,365,Garima Pandey,garima.pandey@rategain.com,RateGain,Associate Director - Global Talent Acquisition,sent,sent
+2025-10-13T22:13:42.199916,366,Garima Rathi,garima.rathi@condecosoftware.com,Condeco,Head of Shared Services - Human Resources,sent,sent
+2025-10-13T22:14:17.230038,367,Garima Sangwan,garima.sangwan@accops.com,Accops Systems,Senior Director Human Resources,sent,sent
+2025-10-13T22:14:52.421417,368,Garima Sharma,gsharma@nasscom.in,NASSCOM,Head - Human Resources,sent,sent
+2025-10-13T22:15:27.626023,369,Gaurang Joshi,gyjoshi@workforcelogiq.com,Workforce Logiq,"Director,Human Resource",sent,sent
+2025-10-13T22:16:02.748012,370,Gaurav Gaur,gauravgaur@ironsystems.com,Iron Systems,Head of Workforce Innovation,sent,sent
+2025-10-13T22:16:38.007324,371,Gaurav Saxena,gaurav.s@amigainformatics.com,Amiga Informatics,Associate Director-Talent Acquisition/Recruitment,sent,sent
+2025-10-13T22:17:13.412078,372,Gaurav Upadhyay,gaurav.upadhyay@v2solutions.com,V2Solutions,Director - Digital Workforce,sent,sent
+2025-10-13T22:17:48.632037,373,Gautam Kar,gautam@firstconnectsolutions.com,FirstConnect Solutions,Chief People Officer,sent,sent
+2025-10-13T22:18:23.795828,374,Gautam Nautiyal,gautamn@tblocks.com,TechBlocks,Head of Talent Acquisition,sent,sent
+2025-10-13T22:18:58.939892,375,Gautam Pathak,gautam.pathak@opshub.com,"OpsHub,",Vice President (Human Resources and Operations),sent,sent
+2025-10-13T22:19:34.355533,376,Gautam Prasad,gautam.prasad@ondemandagility.com,OnDemand Agility Solutions,Head - US Staffing,sent,sent
+2025-10-13T22:20:09.534058,377,Gautam Tungare,gautam.tungare@6degreesit.com,6DegreesIT,HR HEAD,sent,sent
+2025-10-13T22:20:44.657313,378,Gautham Premkumar,gautham.p@accubits.com,Accubits Technologies,Head of Campus Recruitment,sent,sent
+2025-10-13T22:21:20.053464,379,Gayathri Arunkumar,gayathri.arunkumar@tvsnext.io,TVS Next,Associate Vice President Recruitment,sent,sent
+2025-10-13T22:21:55.340074,380,Gayathri Nagaraj,gayathri.nagaraj@responsivemts.com,Responsive Media Tech Services,Head Of Human Resources,sent,sent
+2025-10-13T22:22:30.419206,381,Gayatri Moghe,gayatri@aumnitechworks.com,Aumni Techworks,Head- Talent Acquisition,sent,sent
+2025-10-13T22:23:05.611302,382,Gayatri Nikkula,gayatri.nikkula@inry.com,INRY,VP HR and Operations,sent,sent
+2025-10-13T22:23:40.673782,383,Gayatri P,gayatrip@gathi.com,Gathi Analytics,Chief People Officer,sent,sent
+2025-10-13T22:24:15.824213,384,Gayatri Patil,g.patil@kokonetworks.com,KOKO Networks,Head Of Human Resources,sent,sent
+2025-10-13T22:24:51.705655,385,Gayatri Shanker,gayatri@dyooti.com,Dyooti,"Head,Communications,People & Culture",sent,sent
+2025-10-13T22:25:26.729223,386,Gazal Singhania,gazal@imarkinfotech.com,iMark Infotech,Head Of Human Resources,sent,sent
+2025-10-13T22:26:01.802554,387,Geetanjali Toopran,geetanjali.toopran@solix.com,"Solix Technologies,",Head-HUman Resources,sent,sent
+2025-10-13T22:26:36.932257,388,Giri Babu,giri.babu@neovatic.com,Neovatic Technologies,Head of Human Resources,sent,sent
+2025-10-13T22:27:12.853520,389,Giridhar D,giridhar.d@e5.ai,Element5,Head Of Operations & HR,sent,sent
+2025-10-13T22:27:48.682844,390,Giridhar Vemuganti,gvemuganti@tataunistore.com,Tata CLiQ,Head - People Operations,sent,sent
+2025-10-13T22:28:24.570976,391,Girish,girish.subramanian@symphonyretailai.com,Symphony RetailAI,Human Resources Director - India,sent,sent
+2025-10-13T22:29:00.341939,392,Girish Kumar,girish.k@infomazeapps.com,INFOMAZE,Head-Admin/ HR,sent,sent
+2025-10-13T22:29:35.522938,393,Gita Madhuri,gita.madhuri@covalenseglobal.com,Covalense Global,Director - HR and Talent Acquisition,sent,sent
+2025-10-13T22:30:10.663113,394,Gitanjali Venkatesh,gitanjali.venkatesh@excelenciaconsulting. com,Excelencia,Head of Talent Acquisition,sent,sent
+2025-10-13T22:30:46.524869,395,Gitanjali Verma,gitanjali.verma@w3villa.com,W3villa Technologies,AVP - Human Resources,sent,sent
+2025-10-13T22:31:22.305953,396,Gopalakrishna Gubbi,gopalakrishna.gubbi@jsw.in,JSoft Solutions,Head HR & Facilities,sent,sent
+2025-10-13T22:31:57.286575,397,Goutham B,gouthamb@systelinc.com,Systel,AVP - INDIA - HR,sent,sent
+2025-10-13T22:32:32.432375,398,Govind Bhandari,govind.bhandari@daloopa.com,Daloopa,Head of Human Resources & Talent Acquisition,sent,sent
+2025-10-13T22:33:08.299765,399,Govind Raj,govind@eoxvantage.com,EOX Vantage,Head Of Human Resources,sent,sent
+2025-10-13T22:33:44.017982,400,Govinda Shastry,govinda.shastry@igiusa.com,Infotech Global,Head-HR and Administration,sent,sent
+2025-10-13T22:34:19.112930,401,Gracy Dsouza,gracy@perfios.com,Perfios Software Solutions,Associate Director Human Resources,sent,sent
+2025-10-13T22:34:55.078775,402,Gripson Martes,gripson.martes@detecttechnologies.com,Detect Technologies,Head Of Human Resources,sent,sent
+2025-10-13T22:35:30.335388,403,Gugapriya O,gugapriya@ideassion.com,Ideassion Technology Solutions,Head-Talent Transformation,sent,sent
+2025-10-13T22:36:05.986391,404,Gulshan S,gulshan@near.com,Near,"Director,Strategic HR",sent,sent
+2025-10-13T22:36:41.234810,405,Gunjan Mishra,gunjan@rnftechnologies.com,RNF Technologies,Head Of Human Resources,sent,sent
+2025-10-13T22:37:16.443973,406,Gurpreet Jaggi,gurpreet.jaggi@betsol.com,BETSOL,"Director,HR and Operations",sent,sent
+2025-10-13T22:37:52.394720,407,Gurpreet Singh,gurpreet.singh@wingify.com,Wingify,Head - Talent Management,sent,sent
+2025-10-13T22:38:27.524423,408,Gurucharan Singh,guru@one.com,one.com,Head of Talent Acquisition,sent,sent
+2025-10-13T22:39:02.710592,409,Gyan Dash,gyan@centroxy.com,Centroxy,Head of Talent Acquisition,sent,sent
+2025-10-13T22:39:38.551834,410,Hanish Tiwari,hanish.tiwari@ant.works,AntWorks,AVP-HR,sent,sent
+2025-10-13T22:40:14.379928,411,Hank Mishra,hank.mishra@anchanto.com,Anchanto,Global Human Resources Director,sent,sent
+2025-10-13T22:40:50.248677,412,Happy Vachhani,happy@capermint.com,Capermint Technologies,Head Of Human Resources,sent,sent
+2025-10-13T22:41:26.833826,413,Hari Krishnan,hari.krishnan@avasotech.com,AVASO Technology Solutions,Global Head Human Resources,sent,sent
+2025-10-13T22:42:02.049543,414,Hari Paramatmuni,harikishore.p@excelra.com,Excelra,Head Talent Acquisition and Development,sent,sent
+2025-10-13T22:42:37.175293,415,Hari Prashanth,hari.p@westagilelabs.com,West Agile Labs,Associate Director -Talent Acquisition,sent,sent
+2025-10-13T22:43:13.126139,416,Harikrishna Bachala,harikrishna.bachala@mitsind.com,Monarch Info Tech Services,Associate Director HR,sent,sent
+2025-10-13T22:43:48.279647,417,Hariprasad Adthale,hariprasadadthale@askbrake.com,ASK Automotive,Head HR & Admin,sent,sent
+2025-10-13T22:44:23.382852,418,Haris Ali,haris.a@truglobal.com,TRUGlobal,Corp. HR Director,sent,sent
+2025-10-13T22:44:59.150736,419,Harishankar Krishnamurthi,hari@zumen.com,Zumen Inc,Head of Talent Acquisition,sent,sent
+2025-10-13T22:45:34.383898,420,Harishankher Selvaraj,harishankher@codingmart.com,Codingmart Technologies,Lead Talent Acquisition (Interview Head),sent,sent
+2025-10-13T22:46:10.203667,421,Harista Jakhar,harista.jakhar@impelsys.com,Impelsys,Associate Director - HR,sent,sent
+2025-10-13T22:46:45.992433,422,Harith Chambravalli,harith.chambravalli@observe.ai,Observe.AI,Senior Director/India Head of Talent Strategy,sent,sent
+2025-10-13T22:47:22.112359,423,Haritha Etakula,haritha.etakula@jnettechnologies.com,JNET Technologies,Head of Human Resources,sent,sent
+2025-10-13T22:47:57.265826,424,Harpreet Bali,harpreet.bali@nvish.com,NVISH Solutions,Director HR,sent,sent
+2025-10-13T22:48:32.371992,425,Harsh Khanna,harshk@elementsgs.com,Atlas,Director Global Payroll,sent,sent
+2025-10-13T22:49:07.459665,426,Harshada Moharil,harshada.moharil@freshgravity.com,Fresh Gravity,Head HR,sent,sent
+2025-10-13T22:49:43.459702,427,Harshida Bhamare,harshida@cctech.co.in,Centre for Computational Technologies,Head HR & operations,sent,sent
+2025-10-13T22:50:19.253713,428,Harshiika Upadhyay,husahu@ciphercloud.com,NTT DATA,Director Talent Acquisition,sent,sent
+2025-10-13T22:50:54.521874,429,Harshita Rathore,harshita.rathore@moonfroglabs.com,Moonfrog Labs,Head of HR,sent,sent
+2025-10-13T22:51:29.651713,430,Haseeb Imran,imran.h@apar.com,Apar Peopleworld Software,Head Of Recruitment,sent,sent
+2025-10-13T22:52:05.027361,431,Heena Bawa,heena@clevertap.com,CleverTap,Director HR,sent,sent
+2025-10-13T22:52:40.202041,432,Hemant Batra,hemant.batra@supraits.com,SupraES.,Talent Acquisition Manager / Head RMG,sent,sent
+2025-10-13T22:53:15.408079,433,Hemant Pawar,hemant.pawar@ndsglobal.com,NextGen Digital Solutions,Head HR,sent,sent
+2025-10-13T22:53:51.253405,434,Hemendra Bist,hemendra.bist@u2opiamobile.com,U2opia Mobile,Vice President - HR & Admin.,sent,sent
+2025-10-13T22:54:26.534137,435,Hemlata Goel,hemlata.goel@shl.com,Aspiring Minds,Head HR-India at SHL( Former Gartner),sent,sent
+2025-10-13T22:55:01.588300,436,Hemraj Desai,hemraj@cloudthat.in,CloudThat,Director HR and OD,sent,sent
+2025-10-13T22:55:36.700458,437,Hetal,hsoni@infosenseglobal.com,Infosenseglobal Inc,Head Of Human Resources,sent,sent
+2025-10-13T22:56:11.891775,438,Hima Kulshrestha,hima@systango.com,Systango,Head - Talent Acquisition,sent,sent
+2025-10-13T22:56:47.816397,439,Himagauri Kashalikar,himagauri@metamorphtech.com,MetaMorphoSys Technologies,Chief People Officer,sent,sent
+2025-10-13T22:57:24.127602,440,Himanshu Bhatnagar,himanshub@appcino.com,Appcino Technologies,Head HR,sent,sent
+2025-10-13T22:57:59.217317,441,Himanshu Mishra,hmishra@valethi.com,Valethi Technologies,Head Of Human Resources,sent,sent
+2025-10-13T22:58:34.524094,442,Himanshu Raina,himanshu@ditserv.com,DEV IT SERV,Vice President Human Resources,sent,sent
+2025-10-13T22:59:09.729777,443,Hina Khan,hina.khan@acuteinformatics.in,Acute Informatics,Head Recruitment,sent,sent
+2025-10-13T22:59:45.060216,444,Hitendra Singh,hsingh@hitachi-solutions.com,Hitachi Solutions India,Vice President Human Resources,sent,sent
+2025-10-13T23:00:20.229620,445,Hitesh Nair,hitesh.nair@aqmtechnologies.com,AQM Technologies,AVP of Performance Engineering,sent,sent
+2025-10-13T23:00:55.611228,446,Honeydeep Sabharwal,honeydeep@pando.ai,PandoCorp,Sr Director - HR,sent,sent
+2025-10-13T23:01:30.821109,447,Hrd Ltd,hrd@mawaimail.com,Mawai Infotech,Head of Human Resources,sent,sent
+2025-10-13T23:02:06.767103,448,Hrishikesh Nc,hrishikesh@sterlingsoftware.co.in,Sterling Software,Head HR,sent,sent
+2025-10-13T23:02:42.061603,449,Huma Sayed,huma@dctinc.com,Digital Convergence Technologies,Head - Human Resources,sent,sent
+2025-10-13T23:03:17.476346,450,Humera Iffath,humera.iffath@truecaller.com,Truecaller,Human Resources Director- India,sent,sent
+2025-10-13T23:03:52.618523,451,Huzefa Retiwala,huzefa.retiwala@metro-services.in,METRO SERVICES,Head of Human Resources Operations,sent,sent
+2025-10-13T23:04:28.417942,452,Ilham Mulla,ilham.mulla@blazeclan.com,Blazeclan Technologies,Head - Talent Acquisition,sent,sent
+2025-10-13T23:05:04.361194,453,Img Infotech,img@imgglobalinfotech.com,IMG Global Infotech,Head Of Human Resources,sent,sent
+2025-10-13T23:05:39.618874,454,Imran Nazir,imrannd@skoruz.com,Skoruz Technologies,Vice President-(Talent Acquisition/Analytics),sent,sent
+2025-10-13T23:06:15.056087,455,Inderjeet Gujral,inderjeet.gujral@apolisrises.com,Apolis,Director Talent Acquisition,sent,sent
+2025-10-13T23:06:50.260948,456,Indrakumar Thirunavukkarasu,tindrakumar@ntrustinfotech.com,NTrust Infotech,Head-HR (Chennai & US Operations),sent,sent
+2025-10-13T23:07:25.542650,457,Inventum Recruiter,inventum.recruiter@inventum.net,Inventum,Head HR,sent,sent
+2025-10-13T23:08:00.984966,458,Irudia Anthony,irudia.anthony@h1insights.com,Shore Group Associates,Associate Vice President - Human Resources,sent,sent
+2025-10-13T23:08:36.243673,459,Ishani Sharma,ishani.sharma@idctechnologies.com,KBC Technologies Group,India Head-HR & Operations,sent,sent
+2025-10-13T23:09:12.071980,460,Isle Fernandes,isle@opendestinations.com,Open Destinations,Vice President - HR & Admin,sent,sent
+2025-10-13T23:09:47.370418,461,Jabeen Pathan,jabeen@hulkapps.com,HulkApps,Chief Human Resources Officer,sent,sent
+2025-10-13T23:10:22.483758,462,Jacob Joy,jacob.j@wrenchsolutions.com,WRENCH Solutions,Head Strategic HR,sent,sent
+2025-10-13T23:10:58.176975,463,Jagadabhi Krishna,jagadabhi.krishna@leoforce.com,Leoforce,Director - Talent Acquisition,sent,sent
+2025-10-13T23:11:34.288418,464,Jagadish V,jagadish.v@realworld-one.com,realworld one,Head of Talent Management and Culture,sent,sent
+2025-10-13T23:12:09.616823,465,Jaipal Addagatla,jaipal.addagatla@mutualmobile.com,Mutual Mobile,"Associate Director,Talent Acquisition",sent,sent
+2025-10-13T23:12:44.935613,466,Jairaj Jagtap,jairaj.jagtap@satincorp.com,SA Technologies,Delivery Head- Recruitment/ Recruiting Head,sent,sent
+2025-10-13T23:13:20.126157,467,Jaisy Augustine,jaisy@freshersworld.com,Freshersworld.com,Head- Recruitment Solutions,sent,sent
+2025-10-13T23:13:55.285460,468,Janaki Naik,janaki.naik@tatadigital.com,Tata Digital,Chief Human Resources Officer,sent,sent
+2025-10-13T23:14:30.481476,469,Janani Prakaash,janani.prakaash@quantela.com,Quantela,Head HR,sent,sent
+2025-10-13T23:15:05.854298,470,Janet Paul,jpaul@securonix.com,Securonix,Human Resources Director,sent,sent
+2025-10-13T23:15:41.614301,471,Jasinta Francis,jasinta@experience.com,Experience.com,Director - Human Resources,sent,sent
+2025-10-13T23:16:16.945685,472,Jaslieen Kaur,jaslieen.baghh@blancco.com,Blancco Technology Group,Director HR and Operations,sent,sent
+2025-10-13T23:16:52.836266,473,Jasmine Framjee,jasmine.f@ptechnosoft.com,Perpetuuiti Technosoft PTE,Head HR,sent,sent
+2025-10-13T23:17:27.950490,474,Jasmine Vaswani,jasmine.vaswani@worldfashionexchange. com,WFX - World Fashion Exchange,Chief Human Resources Officer (CHRO),sent,sent
+2025-10-13T23:18:03.057420,475,Jaspreet Mehta,jaspreetsingh@dataglove-us.com,Trimax Americas,Director-Offshore Staffing Services,sent,sent
+2025-10-13T23:18:38.087818,476,Jaya Laxmi,jaya.laxmi@vincit.fi,Vincit,hr head,sent,sent
+2025-10-13T23:19:13.255576,477,Jaya Pandey,jaya.pandey@brainvire.com,Brainvire Infotech,Head HR,sent,sent
+2025-10-13T23:19:48.484261,478,Jayakrishnan M,jay@customerxps.com,CustomerXPs,Director - Head of HR,sent,sent
+2025-10-13T23:20:23.544739,479,Jayakumar N,njayakumar@a-bits.com,Apps Business IT Solutions,Vice President Human Resources,sent,sent
+2025-10-13T23:20:58.869065,480,Jayaprakash Yangal,jayaprakash@mirafra.com,Mirafra Technologies,Director Talent Acquisition,sent,sent
+2025-10-13T23:21:34.350727,481,Jayashree Jayanth,jayashree.jayanth@ushur.com,Ushur,Human Resources Director,sent,sent
+2025-10-13T23:22:09.708061,482,Jayashri Benjamin,jayashri@amrutsoftware.com,Amrut Software,HR and Admin Head,sent,sent
+2025-10-13T23:22:44.933028,483,Jayati Pardhy,jayati.p@keka.com,Keka HR,Head of Human Resources,sent,sent
+2025-10-13T23:23:19.994746,484,Jayendra Solanki,jasolanki@workforcelogiq.com,Workforce Logiq,Director- Talent Acquisition,sent,sent
+2025-10-13T23:23:55.013145,485,Jegannathan Balasubramanian,jegannathan@isolve.global,iSolve Technologies,AVP - Talent Growth,sent,sent
+2025-10-13T23:24:30.364321,486,Jeswin Thomas,jeswin.thomas@questionpro.com,QuestionPro,"Head,Customer Success Team | WorkForce",sent,sent
+2025-10-13T23:25:05.625835,487,Jimeet Jain,jimeet@metamorphtech.com,MetaMorphoSys Technologies,Health Insurance Practice Head - Asia Pacific,sent,sent
+2025-10-13T23:25:40.896948,488,Jinu Jose,jinu@m2comsys.com,M Squared Software and Services,Human Resources Director,sent,sent
+2025-10-13T23:26:16.040246,489,Jitendra Das,jitendra.das@workinsync.io,WorkInSync,Director HR,sent,sent
+2025-10-13T23:26:52.022595,490,Jitendra Wankhede,jitendra.wankhede@anuntatech.com,Anunta Tech,Head - Talent Acquisition,sent,sent
+2025-10-13T23:27:27.216995,491,Jitesh Asna,jitesh@softnice.com,SoftNice,AVP - US HR Operations,sent,sent
+2025-10-13T23:28:02.284163,492,Jithesh Vijayan,jithesh.v@zucisystems.com,Zuci Systems,Director- Workforce Management and Strategy,sent,sent
+2025-10-13T23:28:37.373871,493,Job Pixentia,jpixentia@pixentia.com,Pixentia,Chief People Officer,sent,sent
+2025-10-13T23:29:12.577413,494,Joe M,joem@itamerica.com,IT America Inc,Head Technical Recruiter,sent,sent
+2025-10-13T23:29:47.790976,495,Joel Lobo,joel.lobo@rtcamp.com,rtCamp,Human Resources Director,sent,sent
+2025-10-13T23:30:22.958357,496,Johnson Kasukurthi,johnsonk@netrovert.net,"Netrovert Software,",Delivery Head - Recruitment,sent,sent
+2025-10-13T23:30:58.032949,497,Joseph Francis,joseph@vdartinc.com,Dimiour,Head Human Resources Development,sent,sent
+2025-10-13T23:31:33.284594,498,Joshua Henry,joshua.henry@cloudsek.com,CloudSEK,Associate Vice President - Talent Acquisition,sent,sent
+2025-10-13T23:32:08.577185,499,Joshua T,joshua.t@sailotech.com,Sailotech,Associate Director - HR & Compliance,sent,sent
+2025-10-13T23:32:43.754099,500,Jothi Prakash,jothi.prakash@bwdesigngroup.com,Barry-Wehmiller International,Head HR,sent,sent
+2025-10-13T23:33:19.159144,501,Joy Dupati,joy.dupati@sierraatlantic.com,Sierra Atlantic,Head- Recruitment,sent,sent
+2025-10-13T23:33:54.470916,502,Juhi Sharma,juhi.sharma@lockstep.io,Lockstep,Director - HR & TA (APAC),sent,sent
+2025-10-13T23:34:30.204834,503,Justin Joseph,justin@near.com,Near,Chief People Officer,sent,sent
+2025-10-13T23:35:06.161030,504,Jyothendra Reddy,jyothendraar@aditiconsulting.com,Aditi Consulting,Senior Director - Recruitment & Operations,sent,sent
+2025-10-13T23:35:41.250521,505,Jyothsna Devi,jyothsna.devi@kasmo.co,Kasmo,Delivery Head - Staffing,sent,sent
+2025-10-13T23:36:16.583496,506,Jyoti Gouri,jyoti.g@commerceiq.ai,CommerceIQ,Director - HR,sent,sent
+2025-10-13T23:36:52.351829,507,Jyoti Gupta,jgupta@otsi-usa.com,Object Technology Solutions India,Director - Talent Acquisition,sent,sent
+2025-10-13T23:37:28.869793,508,Jyoti Kajale,jyoti.kajale@ampcus.com,Ampcus Inc,VP Talent Acquisition,sent,sent
+2025-10-13T23:38:04.099755,509,Jyoti Saini,jyoti.saini@apolisrises.com,Apolis,Global HR Head,sent,sent
+2025-10-13T23:38:39.344942,510,Jyoti Singh,jyoti.singh@zapcg.com,ZapCom Group Inc,CHRO | Global HR Head,sent,sent
+2025-10-13T23:39:15.550824,511,Jyotsna Mahajan,jyotsna.mahajan@sugarboxnetworks.com,SugarBox Networks,"Associate Director - Talent Acquisition,India",sent,sent
+2025-10-13T23:39:50.846321,512,Kajal Gupta,hr@dhaninfo.biz,DhanInfo,Hr & Admin Director,sent,sent
+2025-10-13T23:40:26.813969,513,Kajal Tuteja,kajal.tuteja@csquare.in,C-Square Info Solutions,HR Head,sent,sent
+2025-10-13T23:41:01.985972,514,Kalpana Kanhere,kalpana@theimperative.in,Imperative Business Ventures,Director HR & Admin,sent,sent
+2025-10-13T23:41:37.194470,515,Kalyan Neelagiri,kalyan.neelagiri@soroco.com,Soroco,Director of Talent Acquisition,sent,sent
+2025-10-13T23:42:12.256195,516,Kalyani Mahajan,kalyani.mahajan@paramatrix.com,Paramatrix Technologies.,Associate Vice President Human Resources,sent,sent
+2025-10-13T23:42:48.377294,517,Kalyani Mudigonda,kalyani.mudigonda@votarytech.com,Votary Softech Solutions,Head HR & Talent Management Group,sent,sent
+2025-10-13T23:43:23.565132,518,Kalyani Pendharkar,kalyani.pendharkar@theblueflamelabs.com,Blue Flame Labs,Head of Talent Acquisition,sent,sent
+2025-10-13T23:43:58.809785,519,Kamaldeep Singh,ksingh@skillgigs.com,skillgigs.com,Director of Talent Acquisition and Promotion,sent,sent
+2025-10-13T23:44:33.879881,520,Kamla Mulla,kamla.mulla@se2.com,SE2,"Global Director,Talent Development",sent,sent
+2025-10-13T23:45:09.241490,521,Kanchan Jagtap,kanchan.jagtap@tatatechnologies.com,"Tata Technologies,Pune",Head Global HR Shared Services,sent,sent
+2025-10-13T23:45:44.507489,522,Kanchan Verma,kanchan.verma@qsstechnosoft.com,QSS Technosoft,Head Of Human Resources,sent,sent
+2025-10-13T23:46:19.644835,523,Kanhaiya Sharma,kanhaiya@cloudthing.com,cloudThing,Head Of Human Resources,sent,sent
+2025-10-13T23:46:54.823598,524,Kanika Gupta,kanika@eglogics.com,EGlogics Softech,Human Resources Director,sent,sent
+2025-10-13T23:47:30.033975,525,Kannan Krishnan,kannan.krishnan@trinamix.com,Trinamix Inc,"Senior Director,Global HR",sent,sent
+2025-10-13T23:48:05.288417,526,Kannu Taneja,kannu.taneja@areteanstech.com,Areteans,Associate Director People and Culture (Global),sent,sent
+2025-10-13T23:48:41.467640,527,Kanta Nandy,kantan@labvantage.com,LabVantage Solutions,India Head - Human Resources,sent,sent
+2025-10-13T23:49:16.817288,528,Kapeesh Saxena,kapeesh.saxena@genzeon.com,Genzeon,Vice President Talent Acquisition,sent,sent
+2025-10-13T23:49:52.514597,529,Kapil K,kapil.katira@thegatewaycorp.com,Gateway Group of Companies,Head of Talent Acquisition,sent,sent
+2025-10-13T23:50:27.738390,530,Karthick Rengasamy,karthick@ideas2it.com,Ideas2IT Technologies,Head of Talent Acquisition,sent,sent
+2025-10-13T23:51:02.878055,531,Karthik Chintapatla,karthik.chintapatla@visteon.com,Visteon Technical And Services Centre,Country Head HR,sent,sent
+2025-10-13T23:51:37.980017,532,Karthik Ingarsal,karthik.i@springworks.in,Springworks,Vice President - Human Resources,sent,sent
+2025-10-13T23:52:13.882025,533,Karthik R,karthikr@operative.com,Operative,"Head of HR,India (Managed Services)",sent,sent
+2025-10-13T23:52:48.994904,534,Karthikeyan P,karthikeyan@hiverhq.com,Hiver,Head of Talent Acquisition,sent,sent
+2025-10-13T23:53:24.131302,535,Karthikeyan Samuel,karthikeyan.samuel@xansa.com,Xansa plc,Associate Vice President - Recruitment,sent,sent
+2025-10-13T23:53:59.182540,536,Karthikeyan Sivasubramanian,karthikeyan.sivasubramanian@saviynt.com,Saviynt,India Head - Talent Acquisition,sent,sent
+2025-10-13T23:54:34.361849,537,Kartik,kartik.v@vtechsolution.com,vTech Solution,Vice President Human Resources,sent,sent
+2025-10-13T23:55:09.480809,538,Kartik Sehgal,kartik.sehgal@omnepresent.com,OmnePresent Technologies,Head of Talent Acquisition,sent,sent
+2025-10-13T23:55:44.646012,539,Karuna Geddam,karuna.geddam@arcserve.com,Arcserve,Director HR at Arcserve,sent,sent
+2025-10-13T23:56:20.388208,540,Kausar Khatri,kausar.khatri@lauren.co.in,Lauren Information Technologies,Vice President Human Resources,sent,sent
+2025-10-13T23:56:56.184396,541,Kavita Gupta,kavita.gupta@anm.com,ANM,Head Of Human Resources (India),sent,sent
+2025-10-13T23:57:31.806520,542,Kavita N,kavitha.nandagopal@impelsys.com,Impelsys,AVP - HR,sent,sent
+2025-10-13T23:58:07.016779,543,Kavita Tandon,kavita.tandon@simplifyhealthcare.com,Simplify Healthcare,"VP,Global Head of HR",sent,sent
+2025-10-13T23:58:42.163825,544,Kavita Y,kavita.y@valiancesolutions.com,Valiance Solutions,AVP-Human Resources,sent,sent
+2025-10-13T23:59:17.373617,545,Kavita Yadav,kavita.yadav@valiancesolutions.com,Valiance Solutions,AVP-Human Resources,sent,sent
+2025-10-13T23:59:52.616151,546,Kavitha,kavitha@6thenergy.com,Sixth Energy Technologies,Human Resource Head,sent,sent
+2025-10-14T00:00:27.897528,547,Kavitha Martin,mkavitha@sourcetrace.com,SourceTrace,Vice President HR,sent,sent
+2025-10-14T00:01:03.120993,548,Kavitha Umasankar,kavitha.umasankar@wolterskluwer.com,Wolters Kluwer ELM Solutions,Director Human Resources,sent,sent
+2025-10-14T00:01:47.039078,549,Kavya K,kavya.k@mygoconsulting.com,Mygo Consulting,Director - Global HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b626d15e2sm13531158a91.21 - gsmtp')"
+2025-10-14T00:02:31.174157,550,Keerthi Kamasamudra,keerthi.kamasamudra@stellapps.com,Stellapps Technologies,Head Of Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e1cb78sm144693515ad.36 - gsmtp')"
+2025-10-14T00:03:15.054089,551,Keerthi Vinodh,keerthi.v@rlabsglobal.com,RLabs Enterprise Services,Director Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f8f9e0sm144760245ad.120 - gsmtp')"
+2025-10-14T00:03:59.664998,552,Ketan Shetty,ketan.shetty@writerinformation.com,Writer Information,Head HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b679509b3a9sm10324416a12.4 - gsmtp')"
+2025-10-14T00:04:45.050969,553,Kevin Marbaniang,kevin@xeno.in,Xeno,Head of Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61b12756sm13631015a91.25 - gsmtp')"
+2025-10-14T00:05:29.444313,554,Kevin Parker,kparker@integrass.com,Integrass,Practice Head- IT Staffing,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61a1d3ffsm13530984a91.1 - gsmtp')"
+2025-10-14T00:06:13.464146,555,Khandoba K,khandoba.k@techtreeit.com,TechTree IT Systems,Assistant Vice President HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f0712fsm145755555ad.71 - gsmtp')"
+2025-10-14T00:06:58.269160,556,Khushboo Jain,khushboo@techspian.com,Techspian,Human Resources Director,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61aab6c1sm13765081a91.13 - gsmtp')"
+2025-10-14T00:07:43.492773,557,Khushboo Rathore,khushboo@techaheadcorp.com,TechAhead,Associate Director of Human Capital Management,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b626d15b3sm13434664a91.20 - gsmtp')"
+2025-10-14T00:08:28.887075,558,Khushi Mishra,khushi@5ire.org,5ireChain,Head of Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f894c8sm145571575ad.122 - gsmtp')"
+2025-10-14T00:09:12.776884,559,Khyati Sagar,khyatisagar@appitsimple.com,Appitsimple Infotek,Talent Head,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b62657166sm13566696a91.11 - gsmtp')"
+2025-10-14T00:09:57.357774,560,Kinjal Shah,kinjal@biztechconsultancy.com,BiztechCS,Human Resource Director,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b7411fcf0sm7644659a91.4 - gsmtp')"
+2025-10-14T00:10:41.390683,561,Kiran Bala,kiran.bala@blueconchtech.com,UST BlueConch Technologies,Director Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f5840csm145414505ad.107 - gsmtp')"
+2025-10-14T00:11:25.892818,562,Kiran Kumar,kkumar@adea.com,Adea Solutions,Head -HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61a392cdsm14031783a91.7 - gsmtp')"
+2025-10-14T00:12:10.787181,563,Kiran Lal,kiran.lal@tomiaglobal.com,TOMIA,Director & Head Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e1cb78sm144835995ad.36 - gsmtp')"
+2025-10-14T00:12:55.942789,564,Kiran Punjabi,kiran@manektech.com,ManekTech,Head Of Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b6192995asm13802559a91.0 - gsmtp')"
+2025-10-14T00:13:39.842390,565,Kiran Singh,kirans@mindfiresolutions.com,Mindfire Solutions,"VP,Talent Development",failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de658bsm145692485ad.22 - gsmtp')"
+2025-10-14T00:14:23.741715,566,Kiran Somanath,kiran.s@zerone-consulting.com,Zerone Consulting,Chief People Officer,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d09a87asm12950305b3a.46 - gsmtp')"
+2025-10-14T00:15:07.537282,567,Kirti Manucha,kirti.manucha@healthfore.com,HealthFore Technologies,SVP - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e1cc8bsm145113435ad.38 - gsmtp')"
+2025-10-14T00:15:52.857666,568,Kirti Manucha,kirti.manucha@religare.com,Religare Technova,President - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-79b65528a51sm7902853b3a.85 - gsmtp')"
+2025-10-14T00:16:36.773319,569,Kishor Pinninti,kishor.p@feuji.com,Feuji Inc,Vice President Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d0e134fsm12906028b3a.58 - gsmtp')"
+2025-10-14T00:17:20.785327,570,Komal Hazra,komal@balajidatasolutions.net,BDS Services,Head of HR and Finance,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e179c3sm145884055ad.30 - gsmtp')"
+2025-10-14T00:18:04.668652,571,Komala Tummala,komala.t@acropetal.com,Acropetal Technologies,Head Talent Management,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-2904f61a1desm86959065ad.82 - gsmtp')"
+2025-10-14T00:18:49.889632,572,Korak Saha,korak.saha@mjunction.in,mjunction services,Chief People Officer,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de6c07sm145701585ad.1 - gsmtp')"
+2025-10-14T00:19:34.455930,573,Koundinya Adiraju,koundinya.adiraju@testingxperts.com,TestingXperts,Vice President Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992bc12a8asm12911219b3a.34 - gsmtp')"
+2025-10-14T00:20:19.496669,574,Koustav Chatterjee,koustav@nasscom.in,NASSCOM,Head - Digital Health Ecosystem,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f4ad6esm144796775ad.109 - gsmtp')"
+2025-10-14T00:21:03.524030,575,Kranthi Kumar,kkumar@polarismanagement.com,Polaris,Director Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034deb0e7sm145143265ad.11 - gsmtp')"
+2025-10-14T00:21:47.459772,576,Krishan Kumar,krishan_kumar@taaltech.com,TAAL Tech,Talent Management Head,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e1cc27sm145398815ad.32 - gsmtp')"
+2025-10-14T00:22:31.595859,577,Krishna Kumar,krishna_kumar@actis.co.in,Actis Technologies,Head HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61ac812csm13404016a91.18 - gsmtp')"
+2025-10-14T00:23:15.522908,578,Krishnachand Nair,knair@ixiacom.com,Keysight Network Visibility Test & Security,Director- Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992dd854a2sm12945686b3a.76 - gsmtp')"
+2025-10-14T00:23:59.533202,579,Krishnan Ramachandran,kramachandran@hitachi-solutions.com,Hitachi Solutions Asia Pacific,Senior Director Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b0606fesm13163526b3a.12 - gsmtp')"
+2025-10-14T00:24:43.357856,580,Krishnan Vr,krishnanvr@savvy-it.com,Savvysoft Technologies,Director HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d993853sm12876607b3a.74 - gsmtp')"
+2025-10-14T00:25:27.912091,581,Krishnanand Joshi,krishnanand.joshi@teknorix.com,Teknorix,Head - HR & Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d2d2b29sm12955815b3a.55 - gsmtp')"
+2025-10-14T00:26:11.977624,582,Kriti A,kriti@consummatetechnologies.com,Consummate Technologies,Head HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992bb18e28sm13036254b3a.29 - gsmtp')"
+2025-10-14T00:26:56.440397,583,Kritika Khanduri,kritika.khanduri@loginradius.com,LoginRadius,Head of Global Recruitment,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f0712fsm146067505ad.71 - gsmtp')"
+2025-10-14T00:27:41.360522,584,Kshama Patel,kshama.patel@intech-systems.com,Intech Systems,Head Of Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b678ddc9f8esm10509426a12.10 - gsmtp')"
+2025-10-14T00:28:25.174279,585,Kuldeep Chobey,kuldeep.chobey@satincorp.com,SA Technologies,Director-HR & Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d0966d7sm12926414b3a.40 - gsmtp')"
+2025-10-14T00:29:09.239585,586,Kuldeep Gupta,kuldeepg@porteck.com,Porteck Corporation,Head Of Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d0966d7sm12927530b3a.40 - gsmtp')"
+2025-10-14T00:29:53.073180,587,Kulvir Kaur,kulvir.kaur@cloudeq.com,cloudEQ,HOD Human Resource,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e44ef9sm144268275ad.52 - gsmtp')"
+2025-10-14T00:30:37.132947,588,Kumar Anchan,kumara@aditiconsulting.com,Aditi Consulting,Director - Recruitment,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e43d60sm145510315ad.58 - gsmtp')"
+2025-10-14T00:31:23.208059,589,Kumuda Panda,kumuda.panda@evonsys.com,EvonSys,Director HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b678ddce4b6sm10428310a12.13 - gsmtp')"
+2025-10-14T00:32:06.946969,590,Kunal,kunal@elsner.com,Elsner Technologies,Head - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b060a38sm13175458b3a.5 - gsmtp')"
+2025-10-14T00:32:51.827588,591,Kunal Acharyaa,kunal.acharya@impelsys.com,Impelsys,Global Head Talent Acquisition & TA COE,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b6792f508c6sm10591809a12.24 - gsmtp')"
+2025-10-14T00:33:35.758748,592,Kunal Wadhwani,kunal.wadhwani@pocketfm.com,Pocket FM,Director - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61ac812csm13421914a91.18 - gsmtp')"
+2025-10-14T00:34:19.726200,593,Kushagra,kushagra.pande@jungleegames.com,Junglee Games,Director Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f05bcasm145408625ad.84 - gsmtp')"
+2025-10-14T00:35:03.602496,594,Lakshmi Eyyunni,lakshmi.eyyunni@narvar.com,Narvar,Director of People Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de5defsm145317775ad.15 - gsmtp')"
+2025-10-14T00:35:48.311597,595,Lakshmi Radhakrishnan,lakshmipriya.radhakrishnan@bwdesigngroup. com,Barry-Wehmiller International,Director - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e1cb83sm146300305ad.44 - gsmtp')"
+2025-10-14T00:36:33.123080,596,Lakshmi Vishwanatth,lakshmi@triconinfotech.com,Tricon Infotech,Director - People Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b529c615esm10604864a91.2 - gsmtp')"
+2025-10-14T00:37:16.912483,597,Lakshmipriya Babu,lakshmi.p@qis.co.in,Quest Innovative Solutions,Head-Human Resources & Placements,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f89972sm144424405ad.112 - gsmtp')"
+2025-10-14T00:38:01.634923,598,Lata Chemudupati,lata.c@netconnectglobal.com,NetConnectGlobal,AVP- HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-79b65528a51sm7939908b3a.85 - gsmtp')"
+2025-10-14T00:38:45.476062,599,Lata Kohli,lata.kohli@cogentinfo.com,COGENT Infotech,Director - US HR Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b678ddcc604sm10161704a12.11 - gsmtp')"
+2025-10-14T00:39:30.231449,600,Latchoumanan Tirounavoucarassou,ltirounavoucarassou@yodlee.com,Envestnet,Director Operations - Performance,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b678df916d0sm10807154a12.44 - gsmtp')"
+2025-10-14T00:40:14.087332,601,Latha Shankar,lshankar@liventus.com,"Liventus,",Director - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e1cb83sm146368695ad.44 - gsmtp')"
+2025-10-14T00:40:57.963152,602,Lavita Nathani,lavita.n@endurance.com,Newfold Digital,Senior Director Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61ac8d7fsm13455682a91.21 - gsmtp')"
+2025-10-14T00:41:41.975791,603,Laxman Reddy,laxman.reddy@lorhanit.com,Lorhan IT,"Vice President - Finance,HR & IT Support Systems",failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f08ddasm144363235ad.65 - gsmtp')"
+2025-10-14T00:42:26.399268,604,Leela Madhuri,leela.madhuri@cashapona.com,Cashapona Technologies,Head Of Recruitment,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d0964c1sm12808050b3a.54 - gsmtp')"
+2025-10-14T00:43:11.086276,605,Leena Arora,leena@getcerta.com,Certa,Head Of Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992bc13543sm12974407b3a.35 - gsmtp')"
+2025-10-14T00:43:56.163688,606,Leena Xavier,leena.xavier@solitontech.com,Soliton Technologies,"Head of Leadership,Talent",failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de6c07sm146086105ad.1 - gsmtp')"
+2025-10-14T00:44:41.218822,607,Linju Varughese,lvarughese@suyati.com,Suyati Technologies,Associate Director - Talent Attraction,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d0e2c6csm12931622b3a.57 - gsmtp')"
+2025-10-14T00:45:25.303180,608,Lipika Mohanty,lipika.mohanty@crmnext.com,CRMNEXT,Global HR Director,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de658bsm146184525ad.22 - gsmtp')"
+2025-10-14T00:46:09.033213,609,Lisa Crage,lisacrage@insolutionsglobal.com,In-Solutions Global,Vice President Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b252f23sm12859700b3a.6 - gsmtp')"
+2025-10-14T00:46:52.976196,610,Liton Saha,litons@innov.in,Innovsource,Head - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d09a87asm13004172b3a.46 - gsmtp')"
+2025-10-14T00:47:37.355883,611,Lituja Mishra,lituja.mishra@apmosys.in,ApMoSys Technologies,Sr. VP - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b626d284bsm13429462a91.18 - gsmtp')"
+2025-10-14T00:48:22.182843,612,Livin Varghese,livin.varghese@teqfocus.com,Teqfocus,Chief People Officer,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f4ae6csm145835315ad.108 - gsmtp')"
+2025-10-14T00:49:05.997471,613,Logesh Chandramoorthy,logesh@clumio.com,Clumio,Head of Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e1cb83sm146514395ad.44 - gsmtp')"
+2025-10-14T00:49:50.104499,614,Lokesh Gurgela,lokesh@nexgeniots.com,Nexgen IOT Solutions,Sr. Manager/Head - Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f35e62sm145967995ad.88 - gsmtp')"
+2025-10-14T00:50:33.984986,615,Luisa Mohanty,luisa.mohanty@rategain.com,RateGain,Associate Vice President - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de6c07sm146193895ad.1 - gsmtp')"
+2025-10-14T00:51:17.907510,616,Lydia Dsouza,lydia.dsouza@progility.com.au,Progility Technologies,Head Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de5dbfsm145561955ad.20 - gsmtp')"
+2025-10-14T00:52:02.635630,617,Lydia D'Souza,lydia.dsouza@progilitytech.com,Progility Technologies,Head - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b626458edsm13356470a91.8 - gsmtp')"
+2025-10-14T00:52:46.404756,618,Lyndon Saldanha,lyndon.saldanha@manthan.com,Manthan,Vice President - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d0c349csm13056112b3a.50 - gsmtp')"
+2025-10-14T00:53:31.282470,619,Maanoj Mishra,maanoj@betterplace.co.in,BetterPlace,Group Head HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992dd8502fsm12776769b3a.84 - gsmtp')"
+2025-10-14T00:54:15.807266,620,Maclean Raphael,maclean.raphael@wepindia.com,WeP Peripherals,VP - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f36116sm147067745ad.93 - gsmtp')"
+2025-10-14T00:55:00.534496,621,Madhan Kumar,madhan.kumar@aditiconsulting.com,Aditi Consulting,Director of Talent Management & Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29076d7af28sm11229065ad.118 - gsmtp')"
+2025-10-14T00:55:44.748463,622,Madhav Mallela,madhava.mallela@microexcel.com,Microexcel Inc,Director-HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61a4bafesm14273714a91.11 - gsmtp')"
+2025-10-14T00:56:28.623352,623,Madhavee Singh,madhavee.singh@blucognition.com,bluCognition,Human Resource Manager- Head,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f961c5sm145247415ad.129 - gsmtp')"
+2025-10-14T00:57:13.508714,624,Madhavi G,madhavig@operative.com,Operative,"Senior Head of HR,India (R&D)",failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034deab27sm147095555ad.9 - gsmtp')"
+2025-10-14T00:57:57.900213,625,Madhu Kapu,madhu.kapu@allyis.com,Allyis,Head HR & Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de5dbfsm145664475ad.20 - gsmtp')"
+2025-10-14T00:58:41.986483,626,Madhu Nakkala,madhu.n@qualizeal.com,QualiZeal,Head of Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b0604cfsm13208389b3a.9 - gsmtp')"
+2025-10-14T00:59:25.833861,627,Madhura Lanjekar,madhura.lanjekar@clariontechnologies.co.in,Clarion Technologies,Vice President Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b67d0d8391dsm2586715a12.41 - gsmtp')"
+2025-10-14T01:00:11.177410,628,Madhuri Mhamankar,mmhamankar@yotta.com,Yotta Infrastructure Solutions,General Manager & Head Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b678df48a83sm10935365a12.31 - gsmtp')"
+2025-10-14T01:00:55.404283,629,Madhuri Nandgaonkar,madhuri@gupshup.io,Gupshup,Senior Director HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b6262df70sm13780964a91.1 - gsmtp')"
+2025-10-14T01:01:40.504216,630,Madhuri Palaji,mpalaji@randomtrees.com,RandomTrees,Head - Talent Acquisition Group,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992bb11ca0sm13089188b3a.32 - gsmtp')"
+2025-10-14T01:02:25.264806,631,Madhuri Rajath,madhuri.rajath@goodera.com,Goodera,Associate Director Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b678dcbfb07sm10137904a12.3 - gsmtp')"
+2025-10-14T01:03:09.383311,632,Madhushree Kumra,madhuk@lentra.ai,Lentra,Head - People Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61a3cc5csm13844140a91.10 - gsmtp')"
+2025-10-14T01:03:54.032898,633,Madhusudhanan,madhusudhanan@imarque.co.in,iMarque Solutions,Head of HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b626bb775sm13596752a91.15 - gsmtp')"
+2025-10-14T01:04:38.189372,634,Madhvi Arora,madhvi.arora@yodlee.com,Envestnet,Vice President & Head HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61ac8d7fsm13496830a91.21 - gsmtp')"
+2025-10-14T01:05:21.947219,635,Mahalakshmi,mahalakshmi@unilogcorp.com,Unilog,Vice President Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f3de4asm146070805ad.92 - gsmtp')"
+2025-10-14T01:06:06.128787,636,Mahasweta Paul,mahasweta.paul@atyati.com,atyati Technologies,VP - Chief People Officer,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b6262df70sm13789652a91.1 - gsmtp')"
+2025-10-14T01:06:50.592520,637,Mahendra Singh,mahendra.singh@excelra.com,Excelra,Vice President - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b639cbcsm13025131b3a.18 - gsmtp')"
+2025-10-14T01:07:35.727566,638,Mahendra Thiyagarajan,mahendra@vysystems.com,VySystems,Head - Global HR & Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d0e275csm12999448b3a.61 - gsmtp')"
+2025-10-14T01:08:21.827035,639,Mahendran Subramaniam,mahendran.s@kovaion.com,Kovaion Consulting,Head HR & RPO Delivery,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61a3cbf2sm13845891a91.8 - gsmtp')"
+2025-10-14T01:09:06.377559,640,Mahesh Bandaru,mahesh.bandaru@neewee.ai,Neewee,Director - HR India,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b61ac8d7fsm13504872a91.21 - gsmtp')"
+2025-10-14T01:09:50.211011,641,Mahesh Hyam,mahesh.h@zelitesolutions.com,Zelite Solutions,Head - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f36b67sm146690965ad.90 - gsmtp')"
+2025-10-14T01:10:35.627818,642,Mainka Sharma,mainka.s@geeklurn.com,GeekLurn,Head of Talent Acquisition &HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b626bb7edsm13296662a91.13 - gsmtp')"
+2025-10-14T01:11:20.721784,643,Malathi Premkumar,malathip@boston-technology.com,Boston Technology Corporation,Vice President - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e18483sm146514645ad.27 - gsmtp')"
+2025-10-14T01:12:04.623828,644,Malini Venugopal,malini.venugopal@people10.com,People10 Technologies,Director Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d0c3a38sm13016535b3a.41 - gsmtp')"
+2025-10-14T01:12:49.191804,645,Mallika Poojari,mallika.poojari@featsystems.com,Feat Systems,Recruitment Head,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992dc86a93sm12990295b3a.75 - gsmtp')"
+2025-10-14T01:13:33.604485,646,Mamatha Nagesh,mamatha.n@modefin.com,Modefin,Head - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f07d51sm145857945ad.69 - gsmtp')"
+2025-10-14T01:14:18.593928,647,Mamta,mamta@cognustechnology.com,Cognus Technology,Chief Human Resources Officer,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b52a2522asm8031000a91.8 - gsmtp')"
+2025-10-14T01:15:02.512690,648,Mamta Nath,mamta.nath@e-pspl.com,PC Solutions,Head - HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b065a5fsm13031038b3a.7 - gsmtp')"
+2025-10-14T01:15:46.689422,649,Mamta Yadav,mamta.yadav@amantyatech.com,Amantya Technologies,Head of Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b678dcc0cd1sm10511849a12.8 - gsmtp')"
+2025-10-14T01:16:31.269293,650,Mamtha,mamtha@sigmoidanalytics.com,Sigmoid,Director Talent Acquisition - Leadership Hiring,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992bb1e50dsm13105505b3a.33 - gsmtp')"
+2025-10-14T01:17:16.361659,651,Mamtha Akula,mamtha.akula@netradyne.com,Netradyne,Talent Head at Netradyne,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b6264734csm13627166a91.10 - gsmtp')"
+2025-10-14T01:18:01.077524,652,Manashi Chakraborty,mchakraborty@phdata.io,phData,"Director Of People Operations,India",failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b921711sm13020393b3a.27 - gsmtp')"
+2025-10-14T01:18:45.586039,653,Manasi Kelkar,manasi.kelkar@cropin.com,CropIn Technology,VP - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b8285ddsm13087404b3a.23 - gsmtp')"
+2025-10-14T01:19:30.136632,654,Manav Jain,manav.jain@loconav.com,LocoNav,Chief Human Resources Officer,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b5288f84esm7965767a91.0 - gsmtp')"
+2025-10-14T01:20:14.213440,655,Manda Kishore,manda.kishore@evolutyz.com,Evolutyz Corp,Head - Recruitments,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992bc12a8asm13012484b3a.34 - gsmtp')"
+2025-10-14T01:20:58.053885,656,Mandeep Singh,mandeep.singh@tulip.co,Tulip Interfaces,Head of HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de5721sm145914085ad.21 - gsmtp')"
+2025-10-14T01:21:43.544641,657,Mandeep Virdi,mandeep.virdi@esri.in,Esri India,Head of Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d2d2e42sm12870042b3a.62 - gsmtp')"
+2025-10-14T01:22:29.040098,658,Mani Narayanan,manin@karyatech.com,KARYA Technologies,Vice President - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de6fd3sm147397655ad.25 - gsmtp')"
+2025-10-14T01:23:14.102889,659,Manian Chennai,manian@callezee.com,Info Network Management Company,head talent resourcing,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b67d0d8391dsm2619425a12.41 - gsmtp')"
+2025-10-14T01:23:58.790803,660,Manik Mahajan,manikmahajan@qainfotech.com,QA InfoTech,"Director,Performance Engineering",failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b060754sm13270292b3a.13 - gsmtp')"
+2025-10-14T01:24:43.447367,661,Manik Mondal,manik.mondal@qbadvisory.com,QBA Worldwide,Director Talent Acquisition (India),failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d993853sm12976177b3a.74 - gsmtp')"
+2025-10-14T01:25:27.307801,662,Manikandan Balasubramanian,manikandan.b@itech-india.com,iTech India,Head Of Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b060b59sm13419205b3a.2 - gsmtp')"
+2025-10-14T01:26:12.027514,663,Manish,mtripathi@phdata.io,phData,Director Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b626bb7edsm13324832a91.13 - gsmtp')"
+2025-10-14T01:26:56.765876,664,Manish Sitania,msitania@egain.com,eGain Corporation,Worldwide Head of HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b678df6a0d9sm9832282a12.37 - gsmtp')"
+2025-10-14T01:27:41.435479,665,Manisha,manisha@dreamsoft4u.com,DreamSoft4u,VP - HR Department,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f05c22sm147159095ad.70 - gsmtp')"
+2025-10-14T01:28:25.457629,666,Manisha Dash,manisha.dash@celigo.com,Celigo,"Director India,Human Resources",failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034f36c3fsm145776585ad.98 - gsmtp')"
+2025-10-14T01:29:09.443378,667,Manisha Dixit,mdixit@netrixllc.com,Netrix,HR Director - Asia Pacific,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034de5dbfsm146166025ad.20 - gsmtp')"
+2025-10-14T01:29:53.474317,668,Manjeet Walia,manjeet.walia@harbingergroup.com,Harbinger Group,Head of Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b6792f508c6sm10672164a12.24 - gsmtp')"
+2025-10-14T01:30:37.376721,669,Manjiri Patel-Shinde,manjiri.shinde@cloudmoyo.com,CloudMoyo,Vice President Global HR,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29034e20f8csm147086065ad.49 - gsmtp')"
+2025-10-14T01:31:23.458210,670,Manju Jacob,manju.jacob@sarvatra.in,Sarvatra Technologies,AVP -Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33b626bb775sm13648048a91.15 - gsmtp')"
+2025-10-14T01:32:08.234001,671,Manjunath P,manju@nichi.com,Nichi-In Software Solutions,"Head - Finance,HR & Administration",failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b67acd88c77sm7403145a12.34 - gsmtp')"
+2025-10-17T06:31:51.106615,550,Keerthi Kamasamudra,keerthi.kamasamudra@stellapps.com,Stellapps Technologies,Head Of Human Resources,previewed,dry-run previewed
+2025-10-17T06:31:54.118041,551,Keerthi Vinodh,keerthi.v@rlabsglobal.com,RLabs Enterprise Services,Director Human Resources,previewed,dry-run previewed
+2025-10-17T06:31:57.124166,552,Ketan Shetty,ketan.shetty@writerinformation.com,Writer Information,Head HR,previewed,dry-run previewed
+2025-10-17T06:32:00.131612,553,Kevin Marbaniang,kevin@xeno.in,Xeno,Head of Talent Acquisition,previewed,dry-run previewed
+2025-10-17T06:32:03.139184,554,Kevin Parker,kparker@integrass.com,Integrass,Practice Head- IT Staffing,previewed,dry-run previewed
+2025-10-17T06:32:06.146607,555,Khandoba K,khandoba.k@techtreeit.com,TechTree IT Systems,Assistant Vice President HR,previewed,dry-run previewed
+2025-10-17T06:34:42.769759,550,Keerthi Kamasamudra,keerthi.kamasamudra@stellapps.com,Stellapps Technologies,Head Of Human Resources,sent,sent
+2025-10-17T06:35:03.274334,551,Keerthi Vinodh,keerthi.v@rlabsglobal.com,RLabs Enterprise Services,Director Human Resources,sent,sent
+2025-10-17T06:35:23.650865,552,Ketan Shetty,ketan.shetty@writerinformation.com,Writer Information,Head HR,sent,sent
+2025-10-17T06:35:43.983373,553,Kevin Marbaniang,kevin@xeno.in,Xeno,Head of Talent Acquisition,sent,sent
+2025-10-17T06:36:04.241477,554,Kevin Parker,kparker@integrass.com,Integrass,Practice Head- IT Staffing,sent,sent
+2025-10-17T06:36:24.405099,555,Khandoba K,khandoba.k@techtreeit.com,TechTree IT Systems,Assistant Vice President HR,sent,sent
+2025-10-17T06:36:44.718415,556,Khushboo Jain,khushboo@techspian.com,Techspian,Human Resources Director,sent,sent
+2025-10-17T06:37:06.050805,557,Khushboo Rathore,khushboo@techaheadcorp.com,TechAhead,Associate Director of Human Capital Management,sent,sent
+2025-10-17T06:37:27.676264,558,Khushi Mishra,khushi@5ire.org,5ireChain,Head of Human Resources,sent,sent
+2025-10-17T06:37:49.582202,559,Khyati Sagar,khyatisagar@appitsimple.com,Appitsimple Infotek,Talent Head,sent,sent
+2025-10-17T06:38:10.081222,560,Kinjal Shah,kinjal@biztechconsultancy.com,BiztechCS,Human Resource Director,sent,sent
+2025-10-17T06:38:32.199866,561,Kiran Bala,kiran.bala@blueconchtech.com,UST BlueConch Technologies,Director Human Resources,sent,sent
+2025-10-17T06:38:53.626125,562,Kiran Kumar,kkumar@adea.com,Adea Solutions,Head -HR,sent,sent
+2025-10-17T06:39:13.896594,563,Kiran Lal,kiran.lal@tomiaglobal.com,TOMIA,Director & Head Human Resources,sent,sent
+2025-10-17T06:39:34.166442,564,Kiran Punjabi,kiran@manektech.com,ManekTech,Head Of Human Resources,sent,sent
+2025-10-17T06:39:59.207293,565,Kiran Singh,kirans@mindfiresolutions.com,Mindfire Solutions,"VP,Talent Development",sent,sent
+2025-10-17T06:40:19.563487,566,Kiran Somanath,kiran.s@zerone-consulting.com,Zerone Consulting,Chief People Officer,sent,sent
+2025-10-17T06:40:39.734746,567,Kirti Manucha,kirti.manucha@healthfore.com,HealthFore Technologies,SVP - HR,sent,sent
+2025-10-17T06:41:00.287694,568,Kirti Manucha,kirti.manucha@religare.com,Religare Technova,President - HR,sent,sent
+2025-10-17T06:41:20.444436,569,Kishor Pinninti,kishor.p@feuji.com,Feuji Inc,Vice President Talent Acquisition,sent,sent
+2025-10-17T06:41:40.593149,570,Komal Hazra,komal@balajidatasolutions.net,BDS Services,Head of HR and Finance,sent,sent
+2025-10-17T06:42:00.753278,571,Komala Tummala,komala.t@acropetal.com,Acropetal Technologies,Head Talent Management,sent,sent
+2025-10-17T06:42:20.827829,572,Korak Saha,korak.saha@mjunction.in,mjunction services,Chief People Officer,sent,sent
+2025-10-17T06:42:41.009920,573,Koundinya Adiraju,koundinya.adiraju@testingxperts.com,TestingXperts,Vice President Talent Acquisition,sent,sent
+2025-10-17T06:43:01.144114,574,Koustav Chatterjee,koustav@nasscom.in,NASSCOM,Head - Digital Health Ecosystem,sent,sent
+2025-10-17T06:43:21.247544,575,Kranthi Kumar,kkumar@polarismanagement.com,Polaris,Director Human Resources,sent,sent
+2025-10-17T06:43:41.858007,576,Krishan Kumar,krishan_kumar@taaltech.com,TAAL Tech,Talent Management Head,sent,sent
+2025-10-17T06:44:02.096884,577,Krishna Kumar,krishna_kumar@actis.co.in,Actis Technologies,Head HR,sent,sent
+2025-10-17T06:44:22.198694,578,Krishnachand Nair,knair@ixiacom.com,Keysight Network Visibility Test & Security,Director- Human Resources,sent,sent
+2025-10-17T06:44:42.432839,579,Krishnan Ramachandran,kramachandran@hitachi-solutions.com,Hitachi Solutions Asia Pacific,Senior Director Human Resources,sent,sent
+2025-10-17T06:45:02.522490,580,Krishnan Vr,krishnanvr@savvy-it.com,Savvysoft Technologies,Director HR,sent,sent
+2025-10-17T06:45:22.790061,581,Krishnanand Joshi,krishnanand.joshi@teknorix.com,Teknorix,Head - HR & Operations,sent,sent
+2025-10-17T06:45:42.967002,582,Kriti A,kriti@consummatetechnologies.com,Consummate Technologies,Head HR,sent,sent
+2025-10-17T06:46:03.271100,583,Kritika Khanduri,kritika.khanduri@loginradius.com,LoginRadius,Head of Global Recruitment,sent,sent
+2025-10-17T06:46:23.416056,584,Kshama Patel,kshama.patel@intech-systems.com,Intech Systems,Head Of Human Resources,sent,sent
+2025-10-17T06:46:43.667558,585,Kuldeep Chobey,kuldeep.chobey@satincorp.com,SA Technologies,Director-HR & Operations,sent,sent
+2025-10-17T06:47:03.950089,586,Kuldeep Gupta,kuldeepg@porteck.com,Porteck Corporation,Head Of Human Resources,sent,sent
+2025-10-17T06:47:24.291225,587,Kulvir Kaur,kulvir.kaur@cloudeq.com,cloudEQ,HOD Human Resource,sent,sent
+2025-10-17T06:47:44.445729,588,Kumar Anchan,kumara@aditiconsulting.com,Aditi Consulting,Director - Recruitment,sent,sent
+2025-10-17T06:48:04.629948,589,Kumuda Panda,kumuda.panda@evonsys.com,EvonSys,Director HR,sent,sent
+2025-10-17T06:48:24.746828,590,Kunal,kunal@elsner.com,Elsner Technologies,Head - HR,sent,sent
+2025-10-17T06:48:45.105731,591,Kunal Acharyaa,kunal.acharya@impelsys.com,Impelsys,Global Head Talent Acquisition & TA COE,sent,sent
+2025-10-17T06:49:05.222748,592,Kunal Wadhwani,kunal.wadhwani@pocketfm.com,Pocket FM,Director - Human Resources,sent,sent
+2025-10-17T06:49:25.423208,593,Kushagra,kushagra.pande@jungleegames.com,Junglee Games,Director Talent Acquisition,sent,sent
+2025-10-17T06:49:45.609690,594,Lakshmi Eyyunni,lakshmi.eyyunni@narvar.com,Narvar,Director of People Operations,sent,sent
+2025-10-17T06:50:06.269269,595,Lakshmi Radhakrishnan,lakshmipriya.radhakrishnan@bwdesigngroup. com,Barry-Wehmiller International,Director - HR,sent,sent
+2025-10-17T06:50:26.537850,596,Lakshmi Vishwanatth,lakshmi@triconinfotech.com,Tricon Infotech,Director - People Operations,sent,sent
+2025-10-17T06:50:46.711390,597,Lakshmipriya Babu,lakshmi.p@qis.co.in,Quest Innovative Solutions,Head-Human Resources & Placements,sent,sent
+2025-10-17T06:51:06.999635,598,Lata Chemudupati,lata.c@netconnectglobal.com,NetConnectGlobal,AVP- HR,sent,sent
+2025-10-17T06:51:27.396050,599,Lata Kohli,lata.kohli@cogentinfo.com,COGENT Infotech,Director - US HR Operations,sent,sent
+2025-10-17T06:51:47.620438,600,Latchoumanan Tirounavoucarassou,ltirounavoucarassou@yodlee.com,Envestnet,Director Operations - Performance,sent,sent
+2025-10-17T06:52:07.641340,601,Latha Shankar,lshankar@liventus.com,"Liventus,",Director - HR,sent,sent
+2025-10-17T06:52:27.825623,602,Lavita Nathani,lavita.n@endurance.com,Newfold Digital,Senior Director Human Resources,sent,sent
+2025-10-17T06:52:47.982756,603,Laxman Reddy,laxman.reddy@lorhanit.com,Lorhan IT,"Vice President - Finance,HR & IT Support Systems",sent,sent
+2025-10-17T06:53:08.145307,604,Leela Madhuri,leela.madhuri@cashapona.com,Cashapona Technologies,Head Of Recruitment,sent,sent
+2025-10-17T06:53:28.301615,605,Leena Arora,leena@getcerta.com,Certa,Head Of Human Resources,sent,sent
+2025-10-17T06:53:49.183639,606,Leena Xavier,leena.xavier@solitontech.com,Soliton Technologies,"Head of Leadership,Talent",sent,sent
+2025-10-17T06:54:09.780341,607,Linju Varughese,lvarughese@suyati.com,Suyati Technologies,Associate Director - Talent Attraction,sent,sent
+2025-10-17T06:54:29.955486,608,Lipika Mohanty,lipika.mohanty@crmnext.com,CRMNEXT,Global HR Director,sent,sent
+2025-10-17T06:54:50.114090,609,Lisa Crage,lisacrage@insolutionsglobal.com,In-Solutions Global,Vice President Human Resources,sent,sent
+2025-10-17T06:55:10.287014,610,Liton Saha,litons@innov.in,Innovsource,Head - Human Resources,sent,sent
+2025-10-17T06:55:30.431509,611,Lituja Mishra,lituja.mishra@apmosys.in,ApMoSys Technologies,Sr. VP - HR,sent,sent
+2025-10-17T06:55:50.560171,612,Livin Varghese,livin.varghese@teqfocus.com,Teqfocus,Chief People Officer,sent,sent
+2025-10-17T06:56:10.603084,613,Logesh Chandramoorthy,logesh@clumio.com,Clumio,Head of Talent Acquisition,sent,sent
+2025-10-17T06:56:30.828786,614,Lokesh Gurgela,lokesh@nexgeniots.com,Nexgen IOT Solutions,Sr. Manager/Head - Talent Acquisition,sent,sent
+2025-10-17T06:56:51.133123,615,Luisa Mohanty,luisa.mohanty@rategain.com,RateGain,Associate Vice President - Human Resources,sent,sent
+2025-10-17T06:57:12.197416,616,Lydia Dsouza,lydia.dsouza@progility.com.au,Progility Technologies,Head Human Resources,sent,sent
+2025-10-17T06:57:33.268627,617,Lydia D'Souza,lydia.dsouza@progilitytech.com,Progility Technologies,Head - Human Resources,sent,sent
+2025-10-17T06:57:54.570326,618,Lyndon Saldanha,lyndon.saldanha@manthan.com,Manthan,Vice President - Human Resources,sent,sent
+2025-10-17T06:58:14.755707,619,Maanoj Mishra,maanoj@betterplace.co.in,BetterPlace,Group Head HR,sent,sent
+2025-10-17T06:58:35.045498,620,Maclean Raphael,maclean.raphael@wepindia.com,WeP Peripherals,VP - HR,sent,sent
+2025-10-17T06:58:55.224447,621,Madhan Kumar,madhan.kumar@aditiconsulting.com,Aditi Consulting,Director of Talent Management & Operations,sent,sent
+2025-10-17T06:59:15.334535,622,Madhav Mallela,madhava.mallela@microexcel.com,Microexcel Inc,Director-HR,sent,sent
+2025-10-17T06:59:35.372835,623,Madhavee Singh,madhavee.singh@blucognition.com,bluCognition,Human Resource Manager- Head,sent,sent
+2025-10-17T06:59:55.629470,624,Madhavi G,madhavig@operative.com,Operative,"Senior Head of HR,India (R&D)",sent,sent
+2025-10-17T07:00:15.646990,625,Madhu Kapu,madhu.kapu@allyis.com,Allyis,Head HR & Operations,sent,sent
+2025-10-17T07:00:35.776154,626,Madhu Nakkala,madhu.n@qualizeal.com,QualiZeal,Head of Talent Acquisition,sent,sent
+2025-10-17T07:00:56.324800,627,Madhura Lanjekar,madhura.lanjekar@clariontechnologies.co.in,Clarion Technologies,Vice President Human Resources,sent,sent
+2025-10-17T07:01:16.521948,628,Madhuri Mhamankar,mmhamankar@yotta.com,Yotta Infrastructure Solutions,General Manager & Head Human Resources,sent,sent
+2025-10-17T07:01:36.937607,629,Madhuri Nandgaonkar,madhuri@gupshup.io,Gupshup,Senior Director HR,sent,sent
+2025-10-17T07:01:57.274978,630,Madhuri Palaji,mpalaji@randomtrees.com,RandomTrees,Head - Talent Acquisition Group,sent,sent
+2025-10-17T07:02:17.595903,631,Madhuri Rajath,madhuri.rajath@goodera.com,Goodera,Associate Director Human Resources,sent,sent
+2025-10-17T07:02:38.257007,632,Madhushree Kumra,madhuk@lentra.ai,Lentra,Head - People Operations,sent,sent
+2025-10-17T07:02:58.783419,633,Madhusudhanan,madhusudhanan@imarque.co.in,iMarque Solutions,Head of HR,sent,sent
+2025-10-17T07:03:19.130667,634,Madhvi Arora,madhvi.arora@yodlee.com,Envestnet,Vice President & Head HR,sent,sent
+2025-10-17T07:03:39.326240,635,Mahalakshmi,mahalakshmi@unilogcorp.com,Unilog,Vice President Human Resources,sent,sent
+2025-10-17T07:03:59.328287,636,Mahasweta Paul,mahasweta.paul@atyati.com,atyati Technologies,VP - Chief People Officer,sent,sent
+2025-10-17T07:04:20.167221,637,Mahendra Singh,mahendra.singh@excelra.com,Excelra,Vice President - HR,sent,sent
+2025-10-17T07:04:40.536893,638,Mahendra Thiyagarajan,mahendra@vysystems.com,VySystems,Head - Global HR & Operations,sent,sent
+2025-10-17T07:05:00.651141,639,Mahendran Subramaniam,mahendran.s@kovaion.com,Kovaion Consulting,Head HR & RPO Delivery,sent,sent
+2025-10-17T07:05:20.723929,640,Mahesh Bandaru,mahesh.bandaru@neewee.ai,Neewee,Director - HR India,sent,sent
+2025-10-17T07:05:41.277373,641,Mahesh Hyam,mahesh.h@zelitesolutions.com,Zelite Solutions,Head - HR,sent,sent
+2025-10-17T07:06:01.672579,642,Mainka Sharma,mainka.s@geeklurn.com,GeekLurn,Head of Talent Acquisition &HR,sent,sent
+2025-10-17T07:06:21.811844,643,Malathi Premkumar,malathip@boston-technology.com,Boston Technology Corporation,Vice President - Human Resources,sent,sent
+2025-10-17T07:06:41.825284,644,Malini Venugopal,malini.venugopal@people10.com,People10 Technologies,Director Human Resources,sent,sent
+2025-10-17T07:07:01.995917,645,Mallika Poojari,mallika.poojari@featsystems.com,Feat Systems,Recruitment Head,sent,sent
+2025-10-17T07:07:22.271856,646,Mamatha Nagesh,mamatha.n@modefin.com,Modefin,Head - Human Resources,sent,sent
+2025-10-17T07:07:42.526242,647,Mamta,mamta@cognustechnology.com,Cognus Technology,Chief Human Resources Officer,sent,sent
+2025-10-17T07:08:02.762723,648,Mamta Nath,mamta.nath@e-pspl.com,PC Solutions,Head - HR,sent,sent
+2025-10-17T07:08:23.058700,649,Mamta Yadav,mamta.yadav@amantyatech.com,Amantya Technologies,Head of Talent Acquisition,sent,sent
+2025-10-17T07:08:43.386072,650,Mamtha,mamtha@sigmoidanalytics.com,Sigmoid,Director Talent Acquisition - Leadership Hiring,sent,sent
+2025-10-17T07:09:03.693716,651,Mamtha Akula,mamtha.akula@netradyne.com,Netradyne,Talent Head at Netradyne,sent,sent
+2025-10-17T07:09:24.019508,652,Manashi Chakraborty,mchakraborty@phdata.io,phData,"Director Of People Operations,India",sent,sent
+2025-10-17T07:09:44.218818,653,Manasi Kelkar,manasi.kelkar@cropin.com,CropIn Technology,VP - Human Resources,sent,sent
+2025-10-17T07:10:04.478266,654,Manav Jain,manav.jain@loconav.com,LocoNav,Chief Human Resources Officer,sent,sent
+2025-10-17T07:10:24.846285,655,Manda Kishore,manda.kishore@evolutyz.com,Evolutyz Corp,Head - Recruitments,sent,sent
+2025-10-17T07:10:45.459573,656,Mandeep Singh,mandeep.singh@tulip.co,Tulip Interfaces,Head of HR,sent,sent
+2025-10-17T07:11:05.829065,657,Mandeep Virdi,mandeep.virdi@esri.in,Esri India,Head of Human Resources,sent,sent
+2025-10-17T07:11:26.722194,658,Mani Narayanan,manin@karyatech.com,KARYA Technologies,Vice President - Human Resources,sent,sent
+2025-10-17T07:11:46.882547,659,Manian Chennai,manian@callezee.com,Info Network Management Company,head talent resourcing,sent,sent
+2025-10-17T07:12:07.052589,660,Manik Mahajan,manikmahajan@qainfotech.com,QA InfoTech,"Director,Performance Engineering",sent,sent
+2025-10-17T07:12:27.391603,661,Manik Mondal,manik.mondal@qbadvisory.com,QBA Worldwide,Director Talent Acquisition (India),sent,sent
+2025-10-17T07:12:47.937071,662,Manikandan Balasubramanian,manikandan.b@itech-india.com,iTech India,Head Of Human Resources,sent,sent
+2025-10-17T07:13:08.172125,663,Manish,mtripathi@phdata.io,phData,Director Talent Acquisition,sent,sent
+2025-10-17T07:13:28.430294,664,Manish Sitania,msitania@egain.com,eGain Corporation,Worldwide Head of HR,sent,sent
+2025-10-17T07:13:48.647598,665,Manisha,manisha@dreamsoft4u.com,DreamSoft4u,VP - HR Department,sent,sent
+2025-10-17T07:14:09.022392,666,Manisha Dash,manisha.dash@celigo.com,Celigo,"Director India,Human Resources",sent,sent
+2025-10-17T07:14:29.225198,667,Manisha Dixit,mdixit@netrixllc.com,Netrix,HR Director - Asia Pacific,sent,sent
+2025-10-17T07:14:49.463469,668,Manjeet Walia,manjeet.walia@harbingergroup.com,Harbinger Group,Head of Talent Acquisition,sent,sent
+2025-10-17T07:15:09.556194,669,Manjiri Patel-Shinde,manjiri.shinde@cloudmoyo.com,CloudMoyo,Vice President Global HR,sent,sent
+2025-10-17T07:15:29.661956,670,Manju Jacob,manju.jacob@sarvatra.in,Sarvatra Technologies,AVP -Human Resources,sent,sent
+2025-10-17T07:15:49.883010,671,Manjunath P,manju@nichi.com,Nichi-In Software Solutions,"Head - Finance,HR & Administration",sent,sent
+2025-10-17T07:16:10.261615,672,Manoj K,manoj@ampl.app,Ampl,Head People & Culture,sent,sent
+2025-10-17T07:16:30.345511,673,Manoj Madhavan,manoj@techversantinfotech.com,Techversant,Vice President - HR,sent,sent
+2025-10-17T07:16:50.519926,674,Manoj Parikatil,manoj.parikatil@goodera.com,Goodera,Human Resources Director,sent,sent
+2025-10-17T07:17:10.683859,675,Manoj Prasad,mxp@amitysoftware.com,Amity Software Systems,Head of IT / HR & Admin,sent,sent
+2025-10-17T07:17:30.887352,676,Manoj Sahoo,asta_onboarding@astacrs.com,Asta Crs Inc,Recruiter and Head of Onboarding,sent,sent
+2025-10-17T07:17:51.127173,677,Manoj Sehgal,manoj.sehgal@rvu.in,RVU India,Head of People Services/ HR ( India),sent,sent
+2025-10-17T07:18:11.435507,678,Manuel Fernandes,manuel.fernandes@antheliohealth.com,Anthelio Healthcare Solutions,HR Head - India,sent,sent
+2025-10-17T07:18:31.574765,679,Manu's Jobs,jobs@skyonn.com,SkyOnn Technologies,IT RECRUITING HEAD,sent,sent
+2025-10-17T07:18:51.516285,680,Maria Fernandes,maria.fernandes@draup.com,Draup,Associate Director - HR,sent,sent
+2025-10-17T07:19:11.948027,681,Mary Basu,mary.basu@fivesdigital.com,FiveS Digital,HR Head,sent,sent
+2025-10-17T07:19:31.982092,682,Mary Naidu,mary@software.com,Software,Head HR,sent,sent
+2025-10-17T07:19:52.166690,683,Maximus J,maximus.j@infoplusltd.co.uk,Infoplus Technologies UK,Head of HR,sent,sent
+2025-10-17T07:20:12.317009,684,Maya John,maya.john@verse.in,VerSe Innovation,Chief People Officer,sent,sent
+2025-10-17T07:20:32.724632,685,Maya Nagpal,maya.nagpal@verolt.com,Verolt,Director Human Capital Management,sent,sent
+2025-10-17T07:20:52.683376,686,Mayank Agarwal,mayank.agarwal@gaana.com,Gaana,Head - HRBP,sent,sent
+2025-10-17T07:21:12.817592,687,Mayank Ahuja,mayank.ahuja@nickelfox.com,Nickelfox Technologies,Head - Human Resources,sent,sent
+2025-10-17T07:21:33.106195,688,Mayank Sharma,mayank@tripoto.com,Tripoto,Head of Talent Acquisition,sent,sent
+2025-10-17T07:21:53.317154,689,Mayukh Mitra,mmitra@adaequare.com,Adaequare,Director & Head of HR,sent,sent
+2025-10-17T07:22:13.530073,690,Mayur Pabari,mayur.pabari@smartsensesolutions.com,smartSense Consulting Solutions,CEO & CHRO,sent,sent
+2025-10-17T07:22:33.556527,691,Mayur Sisodiya,mayur.sisodiya@collabera.com,Collabera India,Associate Delivery Director - Talent Acquisition,sent,sent
+2025-10-17T07:22:54.418466,692,Medha Sharma,medha.sharma@kiwitech.com,KiwiTech,Director - Human Resources (Global HR),sent,sent
+2025-10-17T07:23:14.628814,693,Medhika Sood,medhika@uniphore.com,Uniphore,Associate Director : TM | L&D,sent,sent
+2025-10-17T07:23:35.147092,694,Meena R,meena@airmeet.com,Airmeet,Senior Director Human Resources,sent,sent
+2025-10-17T07:23:56.017846,695,Meenakshi Banerjee,meenakshi.banerjee@crmnext.in,CRMNEXT,Vice President Human Resources,sent,sent
+2025-10-17T07:24:16.252989,696,Meenakshi Jha,meenakshi.jha@talentica.com,Talentica Software,Head of Talent Acquisition,sent,sent
+2025-10-17T07:24:36.470769,697,Meenakshi Kogje,meenakshi.kogje@newvisionsoftware.in,NewVision Software,Global Director - Talent Acquisition,sent,sent
+2025-10-17T07:24:56.674352,698,Megh Makwana,megh@inheritx.com,InheritX Solutions,Head of Human Resources Operations,sent,sent
+2025-10-17T07:25:16.987027,699,Megh Risaldar,megh.risaldar@sms-magic.com,SMS-Magic,Director and Head of Human Resources,sent,sent
+2025-10-17T07:25:37.207337,700,Meghana Sarwate,megh@godrej.com,Godrej Infotech,Head - Human Resource Information Systems,sent,sent
+2025-10-17T07:25:57.311233,701,Meghana V,meghana@idrive.com,IDrive Software India,"Head HR,Operations & Finance",sent,sent
+2025-10-17T07:26:17.473087,702,Meghna Mahajan,meghnam@smartek21.com,SmarTek21,Human Resources Director,sent,sent
+2025-10-17T07:26:37.402269,703,Mehak Fath,mehak@startupnation.com,StartUP,Head HR,sent,sent
+2025-10-17T07:26:57.662452,704,Meher Gaurav,gaurav@mphrx.com,mphrX,Vice President Global HR,sent,sent
+2025-10-17T07:27:17.710381,705,Michelle Joseph,michelle.joseph@gupshup.io,Gupshup,Associate Director - HR,sent,sent
+2025-10-17T07:27:37.817800,706,Mili Panicker,mili.panicker@webengage.com,WebEngage,AVP - HR & People Operations,sent,sent
+2025-10-17T07:27:57.951616,707,Minal Vilekar,minal.vilekar@theimperative.in,Imperative Business Ventures,Vice President Human Resources,sent,sent
+2025-10-17T07:28:18.125274,708,Minal Wadlawala,minal@protechmanize.com,ProTechmanize Solutions,Chief Human Resources Officer,sent,sent
+2025-10-17T07:28:38.236285,709,Miriam Shaju,miriam.shaju@avanzegroup.com,Avanze,"Director,Human Resources",sent,sent
+2025-10-17T07:28:58.322360,710,Mirunalini Mothilal,mirunalini@volantetech.com,Volante Technologies,Director - India & Global HR,sent,sent
+2025-10-17T07:29:18.325888,711,Mithun Jose,mithun.jose@savantis.com,Savantis Solutions LLC,Head- Staffing,sent,sent
+2025-10-17T07:29:38.356471,712,Mittal Patel,m.patel@easternenterprise.com,Eastern Enterprise,Head - Talent Acquisition,sent,sent
+2025-10-17T07:29:58.549118,713,Mohamed Hussain,mhussain@trimaxamericas.com,Data Glove,HEAD TALENT ACQUISITION - INDIA,sent,sent
+2025-10-17T07:30:18.659692,714,Mohammad Siddique,msiddique@quessgts.com,Quess GTS,Head of Talent Acquisition,sent,sent
+2025-10-17T07:30:39.202787,715,Mohammed Hussain,mohammed@uniphore.com,Uniphore,Director - Talent Acquisition,sent,sent
+2025-10-17T07:30:59.350896,716,Mohammed Rizwan,mohammed.rizwan@reverieinc.com,Reverie Language Technologies,Head Of Human Resources,sent,sent
+2025-10-17T07:31:19.507650,717,Mohammed Samiullah,samiullah.mohammed@antheliohealth.com,Anthelio Healthcare Solutions,Head Of Human Resources,sent,sent
+2025-10-17T07:31:39.511452,718,Mohammed Yaseen,tariq.yaseen@panzertechnologies.net,Panzer Technologies,Director Talent Acquisition,sent,sent
+2025-10-17T07:31:59.668933,719,Mohan Joshi,mohan.joshi@myglamm.com,MyGlamm,"Head- C&B,HR Automation & HR Operations",sent,sent
+2025-10-17T07:32:19.930300,720,Mohini Bansal,mbansal@deqode.com,Deqode,Head Of Recruitment,sent,sent
+2025-10-17T07:32:40.478666,721,Monica Bajaj,monica.bajaj@soft-corner.com,Benchmark IT Solutions,Head-HR,sent,sent
+2025-10-17T07:33:00.578115,722,Monica Kamal,monica@pingasolutions.com,Pinga Solution,Director & HR Head,sent,sent
+2025-10-17T07:33:20.787698,723,Monika Jasrotia,monika@precisiontechcorp.com,Precision Technologies,HR- Manager/Admin Head,sent,sent
+2025-10-17T07:33:40.844730,724,Monika Koul,monika@embitel.com,Embitel Technologies,Head l Sr. Director- HR,sent,sent
+2025-10-17T07:34:00.894862,725,Monika Miglani,monika.miglani@zigram.tech,ZIGRAM,Associate Director - HR,sent,sent
+2025-10-17T07:34:21.495784,726,Monika Save,monika@bridgelabz.com,BridgeLabz,Head of Talent Acquisition and HR Operations,sent,sent
+2025-10-17T07:34:41.625282,727,Monika Soutiyal,monika@techretail.in,Tech Connect Services,Head - HR & Admin,sent,sent
+2025-10-17T07:35:01.749912,728,Monila Gupta,mgupta@helm360.com,HELM360,Regional HR Head - India,sent,sent
+2025-10-17T07:35:21.864442,729,Moumi Chatterjee,moumi@spartanpoker.com,QUADRIFIC MEDIA,Assistant Vice President Human Resources,sent,sent
+2025-10-17T07:35:41.849375,730,Mrudhula Guda,mrudhula.g@feuji.com,Feuji Inc,HR Head - India,sent,sent
+2025-10-17T07:36:01.944930,731,Mrudul Godavarthi,mrudul.k@fssglobal.in,Federal Soft Systems,Chief Talent Officer,sent,sent
+2025-10-17T07:36:22.096395,732,Mruga Dave,mruga.dave@vagaro.com,Vagaro Inc,Human Resources Director,sent,sent
+2025-10-17T07:36:42.166467,733,Mrugesh Maisuriya,mrugesh.maisuriya@procuretiger.com,eProcurement Technologies,Head Of HR- Talent Acquisition and Management,sent,sent
+2025-10-17T07:37:02.343619,734,Mrugesh Raval,mrugesh.raval@nascentinfo.com,Nascent Info Technologies,Head of Human Resources,sent,sent
+2025-10-17T07:37:22.423558,735,Mugdha Wagh,mugdha.wagh@ellicium.com,Ellicium Solutions,Head Of Talent Management,sent,sent
+2025-10-17T07:37:42.330811,736,Muhammed Rafi,payable@awign.com,Awign,HR Head,sent,sent
+2025-10-17T07:38:02.402907,737,Mujeeb Khan,mujeeb@panzertechnologies.net,Panzer Technologies,Head - Talent Acquisition,sent,sent
+2025-10-17T07:38:22.536201,738,Mukesh Tiwary,mukesh.t@lrsservices.in,LRS Services (P),Head of HR,sent,sent
+2025-10-17T07:38:42.618798,739,Mukta Dar,mukta.dar@absolutdata.com,Absolutdata Analytics,Head HR,sent,sent
+2025-10-17T07:39:02.725171,740,Mukta Dewan,mukta.dewan@caeliusconsulting.com,Caelius Consulting,Chief People Officer at Caelius Consulting,sent,sent
+2025-10-17T07:39:22.716537,741,Murali Krishnamoorthy,murali.k@excelacom.in,Excelacom Technologies,Head - Human Resources,sent,sent
+2025-10-17T07:39:42.924431,742,Murali Nagarajan,murali@softlogicsys.in,Softlogic Systems,HR and Operations Head,sent,sent
+2025-10-17T07:40:03.091464,743,Murugessan Panchatcharam,pmurugesan@corenttech.com,Corent Technology,Director - Human Resources & Facilities,sent,sent
+2025-10-17T07:40:23.181768,744,Muthukumar K,muthukumar.k@technogeninc.com,"TechnoGen,",Head of Human Resources Operations,sent,sent
+2025-10-17T07:40:43.411187,745,Muthyala Manasa,muthyala.manasa@absyz.com,ABSYZ Inc,Director - Human Resources,sent,sent
+2025-10-17T07:41:03.528838,746,Naga Siddharth,n.siddharth@urbanpiper.com,UrbanPiper,Chief Human Resources Officer,sent,sent
+2025-10-17T07:41:23.644213,747,Nagamani Yerneni,nagamani.yerneni@softsol.com,SoftSol,Head - HR & Operations,sent,sent
+2025-10-17T07:41:43.882013,748,Naganagouda J,naganagouda.sj@globaledgesoft.com,GlobalEdge,Associate Vice President & Head - Human Resources,sent,sent
+2025-10-17T07:42:04.122771,749,Naindeep Kaur,naindeep.kaur@bpktechmail.com,BPK Technologies,Recruitment/Talent Acquisition Head,sent,sent
+2025-10-17T07:42:24.991574,750,Nalini Panwar,nalini@amresearch.in,AM Research,Director of Human Resources & Research,sent,sent
+2025-10-17T07:42:45.220330,751,Namita Sinha,namita.sinha@sunlife.com,Sun Life,Head of Talent Acquisition (Asia Services Centre India),sent,sent
+2025-10-17T07:43:05.599200,752,Namrata Kamrushi,namrata.k@inspiredgeit.com,Inspiredge IT Solutions,Head - People & Culture,sent,sent
+2025-10-17T07:43:25.811968,753,Nancy Andrews,nancy.andrews@ideas2it.com,Ideas2IT Technologies,Head - Workforce Management,sent,sent
+2025-10-17T07:43:46.081545,754,Nancy Varghese,nancy.varghese@inflowtechnologies.com,Inflow Technologies,Head- HR & Admin,sent,sent
+2025-10-17T07:44:06.271055,755,Nandakishore Padmanabhan,nandakishore.padmanabhan@crmnext.com,CRMNEXT,Vice President - People & Culture,sent,sent
+2025-10-17T07:44:26.539434,756,Nandini Aggarwal,nandini.aggarwal@enhancesys.com,Enhancesys Innovations,Chief Human Resources Officer,sent,sent
+2025-10-17T07:44:46.970915,757,Nandini Tandon,nandini.tandon@indusface.com,Indusface,Chief People Officer,sent,sent
+2025-10-17T07:45:07.714046,758,Nandita Singh,nandita.singh@selp.in,SELP,Manager - HR (Plant HR Head),sent,sent
+2025-10-17T07:45:28.036071,759,Nandni Bhatnagar,nbhatnagar@e-emphasys.com,e-Emphasys Technologies,Associate Director Human Resources,sent,sent
+2025-10-17T07:45:47.990546,760,Narasimhan,narasimhan@opsera.io,Opsera,Director - HR,sent,sent
+2025-10-17T07:46:08.165333,761,Narayana Bvs,narayana@smartedgesolutions.co.uk,Smartedge Solutions,Head - HR & Operations,sent,sent
+2025-10-17T07:46:28.343942,762,Narayana Pawar,narayana.pawar@privafy.com,Privafy,"Director,Human Resources & Biz. Ops.",sent,sent
+2025-10-17T07:46:48.468289,763,Narender Thatipalli,narender@lsarecruit.co.uk,LSA Recruit,"Head of Talent Acquisition (UK,Europe & India)",sent,sent
+2025-10-17T07:47:08.521395,764,Narendra S,narendra.s@netenrich.com,"Netenrich,",Director Talent Acquisition,sent,sent
+2025-10-17T07:47:28.634893,765,Naresh Kumar,naresh@ncsus.net,National Computer Systems,Recruiting Director,sent,sent
+2025-10-17T07:47:48.881509,766,Naresh Nuthulapati,naresh.nuthulapati@atmecs.com,ATMECS Inc,Associate Director - Talent Acquisition,sent,sent
+2025-10-17T07:48:09.024778,767,Natarajan Perumal,natarajan@uniquehire.in,UniqueHire Consulting LLP,VP - Staffing,sent,sent
+2025-10-17T07:48:29.372816,768,Naveen Kumar,naveen@primusglobal.com,PRIMUS Global Technologies,Associate Director Talent Acquisition,sent,sent
+2025-10-17T07:48:49.653094,769,Naveen Pillai,naveen@crayondata.com,Crayon Data,Vice President - Human Resources,sent,sent
+2025-10-17T07:49:09.630661,770,Naveen Shankar,naveen.shankar@estuate.com,"Estuate,",Associate Director - Talent Acquisition,sent,sent
+2025-10-17T07:49:29.720057,771,Naveen Sounderrajan,naveen.s@bourntec.com,Bourntec Solutions Inc,"Head of Talent Acquisition - India ,EMEA & US",sent,sent
+2025-10-17T07:49:49.814419,772,Naveen Wadhawan,naveen@dynpro.com,"DynPro,",Director - Talent Acquisition,sent,sent
+2025-10-17T07:50:09.991767,773,Navleen Bhatia,navleen.bhatia@tcs.com,Tata Digital,Director - Human Resources,sent,sent
+2025-10-17T07:50:30.284745,774,Navneet Murthy,navneet@inventechinfo.com,Inventech Info Solutions,Global Head - Recruitment,sent,sent
+2025-10-17T07:50:50.439335,775,Nawaaz Hafeez,nawaaz.hafeez@ivlglobal.com,InfoVision Labs,Director Talent Acquisition,sent,sent
+2025-10-17T07:51:10.742229,776,Nayaki Naidu,nayaki@numerictech.com,Numeric Technologies,Head Of Human Resources,sent,sent
+2025-10-17T07:51:31.040015,777,Nayana Martin,nayanam@aditiconsulting.com,Aditi Consulting,Associate Director L&D,sent,sent
+2025-10-17T07:51:51.320936,778,Nayazuddin Meer,nayazuddin.meer@slkgroup.com,VFI SLK,Head of Talent Acquisition,sent,sent
+2025-10-17T07:52:11.342210,779,Neelakanteshwar Rao,neel.rao@serole.com,Serole Technologies,Head HR,sent,sent
+2025-10-17T07:52:31.580705,780,Neelam Sharma,neelam.sharma@provartesting.com,Provar Testing,"Head of People and Culture,India",sent,sent
+2025-10-17T07:52:51.841943,781,Neelima Vaka,neelima.vaka@minfytech.com,Minfy,Head Of Human Resources,sent,sent
+2025-10-17T07:53:12.061919,782,Neena Nagle,nagle@valethi.com,Valethi Technologies,Chief Human Resources Officer,sent,sent
+2025-10-17T07:53:32.125802,783,Neena Rajdev,neena@fintinc.com,Fint Solutions,"Director of HR,L&D & Administration.",sent,sent
+2025-10-17T07:53:52.184580,784,Neeraj Sharma,neerajsharma@cavistatech.com,Cavista,"Director People Operations,India",sent,sent
+2025-10-17T07:54:12.766680,785,Neeraj Sharma,neeraj@fourkites.com,"FourKites,",Senior Director of Human Resources,sent,sent
+2025-10-17T07:54:32.843049,786,Neetu Choudhary,neetu.choudhary@idsnext.com,IDS NEXT Business Solutions,Associate Vice President Human Resources,sent,sent
+2025-10-17T07:54:54.136486,787,Neha Bhandari,neha.bhandari@vmock.com,VMock,Director of Human Resources,sent,sent
+2025-10-17T07:55:14.614160,788,Neha Bhise,nbhise@tracelink.com,TraceLink,Head Of Human Resources - India & APAC,sent,sent
+2025-10-17T07:55:34.841141,789,Neha Bhushan,neha@thinkbridge.com,thinkbridge,Director - Talent & Branding,sent,sent
+2025-10-17T07:55:56.435276,790,Neha Chaudhary,neha.c@greyorange.com,GreyOrange,Associate Director-HRBP,sent,sent
+2025-10-17T07:56:16.774825,791,Neha Chaughule,neha@aistechnolabs.com,AIS Technolabs,Head- Talent Acquisition,sent,sent
+2025-10-17T07:56:37.052769,792,Neha Choudhary,nchoudhary@tractionondemand.com,Trineo,Director - People (HR),sent,sent
+2025-10-17T07:56:57.310905,793,Neha Kohli,neha.kohli@benq.com,BenQ India,Associate Director Human Resources,sent,sent
+2025-10-17T07:57:17.590367,794,Neha Mishra,neha@i2k2.com,i2k2 Networks,Head - Human Resource,sent,sent
+2025-10-17T07:57:37.894961,795,Neha Sahi,neha@trell.in,Trell,Director - HR,sent,sent
+2025-10-17T07:57:58.341301,796,Neha Sharma,nehasharma@freeskout.com,freeskout,Head of Human Resources,sent,sent
+2025-10-17T07:58:18.712736,797,Neha Sharma,neha.sharma@infodartmail.com,Infodart Technologies,Head HR & TAG,sent,sent
+2025-10-17T07:58:38.977531,798,Neha Sharna,neha.sharma@cavisson.com,"Cavisson Systems,",HR Head,sent,sent
+2025-10-17T07:58:59.171622,799,Neha Thakker,neha@multiqos.com,MultiQoS Technologies,Head Of Human Resources,sent,sent
+2025-10-17T07:59:19.500619,800,Neha Velankar,neha@dynalogindia.com,Dynalog India,Head Of Human Resources & Administration,sent,sent
+2025-10-17T07:59:39.795505,801,Neville Postwalla,neville.postwalla@harbingergroup.com,Harbinger Group,Associate Vice President - Talent Management,sent,sent
+2025-10-17T07:59:59.970109,802,Nevy George,nevyg@norwintechnologies.com,Norwin Technologies,Director Talent Acquisition,sent,sent
+2025-10-17T08:00:19.978870,803,Nibedita Dutta,nibedita.dutta@natureglobal.com,Nature Technologies,Vice President - HR & Operations,sent,sent
+2025-10-17T08:00:40.241227,804,Nidhi,nidhi.vishnoi@2isolutions.com,2iSolutions,Head-HR,sent,sent
+2025-10-17T08:01:00.474802,805,Nidhi,nidhi@empirix.com,Hammer,Director of Human Resources Americas,sent,sent
+2025-10-17T08:01:20.719627,806,Nidhi Khulbe,nidhi@indusnet.co.in,Indus Net Technologies,Head Of Recruitment,sent,sent
+2025-10-17T08:01:40.787366,807,Nidhi Ruparel,nidhi@cystemslogic.com,Cystems Logic Inc,Recruitment & Operations Head,sent,sent
+2025-10-17T08:02:01.129590,808,Nidhi Singh,nidhi.singh@iapcorp.com,IAP Company,Head HR,sent,sent
+2025-10-17T08:02:21.358053,809,Nidhi Srivastava,nidhi.srivastava@trangile.com,Trangile Services,Head Of Human Resources,sent,sent
+2025-10-17T08:02:41.473428,810,Nidhuraj Prasannarajan,nidhuraj@everest.engineering,EverestEngineering,Recruitment Head/Operations,sent,sent
+2025-10-17T08:03:01.609516,811,Nigel Crisanto,nigel@recruitnxt.com,RecruitNXT,Head Of Human Resources,sent,sent
+2025-10-17T08:03:21.814412,812,Niharika Patel,niharika.patel@jetsynthesys.com,JetSynthesys,CHRO,sent,sent
+2025-10-17T08:03:41.947631,813,Nikhil Bhat,nikhil.bhat@lipi.in,Lipi Data Systems,Assitant Vice President Human Resources,sent,sent
+2025-10-17T08:04:02.216545,814,Nikhil Jangir,nikhil.jangir@saviance.com,Saviance Technologies,Director - Global Staffing & Recruitment,sent,sent
+2025-10-17T08:04:22.514489,815,Nikhil Kadu,nikhil.kadu@verinite.com,Verinite,Head HR & Operations,sent,sent
+2025-10-17T08:04:42.609728,816,Nikhil Kulkarni,nikhil.kulkarni@ncircletech.com,nCircle Tech,Head Of Human Resources,sent,sent
+2025-10-17T08:05:02.845933,817,Nikhil Mooley,nikhil.m@purplle.com,Purplle.com,"Head Of Human Resources,L&D",sent,sent
+2025-10-17T08:05:23.357741,818,Nikita Trivedi,nikita@goleadingit.com,Leading IT,Head Of Human Resources,sent,sent
+2025-10-17T08:05:43.485078,819,Nilangini Gupta,nilangini.gupta@panamaxil.com,Panamax,VP People Management and Talent Growth,sent,sent
+2025-10-17T08:06:03.556243,820,Nilesh Indulkar,nilesh.indulkar@trantorinc.com,Trantor,Director & Head of Recruitment,sent,sent
+2025-10-17T08:06:23.625874,821,Nimesh Mathur,nimesh@haptik.ai,Haptik,"Director - People,Culture & Talent",sent,sent
+2025-10-17T08:06:43.736629,822,Nimesh Shah,nimesh@jeavio.com,Jeavio,"VP,HR & Operations",sent,sent
+2025-10-17T08:07:03.877703,823,Nimmy Chowalloor,nimmy.c@v2solutions.com,V2Solutions,Recruitment Head,sent,sent
+2025-10-17T08:07:24.107593,824,Nipsy Jhamb,nipsy.jhamb@altudo.co,Altudo,Director - HR,sent,sent
+2025-10-17T08:07:44.251179,825,Nirmal Nimodiya,nirmaln@scorgconsult.com,SCORG International Consulting,Head of Staffing & Alliances,sent,sent
+2025-10-17T08:08:04.545424,826,Nirmala Nayak,nirmala@technobind.com,TechnoBind Solutions,Head of HR,sent,sent
+2025-10-17T08:08:24.786711,827,Nirmiti Choudhari,nirmiti.hr@eventbeep.com,EventBeep,Head Of Human Resources,sent,sent
+2025-10-17T08:08:45.129134,828,Nirupa Leeladhar,nirupa.l@smaartt.com,Smaartt Digital Consulting,SVP - HR & Talents,sent,sent
+2025-10-17T08:09:05.574258,829,Nirupama Sridhar,sridhar.n@qwikcilver.com,Qwikcilver Solutions,Head HR,sent,sent
+2025-10-17T08:09:25.807425,830,Nirzari Sen,nirzari.sen@benisontech.com,Benison Technologies,Head of HR,sent,sent
+2025-10-17T08:09:46.020608,831,Nisha Motwani,nisha.motwani@pratititech.com,Pratiti Technologies,Head of Human Resources,sent,sent
+2025-10-17T08:10:06.206718,832,Nisha Nair,nisha.nair@sagarsoft.in,Sagarsoft,Head - Human Resources & TAG,sent,sent
+2025-10-17T08:10:26.327988,833,Nisha Nayar,nisha.n@technovert.com,Technovert,Head of HR,sent,sent
+2025-10-17T08:10:46.466272,834,Nisha Roy,nisharoy@aabasoft.com,Aabasoft,Head of Human Resources Operations,sent,sent
+2025-10-17T08:11:06.574093,835,Nisha Saini,nisha.saini@aurigait.com,Auriga IT Consulting,Head Of Recruitment,sent,sent
+2025-10-17T08:11:26.833759,836,Nisha Singh,nisha.s@seanergydigital.com,Seanergy Digital,Director Human Resources,sent,sent
+2025-10-17T08:11:46.893646,837,Nishant Gawand,nishant@smartkargo.com,SmartKargo,Vice President Human Resources,sent,sent
+2025-10-17T08:12:07.062857,838,Nishant Shukla,nishant.shukla@hoonartek.com,Hoonartek,Vice President Human Resources,sent,sent
+2025-10-17T08:12:27.255152,839,Nishita Algubelli,nishita@fissionlabs.com,Fission Labs,HR & TA Director,sent,sent
+2025-10-17T08:12:47.380389,840,Nishith Parikh,nishith.parikh@krishtechnolabs.com,Krish TechnoLabs,Global Head HR,sent,sent
+2025-10-17T08:13:07.498917,841,Nishtha Sareen,nishtha.sareen@dionglobal.com,Dion Global Solutions,VP - Human Resources,sent,sent
+2025-10-17T08:13:27.642700,842,Nishu Mittal,nishu.nits@ongraph.com,OnGraph Technologies,Human Resources Director,sent,sent
+2025-10-17T08:13:47.729591,843,Nita Aryasomayajula,naryasomayajula@rrootshell.com,Rrootshell Technologiiss,Global Human Resources Director,sent,sent
+2025-10-17T08:14:08.459725,844,Nitasha Dusi,nitasha.dusi@atidiv.com,Atidiv,Director - HR,sent,sent
+2025-10-17T08:14:28.709854,845,Nitesh Karir,nitesh.karir@moksatechnologies.com,mokSa Technologies,Head HR,sent,sent
+2025-10-17T08:14:48.963442,846,Nithyanandham Ravi,nithyanandham@facilio.com,Facilio,Human Resources Director,sent,sent
+2025-10-17T08:15:09.281359,847,Nitika Bhandari,nitika.bhandari@mavenwave.com,Maven Wave,Head HR,sent,sent
+2025-10-17T08:15:29.695196,848,Nitin Gawli,nitin.g@intellectbizware.com,Intellect Bizware Services,Head HR,sent,sent
+2025-10-17T08:15:50.027042,849,Nitin Marwah,nitin.m@totalitglobal.com,Total IT Global,Human Resources Director,sent,sent
+2025-10-17T08:16:10.188235,850,Nitin Nahata,nitin.nahata@gameskraft.com,Gameskraft,CHRO,sent,sent
+2025-10-17T08:16:30.408536,851,Nitin Padharia,nitin.padharia@indianic.com,IndiaNIC Infotech,Head - HR / ILDC and L&D,sent,sent
+2025-10-17T08:16:50.517362,852,Nitin Pandey,nitin@itlize.com,Itlize Global,Director Talent Acquisition,sent,sent
+2025-10-17T08:17:10.794656,853,Nitin Sharma,nitin.sharma@altudo.co,Altudo,Director Talent Acquisition,sent,sent
+2025-10-17T08:17:30.870606,854,Nitin Suri,nitin.suri@webomaze.com,Webomaze Technologies,Vice President Human Resources,sent,sent
+2025-10-17T08:17:51.033698,855,Nitin Verma,nitin.verma@xicom.biz,Xicom Technologies,Head HR,sent,sent
+2025-10-17T08:18:11.276191,856,Nitish Kumar,nitish.k@sphinxworldbiz.com,Sphinx Worldbiz,Head- Talent Acquisition,sent,sent
+2025-10-17T08:18:31.521859,857,Nitisha Baalay,nitisha.baalay@innovapptive.com,Innovapptive Inc,Director Global Talent Acquisition,sent,sent
+2025-10-17T08:18:51.819334,858,Nitya K,nk@ezesoft.com,Eze Software,"Director,Human Resources",sent,sent
+2025-10-17T08:19:11.983655,859,Nivedita Kaushal,nivedita.kaushal@idmworks.com,IDMWORKS,Head of Human Resource,sent,sent
+2025-10-17T08:19:32.446392,860,Nivrutha Sampath,nivrutha.s@appviewx.com,AppViewX,VP of HR,sent,sent
+2025-10-17T08:19:52.515473,861,Niyati Parmar,niyati@teksun.us,Teksun Inc,Head of HR,sent,sent
+2025-10-17T08:20:12.865730,862,Nupur Jain,nupur@ixigo.com,ixigo,VP of Human Resources,sent,sent
+2025-10-17T08:20:32.992246,863,Nupur Phatak,nphatak@potomactpl.com,Potomac Technologies,Vice President Human Resources,sent,sent
+2025-10-17T08:20:54.175881,864,Nusrat Supediwala,nusrat.supediwala@panamaxil.com,Panamax Infotech,AVP Talent Acquisition,sent,sent
+2025-10-17T08:21:14.323710,865,O2f Info,info@o2finfo.com,O2F INFO SOLUTIONS,Head of HR,sent,sent
+2025-10-17T08:21:34.375347,866,Oindrila Das,oindrila.das@rteservices.com,RT Outsourcing Services,Group Head-HR,sent,sent
+2025-10-17T08:21:54.500657,867,Omesh Makhija,omeshmakhija@appitsimple.com,Appitsimple Infotek,Head of People Operations,sent,sent
+2025-10-17T08:22:14.670897,868,Omkar Patwardhan,omkarp@coreflexsolutions.com,CoreFlex Solutions,HR Head,sent,sent
+2025-10-17T08:22:34.812161,869,Padmaja Arya,padmajasingh.arya@cogencis.com,Cogencis Information Services,Head - Human Resources,sent,sent
+2025-10-17T08:22:54.940361,870,Padmanav Kundu,padmanavk@nsdl.co.in,Protean eGov Technologies,Head of Rewards & HR Operations,sent,sent
+2025-10-17T08:23:15.147099,871,Padmashree Alva,padmashree.alva@mresult.com,MResult,Director - Talent & Initiatives,sent,sent
+2025-10-17T08:23:35.370966,872,Pallavi Mishra,pmishra@bhavnacorp.com,Bhavna Corp.,Senior Director Human Resources,sent,sent
+2025-10-17T08:23:55.401567,873,Pallavi Sharma,pallavi.sharma@digimantra.com,DigiMantra Labs,Head of Human Resources Operations,sent,sent
+2025-10-17T08:24:15.596794,874,Pallavi Singh,pallavi.singh@paycraftsol.com,Paycraft Solutions,Associate Vice President - Human Resources,sent,sent
+2025-10-17T08:24:35.627949,875,Pallavi Singh,pallavi@techmatrixconsulting.com,TechMatrix Consulting,Assistant Vice President Human Resources,sent,sent
+2025-10-17T08:24:55.815475,876,Panchali Das,panchalid@zenoti.com,Zenoti,Head Of Human Resources,sent,sent
+2025-10-17T08:25:15.889603,877,Pandey,pandey@fsltechnologies.com,FSL Software Technologies,VP HR,sent,sent
+2025-10-17T08:25:36.337196,878,Pankaj Chopra,pankaj.chopra@corecard.com,CoreCard India,Head of Talent Acquisition,sent,sent
+2025-10-17T08:25:56.397894,879,Pankaj Singh,psingh@everquote.com,EverQuote,Associate Director - People Operations,sent,sent
+2025-10-17T08:26:16.435108,880,Paramananda Chabungbam,paramananda.c@itelligencegroup.com,NTT DATA,Director - HRBP & Engagement,sent,sent
+2025-10-17T08:26:36.674092,881,Parameswar Reddy,parameswar.p@recykal.com,Team Recykal,Vice President Talent Management,sent,sent
+2025-10-17T08:26:56.754418,882,Pardeep Pahal,pardeepp@damcogroup.com,Damco Solutions,VP Global HR,sent,sent
+2025-10-17T08:27:17.038971,883,Parinita Kaur,parinita.kaur@intellolabs.com,Intello Labs,Vice President Human Resources,sent,sent
+2025-10-17T08:27:37.102712,884,Parma Dutta,pdutta@diabsolut.com,Diabsolut Inc,Chief People Officer,sent,sent
+2025-10-17T08:27:57.970975,885,Parneet Waraich,parneet.waraich@myrealdata.in,Real Time Data Services,Vice President Human Resources (Head HR),sent,sent
+2025-10-17T08:28:18.083838,886,Paromita Areng,paromita.areng@zaggle.in,Zaggle Prepaid Ocean Services,Chief Human Resources Officer,sent,sent
+2025-10-17T08:28:38.283997,887,Parool Duggal,parool.duggal@bijnis.com,bijnis,Director | Talent Acquisition,sent,sent
+2025-10-17T08:28:58.624107,888,Parthasarathy Paravasthu,pparavasthu@vitechinc.com,Vitech Systems Asia,"Director,Human Resources",sent,sent
+2025-10-17T08:29:18.744435,889,Parthiban Santhanakrishnan,parthiban.santhanakrishnan@volantetech. com,Volante Technologies,Associate Director- Performance Testing,sent,sent
+2025-10-17T08:29:38.834173,890,Parul Gala,parul.gala@smarteinc.com,SMARTe,VP of Products and HR,sent,sent
+2025-10-17T08:29:59.003139,891,Parvathy Therembil,parvathy.therembil@sourcebits.com,Sourcebits Digital,Vice President and Head HR,sent,sent
+2025-10-17T08:30:19.136321,892,Pasha Amjad,amjad.pasha@fiorano.com,Fiorano Software,Head - HR & Operations.,sent,sent
+2025-10-17T08:30:39.361587,893,Patel Kavita,patel.kavita@jeksonvision.com,Jekson Vision,Head HR,sent,sent
+2025-10-17T08:30:59.459634,894,Pathanjali Bhat,pathanjali.bhat@relevancelab.com,Relevance Lab,Director - HR,sent,sent
+2025-10-17T08:31:19.585665,895,Patricia Natalia,patricia.natalia@learnquest.com,LearnQuest,"Head of HR,India",sent,sent
+2025-10-17T08:31:39.724256,896,Paul,paul.jacob@pramati.com,Pramati Technologies,Director- Human Resources,sent,sent
+2025-10-17T08:31:59.786060,897,Paul Daniel,paul.daniel@tanla.com,Tanla Platforms,Head of Talent Acquisition,sent,sent
+2025-10-17T08:32:20.212312,898,Paul Thomas,paul@salesken.ai,Salesken,Head Human Resources,sent,sent
+2025-10-17T08:32:40.548892,899,Pavan Bodapati,pavan.b@fluentgrid.com,Fluentgrid,Assistant Vice President Human Resources,sent,sent
+2025-10-17T08:33:00.719708,900,Pavan K,pk@eightfold.ai,Eightfold,Director - Talent Acquisition,sent,sent
+2025-10-17T08:33:20.785597,901,Pavan Kadumuri,pavankumar.k@winwire.com,WinWire Technologies,Associate Director-HR,sent,sent
+2025-10-17T08:33:40.916638,902,Pavan Kumar,pkumar@appstekcorp.com,AppsTek,Eastern Regional Human Resources Director,sent,sent
+2025-10-17T08:34:01.087324,903,Pavan Kumar,pavank@eximiusdesign.com,Eximius Design,Associate Director- Talent Acquisition,sent,sent
+2025-10-17T08:34:21.207245,904,Pavan Reddy,pavan.r@amplelogic.com,AmpleLogic,Head Of Human Resources,sent,sent
+2025-10-17T08:34:41.227402,905,Pavan Vangala,pavanv@sidgs.com,SID Global Solutions,Director Talent Acquisition,sent,sent
+2025-10-17T08:35:01.282781,906,Pavan Vemuri,pavan.vemuri@m3bi.com,M3BI,Head - HR,sent,sent
+2025-10-17T08:35:21.529819,907,Pavan Vooribindi,pavan.vooribindi@mckinleyrice.co,McKinley Rice,HR Generalist/ Community Head,sent,sent
+2025-10-17T08:35:41.649199,908,Pavithra Bopanna,pavithra.bopanna@entropiktech.com,Entropik Tech,Director Human Resources,sent,sent
+2025-10-17T08:36:01.915529,909,Pavithradesai Pd,pavithra.desai@infracloud.io,InfraCloud Technologies,Chief People Officer,sent,sent
+2025-10-17T08:36:22.222239,910,Payal Bhowmick,payal@highpeaksw.com,High Peak Software,Head - Human Resource & Operations,sent,sent
+2025-10-17T08:36:42.304356,911,Payal Parmar,payal@safe.security,Safe Security,"Senior Director,Global Talent Acquisition",sent,sent
+2025-10-17T08:37:02.408437,912,Payyalore Sainath,payyalore.sainath@larvol.com,LARVOL,Global Head of Talent Acquisition,sent,sent
+2025-10-17T08:37:26.667461,913,Pearl Dsouza,pdsouza@cartesianconsulting.com,Cartesian Consulting,Head - Human Resources,sent,sent
+2025-10-17T08:37:46.813314,914,Peeyush Singhal,peeyush.singhal@monsterindia.com,Monster India,Product Head - Talent Search Platform,sent,sent
+2025-10-17T08:38:06.989729,915,Peterson Pereira,peterson.pereira@cignex.com,CIGNEX Datamatics,Associate Vice President Human Resources,sent,sent
+2025-10-17T08:38:27.163024,916,Phani Kalyan,phani@eminds.ai,Enterprise Minds,Director of Talent Engineering,sent,sent
+2025-10-17T08:38:48.156937,917,Phani Kumar,phani.kumar@soroco.com,Soroco,Director Talent Acquisition,sent,sent
+2025-10-17T08:39:08.266564,918,Phanidhar Sangam,phanidhars@dextara.com,Dextara Digital,Director HR,sent,sent
+2025-10-17T08:39:28.369070,919,Philip Manikya,philip.manikya@posidex.com,Posidex,Chief People Officer,sent,sent
+2025-10-17T08:39:48.609275,920,Piali Goswami,piali.goswami@optimusinfo.com,Optimus Information,HR Head,sent,sent
+2025-10-17T08:40:08.847035,921,Piyali Basu,piyalib@digitalaptech.com,Digital Aptech,Head - Human Resource,sent,sent
+2025-10-17T08:40:28.861415,922,Piyush Naik,piyush.naik@digivalet.com,DigiValet,AVP-Talent Acquisition,sent,sent
+2025-10-17T08:40:49.055535,923,Piyush Raghuvanshi,piyush.r@apna.co,apna,Head - Talent & Culture,sent,sent
+2025-10-17T08:41:09.179418,924,Pooja,pooja@agri10x.com,Agri10x,VP-MarComm & Head-HR,sent,sent
+2025-10-17T08:41:29.450521,925,Pooja,pooja@zentekinfosoft.com,Zentek Infosoft,Head of Human Resources,sent,sent
+2025-10-17T08:41:49.518569,926,Pooja Arora,pooja.arora@minosha.in,Minosha India,Head HR,sent,sent
+2025-10-17T08:42:09.704994,927,Pooja M,pooja.m@aress.com,Aress Software,Director HR,sent,sent
+2025-10-17T08:42:29.902709,928,Pooja Madappa,pooja.madappa@netradyne.com,Netradyne,Vice President Human Resources,sent,sent
+2025-10-17T08:42:50.066249,929,Pooja Malawade,pooja.malawade@nanostuffs.com,Nanostuffs,Head of HR,sent,sent
+2025-10-17T08:43:10.157131,930,Pooja Mishra,pooja@avestacs.com,Avesta Computer Services,Vice President - HR & Strategic Accounts,sent,sent
+2025-10-17T08:43:30.297773,931,Pooja Misra,pooja@incnut.com,IncNut Digital,Head - Human Resources,sent,sent
+2025-10-17T08:43:50.460377,932,Pooja Pareek,pooja.pareek@myglamm.com,MyGlamm,Head of Talent Acquisition,sent,sent
+2025-10-17T08:44:12.281170,933,Poonam Dobriyal,poonam@nuvento.com,Nuvento Inc,AVP -Human Resources,sent,sent
+2025-10-17T08:44:32.998176,934,Poonam Sharma,poonam.b@cynetsystems.com,Cynet Systems Inc,Director Human Resources,sent,sent
+2025-10-17T08:44:54.433549,935,Poonam Yadav,poonam.yadav@webmobril.com,WebMobril Technologies,Group Head Human Resources,sent,sent
+2025-10-17T08:45:14.733123,936,Poornima Gowda,poornima.gowda@fortanix.com,Fortanix,Head Of Human Resources,sent,sent
+2025-10-17T08:45:37.203793,937,Poornima Narayanappa,poornima.narayanappa@symphonysummit. com,Symphony SummitAI,Head- Human Resources,sent,sent
+2025-10-17T08:45:59.106109,938,Poornima P,pp@yodlee.com,Envestnet,HR Director,sent,sent
+2025-10-17T08:46:21.164426,939,Poornima Srinivasan,poornima@testvagrant.com,TestVagrant Technologies,"Head of Human Resources,People Head & Culture",sent,sent
+2025-10-17T08:46:41.910580,940,Poornima Subramanian,poornima.s@d4insight.com,NielsenIQ,Associate Director - Human Resources,sent,sent
+2025-10-17T08:47:04.217632,941,Poulo Mathew,poulo@goleadingit.com,Leading IT,VP of Human Resource,sent,sent
+2025-10-17T08:47:26.359357,942,Prabha Giri,prabha.giri@acropolisinfotech.com,Acropolis Infotech,AVP - People Operations,sent,sent
+2025-10-17T08:47:48.535549,943,Prabha Masilamani,prabha.masilamani@plivo.com,Plivo,Director - Human Resources,sent,sent
+2025-10-17T08:48:12.281273,944,Prabhu,prabhu@atmecs.com,ATMECS Inc,Director Human Resources Development,sent,sent
+2025-10-17T08:48:33.107314,945,Prachi Singh,prachi.singh@vinculumgroup.com,Vinculum Group,Head - Global Resourcing & Talent Management,sent,sent
+2025-10-17T08:48:54.573056,946,Pradeep Boiri,pradeep.boiri@otsi.co.in,Object Technology Solutions India,Senior Director - HR,sent,sent
+2025-10-17T08:49:16.557665,947,Pradeep Chigurupati,pradeep.chigurupati@mindtickle.com,Mindtickle,"Head,Talent Acquisition",sent,sent
+2025-10-17T08:49:37.146338,948,Pradeep K,pradeep.k@mindteck.com,Mindteck India,Vice President Human Resources,sent,sent
+2025-10-17T08:49:58.486392,949,Pradeep Krishnan,krishnanp@kaizentek.com,Kaizen Technologies,Recruitment Head - Technology Consulting Services,sent,sent
+2025-10-17T08:50:19.868983,950,Pradeep Kumar,pradeep.kumar@andortech.com,Andor Tech,Director - HR,sent,sent
+2025-10-17T08:50:39.974207,951,Pradeep Kumar,pradeepkumar@newtglobalcorp.com,Newt Global Consulting,Director - Talent Management,sent,sent
+2025-10-17T08:51:00.120610,952,Pradeep Pg,pradeep@bidgely.com,Bidgely,"Director,Human Resources",sent,sent
+2025-10-17T08:51:20.116957,953,Pradeep R,pradeep_r@3dplmsoftware.com,Dassault Systems,Head of HR (India),sent,sent
+2025-10-17T08:51:40.228069,954,Pradeep Raju,pradeep@digiryte.com,Digiryte,Vice President - People Operations,sent,sent
+2025-10-17T08:52:00.265521,955,Pradeep Sinha,pradeep@servosys.com,Servosys Solutions,Head HR & Quality,sent,sent
+2025-10-17T08:52:20.854189,956,Pradep Sakthi,pradep.s@zuper.co,Zuper,Head Of Human Resources,sent,sent
+2025-10-17T08:52:41.071521,957,Pradnya Kulkarni,pradnya.kulkarni@afourtech.com,AFour Technologies,Head-HR & Admin,sent,sent
+2025-10-17T08:53:01.151896,958,Prafull,pjaiswal@xento.com,Xento Systems,Head - HR Strategy & Talent Management,sent,sent
+2025-10-17T08:53:22.126584,959,Pragati Dey,pragati@aryacma.co.in,Arya.ag,Head - Human Resources,sent,sent
+2025-10-17T08:53:42.581292,960,Pragati Kumar,pkumar@aienterprise.com,AIEnterprise Inc,Director Human Resources and Administration,sent,sent
+2025-10-17T08:54:02.728876,961,Pragati S,pragati@onamagroup.com,Onama Consultants,Head Of Human Resources,sent,sent
+2025-10-17T08:54:23.006255,962,Pragati Tilve,pragati.tilve@creativecapsule.com,Creative Capsule,Director of Human Resources,sent,sent
+2025-10-17T08:54:43.085712,963,Pragatii Choudhary,hr.orbit@orbitindia.net,Orbit Techsol,Head of HR,sent,sent
+2025-10-17T08:55:03.137056,964,Pragya,pragya.khanna@lirik.io,Lirik,Vice President Human Resources,sent,sent
+2025-10-17T08:55:23.169545,965,Pragya Parashar,pragya.parashar@claritusconsulting.com,Claritus Management Consulting,Head of HR,sent,sent
+2025-10-17T08:55:43.276333,966,Prajeeth Gobi,prajeeth.g@winwire.com,WinWire Technologies,Associate Director - Recruitment,sent,sent
+2025-10-17T08:56:03.680279,967,Prajeetha Prasad,prajeetha.prasad@thoughtspot.com,ThoughtSpot,Director People Operations,sent,sent
+2025-10-17T08:56:23.732560,968,Prakash Balasubramanian,prakash.b@payoda.com,Payoda Technology,Head Of Human Resources,sent,sent
+2025-10-17T08:56:43.866542,969,Prakash Kumaran,prakashk@newtglobalcorp.com,Newt Global Consulting,Associate Director Human Resources,sent,sent
+2025-10-17T08:57:04.694040,970,Prakash Nair,prakashpn@suntecgroup.com,SunTec Business Solutions,Vice President & Global Head - HR & KMTD,sent,sent
+2025-10-17T08:57:24.761704,971,Prakash Rc,prakash.rc@kriyanxw.com,Kriya IT,Head Of Human Resources,sent,sent
+2025-10-17T08:57:44.774900,972,Prakyath Krishnappa,prakyath.k@verifaya.com,Verifaya Corporation,Head of HR,sent,sent
+2025-10-17T08:58:05.179405,973,Pramodh Karumbaiah,pramodh.karumbaiah@trell.co,Trell,Head Of Human Resources,sent,sent
+2025-10-17T08:58:25.398412,974,Pranab Mishra,pranab.mishra@criticalriver.com,CriticalRiver,Human Resources Director,sent,sent
+2025-10-17T08:58:46.210396,975,Pranali Shinde,pranali.shinde@featsystems.com,Feat Systems,Head of Human Resources Operations,sent,sent
+2025-10-17T08:59:06.445186,976,Pranay Mahadik,pranay@precisiontechcorp.com,Precision Technologies,AVP - Talent Acquisition,sent,sent
+2025-10-17T08:59:26.678087,977,Pranitha Penmetsa,pranitha@tyfone.com,"tyfone,",VP - Human Resources and Operations,sent,sent
+2025-10-17T08:59:47.053510,978,Prasaanth Subbiah,prasaanth.s@ivymobility.com,Ivy Mobility,Head Of Human Resources,sent,sent
+2025-10-17T09:00:07.453056,979,Prasad Bagawade,prasad.bagawade@infrasofttech.com,Infrasoft Technologies,Global Head - Human Resources,sent,sent
+2025-10-17T09:00:27.842781,980,Prasad Kelkar,prasad_k@abmindia.com,ABM Knowledgeware,Head HR & Admin,sent,sent
+2025-10-17T09:00:48.323108,981,Prasad Narayan,prasad_narayan@neovasolutions.in,Neova Solutions,Head of Talent Acquisition & Special Projects,sent,sent
+2025-10-17T09:01:08.663540,982,Prasad Reddy,prasad_r@preludesys.com,PreludeSys,Associate Vice President - IT & HR,sent,sent
+2025-10-17T09:01:28.835778,983,Prasanna Soparkar,prasanna.soparkar@steeplap.com,Shell Transource,Vice President - Human Resources,sent,sent
+2025-10-17T09:01:49.397409,984,Prashant Dubey,prashant.dubey@techilaservices.com,Techila Global Services,Head of Talent Acquisition,sent,sent
+2025-10-17T09:02:09.593110,985,Prashant Kesharwani,prashant@kljindia.com,IKF Technologies,HEAD- LEGAL & HR,sent,sent
+2025-10-17T09:02:29.985569,986,Prashant Parashar,prashant.parashar@clevertap.com,CleverTap,Chief Human Resources Officer,sent,sent
+2025-10-17T09:02:50.190560,987,Prashant Saxena,prashant@diverselynx.com,Diverse Lynx,India Recruitment Head,sent,sent
+2025-10-17T09:03:10.486775,988,Prashanth Kulkarni,prashanth.kulkarni@v2solutions.com,V2Solutions,Director - Talent Acquisition,sent,sent
+2025-10-17T09:03:30.672982,989,Prashasti Pritiprada,prashasti@muvi.com,Muvi.com,Director of HR,sent,sent
+2025-10-17T09:03:50.981844,990,Prasheel Pardhe,prasheel.pardhe@trantorinc.com,Trantor,Chief People Officer,sent,sent
+2025-10-17T09:04:11.162745,991,Prastily Kp,prastily@vaisesika.in,Vaisesika Consulting,"Director -HR,Operations,Finance,Immigration",sent,sent
+2025-10-17T09:04:31.435235,992,Pratheek Machaya,pratheek.machaya@valentabpo.com,Valenta,Head - Franchise Recruitment,sent,sent
+2025-10-17T09:04:52.462519,993,Prathyusha Mannar,prathyusha@5cnetwork.com,5C Network,Head - HR,sent,sent
+2025-10-17T09:05:13.000042,994,Pratik M,pratik.m@baazigames.com,Baazi Games,Chief People Officer,sent,sent
+2025-10-17T09:05:33.236665,995,Pratim Purkait,pratim.purkait@rtns.in,RT Network Solutions,Head of HR,sent,sent
+2025-10-17T09:05:53.478959,996,Pratyush Sinha,pratyush.sinha@catalystone.com,CatalystOne Solutions,Head Of Human Resources India,sent,sent
+2025-10-17T09:06:13.814408,997,Praveen Gupta,praveen.gupta@amantyatech.com,Amantya Technologies,Vice President - Global HR,sent,sent
+2025-10-17T09:06:33.994346,998,Praveen Joseph,pjoseph@suyati.com,Suyati Technologies,Director - Human Resources,sent,sent
+2025-10-17T09:06:54.154700,999,Praveen Kummar,praveen@maxval.com,"MaxVal Group,",Director Talent Management,sent,sent
+2025-10-17T09:07:14.387416,1000,Praveen Kunta,praveen.kunta@incture.com,Incture,Human Resources Director,sent,sent
+2025-10-17T09:07:34.529065,1001,Praveen Nambiar,praveen.nambiar@rigvedtech.com,Rigved Technologies,Head Of Human Resources,sent,sent
+2025-10-17T09:07:55.552682,1002,Praveen Rao,praveen.r@softpath.net,Softpath System,Associate Director - HR,sent,sent
+2025-10-17T09:08:15.873192,1003,Praveen Singh,praveen.singh@xduce.com,XDuce,Senior Director - HR and Head of India Operations,sent,sent
+2025-10-17T09:08:36.307525,1004,Praveen Zore,praveen.zore@agiliad.com,Agiliad,Director Human Resources,sent,sent
+2025-10-17T09:08:56.535012,1005,Pravin Kankane,pravin.kankane@flo-group.com,Flo Group,Director Human Resources Administration,sent,sent
+2025-10-17T09:09:16.722608,1006,Pravin Subba,pravin.subba@tanla.com,Tanla Platforms,Chief People Experience Officer,sent,sent
+2025-10-17T09:09:37.081675,1007,Preeth Joseph,preeth.joseph@bridgei2i.com,BRIDGEi2i Analytics Solutions,Director - Talent Strategy & Operations,sent,sent
+2025-10-17T09:09:57.463960,1008,Preetha Somashekar,preetha@frontier.in,Frontier Business systems,Head of Human Resources,sent,sent
+2025-10-17T09:10:17.651261,1009,Preetham Singh,preetham.singh@tanla.com,Tanla Platforms,Chief Human Resources Officer,sent,sent
+2025-10-17T09:10:38.281997,1010,Preethy Paul,preethy.paul@insemitech.com,Insemi Technology Services,Associate Vice President Human Resources,sent,sent
+2025-10-17T09:10:59.118770,1011,Preeti Das,preeti.das@tripstack.com,TripStack,Human Resources Director - India,sent,sent
+2025-10-17T09:11:19.799503,1012,Preeti Kalyankar,preeti.kalyankar@mosambee.com,Mosambee,Head of Human Resources,sent,sent
+2025-10-17T09:11:39.946101,1013,Preeti Mani,pmani@verisys.com,Verisys Corporation,Head of HR,sent,sent
+2025-10-17T09:12:00.796490,1014,Preeti Mathur,preeti.mathur@eproductivitysoftware.com,eProductivity Software,Director HR for APAC,sent,sent
+2025-10-17T09:12:20.895800,1015,Preeti Msw,preeti.msw@wundermanthompson.com,Wunderman Thompson Commerce,Head Strategic HR & Leadership,sent,sent
+2025-10-17T09:12:40.912163,1016,Preeti Phansalkar,preeti.phansalkar@clariontech.com,Clarion Technologies,Head Of Human Resources,sent,sent
+2025-10-17T09:13:00.992767,1017,Preety Mehra,preety@cozentus.com,Cozentus,Head - Talent Acquisition,sent,sent
+2025-10-17T09:13:21.208881,1018,Prem Nair,prem.nair@toshiba-tsip.com,Toshiba Software (India),Senior Director Human Resources,sent,sent
+2025-10-17T09:13:41.338305,1019,Prerna Kohli,prerna.kohli@cyware.com,Cyware,Director Human Resources (India),sent,sent
+2025-10-17T09:14:01.444964,1020,Prince Kumar,prince.kumar@innohubtechnologies.com,Innohub Technologies Pte,Human Resources Director,sent,sent
+2025-10-17T09:14:21.669257,1021,Priscilla Francis,priscilla.f@mantralabsglobal.com,Mantra Labs,Head of HR,sent,sent
+2025-10-17T09:14:41.763983,1022,Pritha Das,pritha@near.com,Near,Director - People and Culture,sent,sent
+2025-10-17T09:15:01.964169,1023,Priti Mhatre,priti.mhatre@zaggle.in,Zaggle Prepaid Ocean Services,Senior Manager (Head- Human Resources),sent,sent
+2025-10-17T09:15:22.312460,1024,Priya Bagla,priya.bagla@fullestop.com,Fullestop,HR Director,sent,sent
+2025-10-17T09:15:42.428019,1025,Priya Bhogineni,priya.bhogineni@yexle.com,Yexle,Head of Human Resources,sent,sent
+2025-10-17T09:16:02.773663,1026,Priya Malhotra,priya.malhotra@daffodilsw.com,Daffodil Software,AVP Human Resources,sent,sent
+2025-10-17T09:16:22.868199,1027,Priya Malhotra,priya@flexasoft.com,Flexasoft,VP-Staffing,sent,sent
+2025-10-17T09:16:43.115207,1028,Priya Nair,priya@congruentindia.com,Congruent Info-Tech,Director - Human Resources,sent,sent
+2025-10-17T09:17:03.572909,1029,Priya Subramanian,priya.subramanian@talview.com,Talview,Head of HR,sent,sent
+2025-10-17T09:17:23.724591,1030,Priya Surana,priya@jungleegames.com,Junglee Games,Head Employee Experience & Talent Acquisition,sent,sent
+2025-10-17T09:17:43.874532,1031,Priya Tyagi,priya@quartic.ai,Quartic.ai,Head Of Human Resources,sent,sent
+2025-10-17T09:18:03.863996,1032,Priyadarshini Kachroo,priyadarshini@tatacliq.com,Tata CLiQ,Head of Corporate Planning and Strategy,sent,sent
+2025-10-17T09:18:25.910139,1033,Priyadarshini Torke,priyadarshini.torke@jobsforher.com,JobsForHer,AVP - HRBP,sent,sent
+2025-10-17T09:18:46.052639,1034,Priyanka Basak,priyanka.basak@cbnits.com,CBNITS,Head of Recruitment,sent,sent
+2025-10-17T09:19:06.256745,1035,Priyanka Grover,priyanka.grover@fifthnote.co,fifthnote,Function Head - Culture Building,sent,sent
+2025-10-17T09:19:26.616286,1036,Priyanka Jaiswal,pjaiswal@paktolus.com,Paktolus Solutions,Head Of Human Resources,sent,sent
+2025-10-17T09:19:46.907107,1037,Priyanka Madhala,priyankam@chimeratechnologies.com,Chimera Technologies,Head of Talent Acquisition,sent,sent
+2025-10-17T09:20:07.210936,1038,Priyanka Priyadarshini,priyanka.priyadarshini@hcl.com,Monster India,Head - HR (APAC & Gulf),sent,sent
+2025-10-17T09:20:27.285785,1039,Priyanka Roy,priyanka@freshersworld.com,Freshersworld.com,Head - HR & Operations,sent,sent
+2025-10-17T09:20:47.416993,1040,Priyanka Sharma,priyanka.s@decimaltech.com,Decimal Technologies,AVP HR (Talent and Culture),sent,sent
+2025-10-17T09:21:07.665743,1041,Priyanka Shukla,priyankashu@flock.com,Flock,Head - Total Rewards and HR Analytics,sent,sent
+2025-10-17T09:21:27.875581,1042,Priyom Barooah,priyom.barooah@kritikalvision.ai,KritiKal Solutions,Associate Vice President Human Resources,sent,sent
+2025-10-17T09:21:47.999573,1043,Prof Chro,prof.dutt@onebcg.com,ONE BCG,Head - People & Culture,sent,sent
+2025-10-17T09:22:08.105487,1044,Pronami Borah,pronami.borah@travclan.com,TravClan,People Operations Head,sent,sent
+2025-10-17T09:22:28.423646,1045,Puja Gupta,puja@affle.com,Affle,Associate Director Human Resources,sent,sent
+2025-10-17T09:22:48.939392,1046,Punitha Nagarajan,punitha.n@zucisystems.com,Zuci Systems,Head - Talent Acquisition,sent,sent
+2025-10-17T09:23:09.933605,1047,Purva Pandit,purvap@zenoti.com,Zenoti,Vice President - Talent Management,sent,sent
+2025-10-17T09:23:30.335333,1048,Pushpendra Yadav,pushpendra.y@cynetsystems.com,Cynet Systems Inc,Director - Recruiting Operations (RecOps),sent,sent
+2025-10-17T09:23:54.628291,1049,Pushpinder Singh,pushpinder.singh@se2.com,SE2,Global Head - Talent Acquisition,sent,sent
+2025-10-17T09:24:14.569682,1050,Rabi Agrawal,rabi@flobiz.in,FloBiz,Head of HR,sent,sent
+2025-10-17T09:24:34.668371,1051,Radhakrishna K,radhakrishnak@spanidea.com,SpanIdea Systems,Associate Director - HR,sent,sent
+2025-10-17T09:24:54.883941,1052,Radhakrishnan Nair,r.nair@suntecgroup.com,SunTec Business Solutions,Sr.Vice President and Head of HR,sent,sent
+2025-10-17T09:25:15.080486,1053,Radhika Boppana,radhika.boppana@blackstraw.ai,Blackstraw.ai,Chro,sent,sent
+2025-10-17T09:25:35.175295,1054,Radhika Khurana,radhika.khurana@impactanalytics.co,Impact Analytics,Chief People Officer,sent,sent
+2025-10-17T09:25:55.459975,1055,Raghava Krishna,raghava.krishna@nslhub.com,Brane Enterprises,Senior Group Solutions Leader (CHRO),sent,sent
+2025-10-17T09:26:15.752401,1056,Raghavendra,raghavendra@syscloud.com,SysCloud,Sr. Director Recruitment,sent,sent
+2025-10-17T09:26:35.849285,1057,Raghavendra Mesta,raghavendra@fidelisgroup.in,Fidelis Corporate Solutions,Vice President - HR,sent,sent
+2025-10-17T09:26:56.105131,1058,Raghunath Gawde,rgawde@softcell.com,Softcell Technologies Global,Corporate Head- Finance & HR,sent,sent
+2025-10-17T09:27:16.390513,1059,Ragini Mahapatra,ragini.m@seanergydigital.com,Seanergy Digital,Human Resources Director,sent,sent
+2025-10-17T09:27:36.687681,1060,Rahul Agrawal,rahul.a@softpath.net,Softpath System,Director & BU Head - Talent Acquisition,sent,sent
+2025-10-17T09:27:56.707262,1061,Rahul Bansode,rahul.bansode@digitalf5.com,Digital Refresh Networks,Head - Performance & Solutions E-commerce,sent,sent
+2025-10-17T09:28:18.041160,1062,Rahul Choudhury,rahul@netmagicsolutions.com,NTT DATA,Associate Vice President Human Resources,sent,sent
+2025-10-17T09:28:38.460921,1063,Rahul Inamdar,rahul.inamdar@infracloud.io,InfraCloud Technologies,Head of Talent Acquisition,sent,sent
+2025-10-17T09:28:58.810670,1064,Rahul Vishwanatham,rahul.vishawantham@vaave.com,Vaave,Head Of Human Resources,sent,sent
+2025-10-17T09:29:19.045846,1065,Raj Abubakkar,rabubakkar@amrepinspect.com,AMREP SUPPLIER MANAGEMENT SERVICES,Global Head Human Resources,sent,sent
+2025-10-17T09:29:39.540251,1066,Raj Agarwal,raj.agarwal@360degreecloud.in,360 Degree Cloud Technologies,Chief Recruitment Officer,sent,sent
+2025-10-17T09:29:59.746046,1067,Raj Bose,rajbose@avataar.me,Avataar.Me,Head of Talent Acquisition,sent,sent
+2025-10-17T09:30:20.384602,1068,Raj Kish,r.kish@selectsys.com,Selectsys India,Head of Human Resources,sent,sent
+2025-10-17T09:30:40.651508,1069,Raja Pamidi,raja.pamidi@nttdata.com,NTT DATA,Delivery Head- Talent Acquisition,sent,sent
+2025-10-17T09:31:00.920458,1070,Rajagopal,rajagopal@antra.com,"Antra,",Vice President - TA & IT Staffing,sent,sent
+2025-10-17T09:31:21.182493,1071,Rajani Patel,rajanip@resilienceitusa.com,Resilience InfoTech,Chief People Officer,sent,sent
+2025-10-17T09:31:41.418284,1072,Rajani Siddhartha,rajani.siddhartha@dreamorbit.com,DreamOrbit,Vice President - Human Resource,sent,sent
+2025-10-17T09:32:01.569271,1073,Rajashree Mahajan,m.rajashree@xangars.com,Xangars Solutions,Talent Acquisition Recruiter Head,sent,sent
+2025-10-17T09:32:21.824839,1074,Rajat Bansal,rajatb@damcogroup.com,Damco Solutions,Associate Vice President- HR,sent,sent
+2025-10-17T09:32:41.930131,1075,Rajat Das,rajat.das@ondemandagility.com,OnDemand Agility Solutions,Talent Acquisition Head,sent,sent
+2025-10-17T09:33:02.189721,1076,Rajat Mehra,rajat.mehra@nxtgen.com,NxtGen Infinite Datacenter,Head - Human Resources,sent,sent
+2025-10-17T09:33:22.350342,1077,Rajeeb Biswas,rajeeb@q3tech.com,Q3 Technologies,Director-HR & Admin,sent,sent
+2025-10-17T09:33:42.466922,1078,Rajeev Bhardwaj,rajeev.bhardwaj@sunlife.com,Sun Life,Chief Human Resources Officer,sent,sent
+2025-10-17T09:34:02.758269,1079,Rajeev S,rajeev.s@algonomy.com,Algonomy,Associate Director - Talent Acquisition,sent,sent
+2025-10-17T09:34:23.063643,1080,Rajeev Sen,rsen@medline.com,Medline India,Director Human Resources,sent,sent
+2025-10-17T09:34:43.156343,1081,Rajendra Bn,rajendra.bn@exilant.com,EXILANT Technologies,Head HR,sent,sent
+2025-10-17T09:35:03.314961,1082,Rajesh,rajeshn@techaffinity.com,TechAffinity,Director - HR,sent,sent
+2025-10-17T09:35:23.264521,1083,Rajesh A,rajesh@dremio.com,Dremio,Director HR - India,sent,sent
+2025-10-17T09:35:43.539744,1084,Rajesh Babu,rajesh.babu@softobiz.com,Softobiz Technologies,Head of Talent Acquisition,sent,sent
+2025-10-17T09:36:03.493792,1085,Rajesh Balasubramanian,rajeshb@coffeebeans.io,CoffeeBeans Consulting,Head of Talent Acquisition,sent,sent
+2025-10-17T09:36:23.585054,1086,Rajesh Kethepalle,rajesh.kethepalle@electrifai.net,ElectrifAi,Director Talent Acquisition,sent,sent
+2025-10-17T09:36:43.855257,1087,Rajesh Malhotra,rajeshm@damcogroup.com,Damco Solutions,AVP Staffing and Fixed Bid Projects,sent,sent
+2025-10-17T09:37:03.968931,1088,Rajesh Vadakevetil,rajesh@fissionlabs.com,Fission Labs,Head of Talent Acquisition,sent,sent
+2025-10-17T09:37:24.506981,1089,Rajesh Yadav,rajesh.yadav@gstn.org.in,Goods And Services Tax Network,Vice President & Head Human Resources,sent,sent
+2025-10-17T09:37:44.655020,1090,Rajitha Jaffer,rajitha.jaffer@jmrinfotech.com,JMR Infotech,DIRECTOR - HR and OPERATIONS,sent,sent
+2025-10-17T09:38:04.673352,1091,Rajiv Kumar,rkumar@cendyn.com,Cendyn,Director - Talent Acquisition,sent,sent
+2025-10-17T09:38:24.748623,1092,Rajneesh Malik,rajneesh.malik@mindtickle.com,Mindtickle,Sr. Director Global - Talent Acquisition,sent,sent
+2025-10-17T09:38:44.962614,1093,Rajni Bansal,rajni@growexx.com,Growexx,Head Of Human Resources,sent,sent
+2025-10-17T09:39:05.161587,1094,Rajni Noronha,rajni.noronha@cignex.com,CIGNEX Datamatics,AVP Talent Acquisition,sent,sent
+2025-10-17T09:39:25.379083,1095,Rajni Singh,rajni.singh@indinnovation.com,Ind Innovation,Head HR Manager at Ind Innovation Private Limited,sent,sent
+2025-10-17T09:39:45.530803,1096,Rajsekhar Dangeti,rajsekhar.dangeti@zensark.com,Zensark,"Director,Global Talent Acquisition",sent,sent
+2025-10-17T09:40:05.873798,1097,Raju Vatsavayi,raju.vatsavayi@nsight-inc.com,"Nsight,",Director - Human Resource,sent,sent
+2025-10-17T09:40:26.018201,1098,Rajyashree Rao,rajyashree@technodysis.com,Technodysis,HR and Operations Head,sent,sent
+2025-10-17T09:40:55.293883,1099,Rakesh Arora,rakesh.arora@skilrock.com,Skilrock Technologies,Group CHRO,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b060754sm25429894b3a.13 - gsmtp')"
+2025-10-17T09:41:24.159780,1100,Rakesh Arora,rakesh.arora@sugaldamani.com,Sugal & Damani,Group CHRO,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33bd79d4927sm2309056a91.9 - gsmtp')"
+2025-10-17T09:41:53.276847,1101,Rakesh Arora,rakesh@taazaa.com,Taazaa Inc,Head HR & Talent Acquisition,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992b06076bsm5827334b3a.4 - gsmtp')"
+2025-10-17T09:42:22.766967,1102,Rakesh Badam,rakesh.badam@tomiaglobal.com,TOMIA,Human Resources Director,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d2e1a72fcca58-7992d5b8135sm24754176b3a.68 - gsmtp')"
+2025-10-17T09:42:51.696276,1103,Rakesh Ebrahimpurkar,rakesh.e@63moons.com,IFTAS,Deputy Vice President - Human Resources,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-29099ab472dsm58062825ad.85 - gsmtp')"
+2025-10-17T09:43:21.659831,1104,Rakesh Kumar,rakesh.kumar@anetcorp.com,Alpha Net,Head of Recruitment Operations,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 41be03b00d2f7-b6a22fa1636sm5316212a12.39 - gsmtp')"
+2025-10-17T09:43:50.670415,1105,Rakesh Raj,rakesh@mergenit.com,Mergen IT LLC,"Vice President,IT - Staffing & Solutions",failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-290e3c883cfsm12030545ad.48 - gsmtp')"
+2025-10-17T09:44:19.540461,1106,Rakesh Vishwakarma,rakesh.vishwakarma@tejora.com,Tejora,AVP - STAFFING,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 98e67ed59e1d1-33bd7b31703sm2296346a91.15 - gsmtp')"
+2025-10-17T09:44:48.956329,1107,Rakshita Shharma,rakshita@easyeat.ai,Easy Eat AI,CHRO,failed,"smtp error after 3 attempts: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d9443c01a7336-290dae3c6cbsm17640385ad.102 - gsmtp')"
